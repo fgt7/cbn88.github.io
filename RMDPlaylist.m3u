@@ -1,8 +1,6 @@
 #EXTM3U
 
 // NASIONAL
-#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",R-Mediaplay
-https://cdn-cf-east.streamable.com/video/mp4/2wjup2.mp4?Expires=1608729900&Signature=VfdCAtZn56GI4Xb3D680~uVOBqnTXWTfsJ~ibrKVYMaGA09n-wkmlp4p9ze-MXEpQb~cNHozgzlnAABb~4QVHfAd16wTYoFsd7vY6y61woT8oW03lPHGWTcWofs4fds79IfGRLTSggw9X6mrt6Z6yGlaxrgSvyWA2hxZQT3jutBR~YCvpxbkVT4O~sBtqEfdSdAYnSIuFfsaY3TEFeDt5WP~sYQjF4PIOlO4B1mJ5uVYIprwLvWNJY6p67Ag-YdrlnT0Cr~bCvzXKoUIZCnwtrLdj10qoPUSMYW6ogmqycZsCrrMZ1ozyr-0bfG72S-8WKdBijQgezHBtk3h3OdUJQ__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 #EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",SCTV (1)
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",SCTV (2)
