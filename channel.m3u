@@ -371,6 +371,8 @@ http://rv.imax.re:80/307211117167/307211117167/78619
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MOVIE (USEE)", ZBIOSKOP
 https://cdn13jtedge.useetv.com/joss/14/zbioskop/chunklist_w455016226_b684100_sleng.m3u8?enc=cUx058VUw9_llTyw7DVutQ&uid=&exp=1613119342
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN
+https://edgejt6.useetv.com/joss/15/tvn/chunklist_w1781950966_b1344100_sleng.m3u8?enc=nJFTiEY9FS_bpVgfrCv8ig&uid=&exp=1613124497
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MOVIE (USEE)", TVN MOVIES
 https://cdn08jtedge.useetv.com/joss/15/tvnmovies/chunklist_w1916205635_b1344100_sleng.m3u8?enc=IEVx1t9N6nAifxfm1wjuuA&uid=&exp=1613121730
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIE (USEE)", THRILL
