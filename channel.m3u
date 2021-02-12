@@ -32,9 +32,9 @@ https://nonton.site:8443/novi/novi123/135
 #EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="INDONESIA", MOLA TV FREE
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="INDONESIA", CNN INDONESIA
-https://cdngb196.useetv.com/joss/15/cnnindonesia/chunklist_w574757227_b1344100_sleng.m3u8?enc=HnZxOeNDyDvIpieBno-3gQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041288
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="INDONESIA", CNBC INDONESIA
-https://cdngb196.useetv.com/joss/15/cnbcindonesia/chunklist_w1413390022_b1344100_sleng.m3u8?enc=tbq5kXRuOMkkHN_JOXexQQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041281
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_small.png?v=2.0.0.13" group-title="INDONESIA", DUNIA LAIN
 https://nonton.site:8443/novi/novi123/910
 #EXTINF: -1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-indonesia.jpg" group-title="INDONESIA", SINEMA INDONESIA
@@ -573,10 +573,6 @@ http://122.248.43.138:1935/ch26/myStream/live.m3u8
 http://122.248.43.138:1935/ch27/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", TVRI
 http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/D0khQk4R/logo-cnnindonesia-small1.png" group-title="INDONESIA BACKUP", CNN INDONESIA SD
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_cnbcid_small.png" group-title="INDONESIA BACKUP", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", JTV SURABAYA
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
