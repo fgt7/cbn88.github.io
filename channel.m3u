@@ -122,13 +122,25 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BEIN SPORT 1
-https://cdn11jtedge.useetv.com/joss/15/bein1/chunklist_w387711128_b1344100_sleng.m3u8?enc=bdKplSqT6QuHTFnsL5XBTQ&uid=&exp=1613130783
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-bein1
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BEIN SPORT 2
-https://cdn11jtedge.useetv.com/joss/15/bein2/chunklist_w1158512549_b1344100_sleng.m3u8?enc=zaMuYqF612UGk5oNSRMz6w&uid=&exp=1613130786
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA", USEE SPORTS 1
-https://cdn11jtedge.useetv.com/joss/15/useesport/chunklist_w1804896659_b1344100_sleng.m3u8?enc=zVC9YUERx_sz88b4ggDPuA&uid=&exp=1613130809
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-bein2
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Utama", FOX SPORT 1 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-foxsport1 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Utama", FOX SPORT 2 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-foxsport2 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Utama", FOX SPORT 3 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-foxsport3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA", USEE SPORTS 1
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useesport
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="OLAHRAGA", USEE SPORTS 2
-https://cdn11jtedge.useetv.com/joss/15/useesports2/chunklist_w1815865825_b1344100_sleng.m3u8?enc=p-A74S_-O0XRuyBokuPskQ&uid=&exp=1613130812
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-useesports2
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Utama", GOLF 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-golfplus 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports Utama", NBA 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-nba 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", EGG TV 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-egg
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="OLAHRAGA", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="OLAHRAGA", FIGHT SPORTS
@@ -141,16 +153,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5ff54764258573.Y3JvcCwxMjA4LDk0NiwzNDYsMTQ.jpg" group-title="OLAHRAGA", DUBAI HORSE RACING
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/WHR7L1x/ONE-GOLF.jpg" group-title="OLAHRAGA", GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="OLAHRAGA", NBA
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="OLAHRAGA", CHAMPION TV 1
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="OLAHRAGA", CHAMPION TV 2
