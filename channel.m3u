@@ -59,38 +59,38 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
 
 
-#EXTINF: -1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK", BIZNET KIDZ
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-gpGISfdsY_o/WOgkkZr8rrI/AAAAAAAAiZ0/vZRtSOBChGUiZIgAEuKepBWxZeWSN6s7gCLcB/s1600/toonmax-tv-channel-logo.png" group-title="ANAK-ANAK", TOONMAX
-http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="ANAK-ANAK", NICK JUNIOR
-https://cdn11jtedge.useetv.com/joss/14/nickjr/chunklist_w1378539906_b684100_sleng.m3u8?enc=RSIxLyi00vLaVuXncS773Q&uid=&exp=1613118866
+https://cdn11jtedge.useetv.com/joss/14/nickjr/chunklist_w183658177_b684100_sleng.m3u8?enc=XL5wTtvOi30ZCnhGu1jXQQ&uid=&exp=1613129674
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="ANAK-ANAK", NICKELODEON
-https://cdn11jtedge.useetv.com/joss/14/nickelodeon/chunklist_w98797642_b684100_sleng.m3u8?enc=xAP8yc30X9n9eK_SayF4aw&uid=&exp=1613118863
+https://cdn11jtedge.useetv.com/joss/14/nickelodeon/chunklist_w98797642_b684100_sleng.m3u8?enc=yMbvZSx0vp6zRhoGvb-mSA&uid=&exp=1613131536
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="ANAK-ANAK", M KIDZ
 https://cdn11jtedge.useetv.com/joss/14/mykids/chunklist_w706587791_b894100_sleng.m3u8?enc=iXaaDvWq0zlWNgaBoAs4fA&uid=&exp=1613118861
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="ANAK-ANAK", BABY FIRST
+https://cdn11jtedge.useetv.com/joss/14/babyfirst/chunklist_w1619638790_b684100_sleng.m3u8?enc=RFGQI4KRlDrMBGNjeg_SDA&uid=&exp=1613131507
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DUCK TV
+https://cdn11jtedge.useetv.com/joss/14/ducktv/chunklist_w1459893446_b684100_sleng.m3u8?enc=XadHy8M0YLBwXmiyPs9kMA&uid=&exp=1613131522
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="ANAK-ANAK", BOOMERANG
+https://cdn11jtedge.useetv.com/joss/14/boomerang/chunklist_w1518222454_b684100_sleng.m3u8?enc=TlXs4IEzB_cixkDQwEfpbQ&uid=&exp=1613129645
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="ANAK-ANAK", CARTOON NETWORK
+https://cdn11jtedge.useetv.com/joss/14/cartoonnetwork/chunklist_w1063129252_b684100_sleng.m3u8?enc=CMqVukq6bIrxEstLIJL2OQ&uid=&exp=1613129649
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DUNIA ANAK
+https://cdn11jtedge.useetv.com/joss/14/duniaanak/chunklist_w1994219696_b684100_sleng.m3u8?enc=0LEk_HVcTu1kwx6tZkGtuw&uid=&exp=1613129660
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DA VINCI LEARNING
+https://cdn11jtedge.useetv.com/joss/14/davinci/chunklist_w1930927773_b684100_sleng.m3u8?enc=JlocQ8Ts0vGthfElYudytA&uid=&exp=1613129651
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DREAMWORKS
+https://cdn11jtedge.useetv.com/joss/15/dreamworks/chunklist_w1001794377_b1344100_sleng.m3u8?enc=bJ7-kSSdMdp9zz9jT7U9Sw&uid=&exp=1613129654
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="ANAK-ANAK", HIPHIP HOREE
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="ANAK-ANAK", BABY FIRST
-https://cdn11jtedge.useetv.com/joss/14/babyfirst/chunklist_w1619638790_b684100_sleng.m3u8?enc=WOaSRANBbRoVocYXfDKPTg&uid=&exp=1613118841
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="ANAK-ANAK", HOREE
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DUCK TV
-https://cdn11jtedge.useetv.com/joss/14/ducktv/chunklist_w1459893446_b684100_sleng.m3u8?enc=SBoLMRwIohCKDTSKLxccVw&uid=&exp=1613118854
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="ANAK-ANAK", BOOMERANG
-https://cdn11jtedge.useetv.com/joss/14/boomerang/chunklist_w1518222454_b684100_sleng.m3u8?enc=ycULraSVd5dtYB7M_az_EA&uid=&exp=1613118844
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="ANAK-ANAK", CARTOON NETWORK
-https://cdn13jtedge.useetv.com/joss/14/cartoonnetwork/chunklist_w1063129252_b684100_sleng.m3u8?enc=5OJyItBt-c7X8NCtan_dpw&uid=&exp=1613122448
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DUNIA ANAK
-https://cdn11jtedge.useetv.com/joss/14/duniaanak/chunklist_w1994219696_b684100_sleng.m3u8?enc=OqXKJiTA3ZMKFrmQCPKv9Q&uid=&exp=1613120721
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DA VINCI LEARNING
-https://cdn11jtedge.useetv.com/joss/14/davinci/chunklist_w1930927773_b684100_sleng.m3u8?enc=2cFXPAi-R81Y7oGh3qE1Jw&uid=&exp=1613118849
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="ANAK-ANAK", DREAMWORKS
-https://cdn11jtedge.useetv.com/joss/15/dreamworks/chunklist_w1001794377_b1344100_sleng.m3u8?enc=qFy8ZsdEw1Is4K-rBYCDUA&uid=&exp=1613118852
 #EXTINF: -1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="ANAK-ANAK", ZOO MOO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="ANAK-ANAK", DAVINCI
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF: -1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK", BIZNET KIDZ
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-gpGISfdsY_o/WOgkkZr8rrI/AAAAAAAAiZ0/vZRtSOBChGUiZIgAEuKepBWxZeWSN6s7gCLcB/s1600/toonmax-tv-channel-logo.png" group-title="ANAK-ANAK", TOONMAX
+http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", NAT GEO WILD
