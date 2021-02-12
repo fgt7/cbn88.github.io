@@ -151,11 +151,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="OLAHRAGA", CHAMPION TV 1 (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="OLAHRAGA", CHAMPION TV 1
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="OLAHRAGA", CHAMPION TV 2 (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="OLAHRAGA", CHAMPION TV 2
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="OLAHRAGA", CHAMPION TV 3 (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="OLAHRAGA", CHAMPION TV 3
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2018/11/premier-league-logo-2016_square.png" group-title="OLAHRAGA", PREMIER HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -444,29 +444,29 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tv5monde
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="RELIGI", CITRA MUSLIM
-https://etslive-2-vidio-com.akamaized.net/exp=1613122030~acl=/hls-p/ingest_6678_*/*~hmac=ae27b6460debda15ad8a9b7f5c4d042904065303efa06feec16d675cc19228c9/hls-p/ingest_6678_720p/index.m3u8
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6678
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI", RODJA TV
-https://cdn08jtedge.useetv.com/joss/14/rodjatv/chunklist_w1727338549_b684100_sleng.m3u8?enc=OuMosroxCRGF3RExo4mh9A&uid=&exp=1613120116 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-rodjatv 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI", TAWAF TV
-https://cdn08jtedge.useetv.com/joss/14/tawaftv/chunklist_w1720226199_b684100_sleng.m3u8?enc=w9UuiK6mmMpvya_43E0-jg&uid=&exp=1613120119
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tawaftv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="RELIGI", MTA TV
-https://cdn08jtedge.useetv.com/joss/14/mtatv/chunklist_w246883035_b684100_sleng.m3u8?enc=LnILwMCJ9MyGnh0NZJ4blw&uid=&exp=1613121973
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-mtatv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI", MUI TV
-https://cdn08jtedge.useetv.com/joss/14/muitv/chunklist_w1795830692_b684100_sleng.m3u8?enc=3oC6mVD5Vkq1Kjpljlx4og&uid=&exp=1613120113
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-muitv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", ALQURAN KAREEM
-https://cdn08jtedge.useetv.com/joss/14/alquran/chunklist_w86829645_b684100_sleng.m3u8?enc=Y5JoX2VgvMWwgPZkt0xcng&uid=&exp=1613120102 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-alquran
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="RELIGI", MQTV
-https://cdn08jtedge.useetv.com/joss/14/mqtv/chunklist_w525125160_b684100_sleng.m3u8?enc=2GXnBGE2b4f6exRg8V9vsg&uid=&exp=1613121970
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-mqtv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI", TV9 NU
-https://cdn08jtedge.useetv.com/joss/14/tv9/chunklist_w1170196377_b684100_sleng.m3u8?enc=Mc_cQFm-_wxVXY0YfJSnaw&uid=&exp=1613120122
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tv9
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", MUHAMMADIYAH TV
-https://cdn08jtedge.useetv.com/joss/14/muhammadiyahtv/chunklist_w1156369566_b684100_sleng.m3u8?enc=xQmBXE6IWOsmEyfKHJzBqA&uid=&exp=1613120110 
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-muhammadiyahtv 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", AJWA TV
-https://etslive-2-vidio-com.akamaized.net/exp=1613120903~acl=/hls-p/ingest_7464_*/*~hmac=ad0f3b268ff6dee0b497525cdc9880132fb747af507aa87418fc4b0691d34f0c/hls-p/ingest_7464_720p/index.m3u8
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-7464
 #EXTINF: -1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="RELIGI", ALQURAN KAREEM
-https://etslive-2-vidio-com.akamaized.net/exp=1613120882~acl=/hls-p/ingest_6852_*/*~hmac=7c050d5df5fde845d2edf08eef85b2b48ac811b4251a4317a7f1f86325b76f19/hls-p/ingest_6852_720p/index.m3u8
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6852
 #EXTINF: -1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI", REFORMED 21
-https://etslive-2-vidio-com.akamaized.net/exp=1613120603~acl=/hls-p/ingest_6853_*/*~hmac=107c7bbbe483d41f14c2dde5f66c7a66af38bf92ae60d3f7948ccd06339be7ac/hls-p/ingest_6853_720p/index.m3u8
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6853
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="RELIGI", U CHANNEL
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6898 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="RELIGI", MEKKAH TV
