@@ -59,6 +59,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.f9f3cfcf719c3d4fcc284063a7e68aff.SHINTA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" group-title="INDONESIA", OCHANNEL
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
+
 #EXTINF: -1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-gpGISfdsY_o/WOgkkZr8rrI/AAAAAAAAiZ0/vZRtSOBChGUiZIgAEuKepBWxZeWSN6s7gCLcB/s1600/toonmax-tv-channel-logo.png" group-title="ANAK-ANAK", TOONMAX
@@ -91,6 +92,7 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-dreamworks
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="ANAK-ANAK", DAVINCI
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
+
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", NAT GEO WILD
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-natgeowild
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", NATIONAL GEOGRAPHIC
@@ -117,76 +119,7 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-crimeinvestigation
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-lingua
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="PENGETAHUAN", TV EDUKASI
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://apkplz.net/storage/images/com/zqtv/live/com.zqtv.live_1.png" group-title="USEE TV", ZQ DRAMA
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_axn_small.png?v=2.0.0.13" group-title="USEE TV", AXN
-https://cdngb196.useetv.com/joss/15/axn/chunklist_w591004727_b1344100_sleng.m3u8?enc=bmy-T0ssT7Ho4Do2Av_Vhg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043150
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_citradrama_small.png?v=2.0.0.15" group-title="USEE TV", CITRA DRAMA
-https://cdngb196.useetv.com/joss/14/cdrama/chunklist_w19855542_b684100_sleng.m3u8?enc=T74viwuE0Q9WFgLbo-GaRA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041278
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_small.png?v=2.0.0.13" group-title="USEE TV", DUNIA LAIN
-https://cdngb196.useetv.com/joss/14/dunialain/chunklist_w612135113_b684100_sleng.m3u8?enc=HtqT10ZYqO4qXxWxXu_Qrg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041278
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_arirang_small.png" group-title="USEE TV", ARIRANG
-https://cdngb196.useetv.com/joss/14/arirang/chunklist_w1283519683_b684100_sleng.m3u8?enc=eBIcdkBl0Yw6xf3tg24lyQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041281
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_animax_small.png" group-title="USEE TV", ANIMAX
-https://cdngb196.useetv.com/joss/14/animax/chunklist_w670971791_b684100_sleng.m3u8?enc=ikCG897ii0RBTKEpqDLgJw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041283
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="USEE TV", TVN
-https://cdngb196.useetv.com/joss/15/tvn/chunklist_w1852064989_b1344100_sleng.m3u8?enc=A-FljRwhIm7zPeSK9EEczQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041285
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_small.png" group-title="USEE TV", KBS WORLD
-https://cdngb196.useetv.com/joss/15/kbsworld/chunklist_w622939291_b1344100_sleng.m3u8?enc=R4FjS3E4_O4F4OX61RF82Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041286
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_blueantext_small.png" group-title="USEE TV", BLUE ANT EXTREME
-https://cdngb196.useetv.com/joss/14/blueantextreme/chunklist_w62661960_b684100_sleng.m3u8?enc=WkZgJq17Am0Zj-F5gB-zJw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041287
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_abcaustralia_small.png" group-title="USEE TV", ABC AUSTRALIA
-https://cdngb196.useetv.com/joss/15/abcaustralia/chunklist_w438198487_b684100_sleng.m3u8?enc=ScLZX4bNGefkz2QE1gYNrg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043153
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_chinesedrama_big.png?v=2.0.0.13" group-title="USEE TV", CHINESE DRAMA
-https://cdngb196.useetv.com/joss/14/chinesedrama/chunklist_w1313310173_b684100_sleng.m3u8?enc=OcNwHGbArueozZmH_v030g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041288
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_lifetime_small.png" group-title="USEE TV", LIFETIME
-https://cdngb196.useetv.com/joss/14/lifetime/chunklist_w1751860066_b684100_sleng.m3u8?enc=zjjtKtFREsX-qmBKRIZMKA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043154
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_history_small.png?v=2.0.0.13" group-title="USEE TV", HISTORY
-https://cdngb196.useetv.com/joss/15/history/chunklist_w1396218731_b1344100_sleng.m3u8?enc=cqHY3mhAOezaW4cUnA2VjQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041289
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kix_small.png?v=2.0.0.13" group-title="USEE TV", KIX
-https://cdngb196.useetv.com/joss/15/kix/chunklist_w2082659744_b1344100_sleng.m3u8?enc=GDYzompwj6gcjfBWdmQ30A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041291
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_wakuwaku_small.png?v=2.0.0.13" group-title="USEE TV", WAKU WAKU JAPAN
-https://cdngb196.useetv.com/joss/15/wakuwaku/chunklist_w329762911_b1344100_sleng.m3u8?enc=p2zi9rS1NlipAdmfLZo29w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043158
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_warner_small.png?v=2.0.0.13" group-title="USEE TV", WARNER
-https://cdngb196.useetv.com/joss/15/warner/chunklist_w680993678_b1344100_sleng.m3u8?enc=BFQqT4MGUkXcLbFfCgXcLg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041294
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_aniplus_small1.png?v=2.0.0.13" group-title="USEE TV", ANIPLUS
-https://cdngb196.useetv.com/joss/14/aniplus/chunklist_w1548277322_b684100_sleng.m3u8?enc=Yx7BkKlUsMLHqlsO_YdIcg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041294
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_cctv4_small1.png?v=2.0.0.13" group-title="USEE TV", CCTV4
-https://cdngb196.useetv.com/joss/14/cctv4/chunklist_w1735072105_b684100_sleng.m3u8?enc=QlYk5bdeAJCAFN5LjYlGXA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041294
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_nhkworld_small.png?v=2.0.0.13" group-title="USEE TV", NHK WORLD JAPAN
-https://cdngb196.useetv.com/joss/14/nhkworld/chunklist_w342086043_b684100_sleng.m3u8?enc=50arfhG3X1OZtl7XW3cbLw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041296
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sgem_small.png?v=2.0.0.13" group-title="USEE TV", SGEM
-https://cdngb196.useetv.com/joss/15/sgem/chunklist_w130146390_b684100_sleng.m3u8?enc=fsVAebXkzktqILhCbhpYXQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041297
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sone_small.png?v=2.0.0.13" group-title="USEE TV", SONE
-https://cdngb196.useetv.com/joss/15/sone/chunklist_w1240334690_b684100_sleng.m3u8?enc=y73Zl5ze4NvFh135Q-gMrg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041298
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kplus_small1.png?v=2.0.0.13" group-title="USEE TV", KPLUS
-https://cdngb196.useetv.com/joss/15/kplus/chunklist_w2028675062_b1344100_sleng.m3u8?enc=WPhmIXvhoaSJzkuKxNCYpw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041295
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_outdoor_small.png?v=1.1" group-title="USEE TV", OUTDOOR CHANNEL
-https://cdngb196.useetv.com/joss/14/outdoor/chunklist_w555635814_b944100_sleng.m3u8?enc=ZYQLIK_bkpLkL0PJXE5I8A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041299
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_eljhon_small.png?v=1.1" group-title="USEE TV", EL JOHN TV
-https://cdngb196.useetv.com/joss/14/eljohn/chunklist_w962305626_b944100_sleng.m3u8?enc=JSsHSqZQxJPM-IrPtwD11Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041300
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rodjatv_small1.png?v=2.0.0.13" group-title="USEE TV", RODJA TV
-https://cdngb196.useetv.com/joss/14/rodjatv/chunklist_w1526403385_b684100_sleng.m3u8?enc=-cBh5PVEttg1oyEX0leFbQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041316
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tawaftv_small.png" group-title="USEE TV", TAWAF TV
-https://cdngb196.useetv.com/joss/14/tawaftv/chunklist_w2100906718_b684100_sleng.m3u8?enc=ncOWSzV5oYd8bunqkIDrTw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041307
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_alquran_small1.png?v=2.0.0.13" group-title="USEE TV", ALQURAN KAREEM
-https://cdngb196.useetv.com/joss/14/alquran/chunklist_w1686843812_b684100_sleng.m3u8?enc=Et1wWkC52Sl1N1qD0mLrjg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041304
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mqtv_small1.png?v=2.0.0.13" group-title="USEE TV", MQTV
-https://cdngb196.useetv.com/joss/14/mqtv/chunklist_w1907271963_b684100_sleng.m3u8?enc=O9CCutPIt-B-neDYYnBz-g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041307
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tv9_small.png?v=2.0.0.13" group-title="USEE TV", TV9 NU
-https://cdngb196.useetv.com/joss/14/tv9/chunklist_w1914875438_b684100_sleng.m3u8?enc=ExmpHzwXTvEWUKwEcCP13Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041303
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="USEE TV", MUHAMMADIYAH TV
-https://cdngb196.useetv.com/joss/14/muhammadiyahtv/chunklist_w16990152_b684100_sleng.m3u8?enc=SE8gLBfG8adAYqaEInIllQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041315
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indishopping_big.png" group-title="USEE TV", INDIHOME SHOPPING
-https://cdngb196.useetv.com/joss/14/indishopping/chunklist_w993180455_b894100_sleng.m3u8?enc=BZwtdf3uLAvxSg1X7jq5Fw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043129
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mshop_small.png?v=1.1" group-title="USEE TV", M SHOP
-https://cdngb196.useetv.com/joss/14/mncshop/chunklist_w221226268_b684100_sleng.m3u8?enc=XsPfUKzEpMUojuyQiLZ6bg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041264
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_eatgo_small1.png?v=2.0.0.13" group-title="USEE TV", EAT & GO
-https://cdngb196.useetv.com/joss/14/eatgo/chunklist_w2017290335_b684100_sleng.m3u8?enc=f6n6NQHLDheYI67ehGGE9A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041273
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_hgtv_small.png" group-title="USEE TV", HGTV
-https://cdngb196.useetv.com/joss/15/hgtv/chunklist_w887343197_b1344100_sleng.m3u8?enc=oNNBJWv2vPdh3EyPQvxELA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043139
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_afc_small.png?v=2.0.0.17" group-title="USEE TV", ASIAN FOOD NETWORK
-https://cdngb196.useetv.com/joss/15/afc/chunklist_w1811480770_b1344100_sleng.m3u8?enc=e7BD1AegzfWsBeddRbyttQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041277
+
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="OLAHRAGA", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="OLAHRAGA", FIGHT SPORTS
@@ -243,32 +176,7 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-champion2
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="OLAHRAGA", TVS BOXING HD
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", BEIN SPORT 1
-https://cdngb196.useetv.com/joss/15/bein1/chunklist_w521029016_b1344100_sleng.m3u8?enc=v5pxgoxQ8lT_FFcZtstQVg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041252
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", BEIN SPORT 2
-https://cdngb196.useetv.com/joss/15/bein2/chunklist_w1571381306_b1344100_sleng.m3u8?enc=FASomq2jbZ24vehO0HAAeg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041252
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", FOX SPORT 1
-https://cdngb196.useetv.com/joss/15/foxsport1/chunklist_w2091306089_b1344100_sleng.m3u8?enc=lMxZofc1y2jSTaAgd_CeCg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043119
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", FOX SPORT 2
-https://cdngb196.useetv.com/joss/15/foxsport2/chunklist_w377225444_b1344100_sleng.m3u8?enc=dQF5oZlzsL8Z-HWlBdIarw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043120
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", FOX SPORT 3
-https://cdngb196.useetv.com/joss/15/foxsport3/chunklist_w1945358621_b1344100_sleng.m3u8?enc=GSGtC1NYA7KIEdICofS22w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043121
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", NBA
-https://cdngb196.useetv.com/joss/15/nba/chunklist_w518053011_b1344100_sleng.m3u8?enc=ulonXoyPRJNaBWZJcM6Qgg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043116
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="OLAHRAGA [USEETV]", GOLF
-https://cdngb196.useetv.com/joss/15/golfplus/chunklist_w206234673_b1344100_sleng.m3u8?enc=SkMD1cPh_LfocIb2tdgZrg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041263
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", USEE SPORT 1
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w540253875_b1344100_sleng.m3u8?enc=Me0UI7vs_2iQ5boZ7AM-QQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041267
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="OLAHRAGA [USEETV]", USEE SPORT 2
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1064472836_b1344100_sleng.m3u8?enc=DDzU9zCzBpajXJNud6BAGg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041275
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="OLAHRAGA [USEETV]", CHAMPION TV 1
-https://cdngb196.useetv.com/joss/15/champion1/chunklist_w1674000076_b1344100_sleng.m3u8?enc=rRfPzcepYbaqz_33O_klEg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041253
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="OLAHRAGA [USEETV]", CHAMPION TV 2
-https://cdngb196.useetv.com/joss/15/champion2/chunklist_w1635064601_b1344100_sleng.m3u8?enc=hSbMgRXrxQuWVTZ06D-59Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613041253
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA [USEETV]", eGG TV
-https://cdngb196.useetv.com/joss/14/egg/chunklist_w1515344562_b684100_sleng.m3u8?enc=izFIheiPmgYBE7ZQy6HKZQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613043156
-#EXTINF: -1 tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="OLAHRAGA [USEETV]", ZQ SPORT
-http://iptv.zqstream.com/zqsport-gen/video.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="OLAHRAGA 2", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="OLAHRAGA 2", FOX SPORTS 1 ASIA
@@ -329,6 +237,7 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 http://ott-cdn.ucom.am/s81/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="OLAHRAGA 2", SETANTA SPORT 2
 http://ott-cdn.ucom.am/s82/03.m3u8
+
 #EXTINF: -1 tvg-name="VIP SPORT: SKY SPORT NEWS (UK)" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="OLAHRAGA DUNIA", SKY SPORT NEWS (UK)
 http://superbest.faststream.link:8080/Masecchino/gian/189031
 #EXTINF: -1 tvg-name="VIP SPORT: SKY SPORTS FOOTBALL (UK)" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="OLAHRAGA DUNIA", SKY SPORTS FOOTBALL (UK)
@@ -389,6 +298,7 @@ http://superbest.faststream.link:8080/Masecchino/gian/189110
 http://superbest.faststream.link:8080/Masecchino/gian/189111
 #EXTINF: -1 tvg-name="VIP SPORT: WWE Network (US)" tvg-logo="https://www.pngitem.com/pimgs/m/94-949774_seth-rollins-logo-png-logo-wwe-png-transparent.png" group-title="OLAHRAGA DUNIA", WWE Network (US)
 http://superbest.faststream.link:8080/Masecchino/gian/189112
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA LIVE", Astro SuperSport 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA LIVE", Astro SuperSport 2
@@ -473,6 +383,7 @@ http://213.152.161.254:8080/upl2_2.m3u8
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="OLAHRAGA LIVE", BEIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORT HD
 http://rv.imax.re:80/307211117167/307211117167/78620
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORT NEWS HD
@@ -511,6 +422,7 @@ http://rv.imax.re:80/307211117167/307211117167/78603
 http://rv.imax.re:80/307211117167/307211117167/78565
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", |AR|BEIN SPORTS NBA HD
 http://rv.imax.re:80/307211117167/307211117167/78619
+
 #EXTINF: -1 tvg-logo="https://iconape.com/wp-content/files/fs/283200/svg/283200.svg" group-title="BOSS MOVIES HD", BOSS MOVIES 1 HD
 http://rv.imax.re:80/307211117167/307211117167/80436
 #EXTINF: -1 tvg-logo="https://iconape.com/wp-content/files/fs/283200/svg/283200.svg" group-title="BOSS MOVIES HD", BOSS MOVIES 2 HD
@@ -533,6 +445,7 @@ http://rv.imax.re:80/307211117167/307211117167/80428
 http://rv.imax.re:80/307211117167/307211117167/80427
 #EXTINF: -1 tvg-logo="https://iconape.com/wp-content/files/fs/283200/svg/283200.svg" group-title="BOSS MOVIES HD", BOSS MOVIES KEMAL SUNAL
 http://rv.imax.re:80/307211117167/307211117167/80426
+
 #EXTINF: -1 tvg-logo="https://hmrtechnologie.com/60-home_default/entertainment-advcance-anuel.jpg" group-title="BEIN ENTERTAINMENT HD", |AR|BEIN SERIES 1 HD
 http://rv.imax.re:80/307211117167/307211117167/78837
 #EXTINF: -1 tvg-logo="https://hmrtechnologie.com/60-home_default/entertainment-advcance-anuel.jpg" group-title="BEIN ENTERTAINMENT HD", |AR|BEIN SERIES 2 HD
@@ -603,6 +516,7 @@ http://rv.imax.re:80/307211117167/307211117167/80528
 http://rv.imax.re:80/307211117167/307211117167/80527
 #EXTINF: -1 tvg-logo="https://hmrtechnologie.com/60-home_default/entertainment-advcance-anuel.jpg" group-title="BEIN ENTERTAINMENT HD", |TR|BEIN BOX OFFICE 3 HD
 http://rv.imax.re:80/307211117167/307211117167/80526
+
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MOVIE (USEE)", ZBIOSKOP
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-zbioskop
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MOVIE (USEE)", TVN MOVIES
@@ -623,6 +537,7 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-galaxy
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-galaxypremium
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIE (USEE)", IMC
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-imc
+
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA BACKUP", ANTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA BACKUP", INDOSIAR
@@ -761,6 +676,7 @@ http://122.248.43.138:1935/ch10/myStream/live.m3u8
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsfP6v2S/BETV.png" group-title="INDONESIA BACKUP", BETV Bengkulu
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="TVRI NASIONAL", TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="TVRI NASIONAL", TVRI SPORT
