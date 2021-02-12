@@ -99,28 +99,36 @@ https://cdn13jtedge.useetv.com/joss/15/natgeowild/chunklist_w1399060848_b1344100
 https://cdn13jtedge.useetv.com/joss/15/natgeo/chunklist_w1403107926_b1344100_sleng.m3u8?enc=bCTNppCM27N1gJHfg32xSQ&uid=&exp=1613121250
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", NAT GEO PEOPLE
 https://cdn13jtedge.useetv.com/joss/15/natgeopeople/chunklist_w33682466_b1344100_sleng.m3u8?enc=Ax3pX-yPabzGKdxOVrOiRw&uid=&exp=1613123118
-#EXTINF: -1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="PENGETAHUAN", LOVE NATURE
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="PENGETAHUAN", ANIMAL PLANET HD
-http://tvfs.ml:80/Priscila/123456/15074
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", DISCOVERY CHANNEL
 https://cdn13jtedge.useetv.com/joss/15/disco/chunklist_w332131514_b1344100_sleng.m3u8?enc=1_SnTfT4SgJOjvc2MRxS3g&uid=&exp=1613123112
-#EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="PENGETAHUAN", BIZNET ADVENTURE 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", HISTORY
 https://cdn12jtedge.useetv.com/joss/15/history/chunklist_w1268389203_b1344100_sleng.m3u8?enc=mKLHC_lEjYmeDQovGchgcA&uid=&exp=1613120859
-#EXTINF: -1 tvg-logo="https://i.ibb.co/9GNB29H/smith.pnghttps://i.ibb.co/9GNB29H/smith.png" group-title="PENGETAHUAN", SMITHSONIAN
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="PENGETAHUAN", CGTN DOCUMENTARY
 https://cdn13jtedge.useetv.com/joss/14/cgtndocumentary/chunklist_w1175835096_b684100_sleng.m3u8?enc=mFmClQYfjPcJJYcio0B1Dw&uid=&exp=1613123109
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="PENGETAHUAN", CRIME INVESTIGATION
 https://cdn13jtedge.useetv.com/joss/15/crimeinvestigation/chunklist_w2072452208_b684100_sleng.m3u8?enc=RZ5K2H1trXa216WawcvI_w&uid=&exp=1613121242
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="PENGETAHUAN", LINGUA
 https://cdn13jtedge.useetv.com/joss/15/lingua/chunklist_w719684165_b684100_sleng.m3u8?enc=BmVXQ686VxE6y-VhvtwqfA&uid=&exp=1613123123
+#EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="PENGETAHUAN", BIZNET ADVENTURE 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="PENGETAHUAN", ANIMAL PLANET HD
+http://tvfs.ml:80/Priscila/123456/15074
+#EXTINF: -1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="PENGETAHUAN", LOVE NATURE
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9GNB29H/smith.pnghttps://i.ibb.co/9GNB29H/smith.png" group-title="PENGETAHUAN", SMITHSONIAN
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="PENGETAHUAN", TV EDUKASI
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
 
 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BEIN SPORT 1
+https://cdn08jtedge.useetv.com/joss/15/bein1/chunklist_w92139710_b1344100_sleng.m3u8?enc=75ZmIxIRr4-M_SOuDV7HAA&uid=&exp=1613119982
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BEIN SPORT 2
+https://cdn08jtedge.useetv.com/joss/15/bein2/chunklist_w95660357_b1344100_sleng.m3u8?enc=5KuwH77z4f9iERAoKGx1Rg&uid=&exp=1613121851
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA", USEE SPORTS 1
+https://cdn08jtedge.useetv.com/joss/15/useesport/chunklist_w640191954_b1344100_sleng.m3u8?enc=DUubKFiET7IqnbQ_UgdxiA&uid=&exp=1613121870
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="OLAHRAGA", USEE SPORTS 2
+https://cdn08jtedge.useetv.com/joss/15/useesports2/chunklist_w1647790219_b1344100_sleng.m3u8?enc=7kAD9OZID8XuN3KMziwCDQ&uid=&exp=1613120007
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="OLAHRAGA", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="OLAHRAGA", FIGHT SPORTS
@@ -149,14 +157,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="OLAHRAGA", CHAMPION TV 3 (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BEIN SPORT 1
-https://cdn08jtedge.useetv.com/joss/15/bein1/chunklist_w92139710_b1344100_sleng.m3u8?enc=75ZmIxIRr4-M_SOuDV7HAA&uid=&exp=1613119982
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BEIN SPORT 2
-https://cdn08jtedge.useetv.com/joss/15/bein2/chunklist_w95660357_b1344100_sleng.m3u8?enc=5KuwH77z4f9iERAoKGx1Rg&uid=&exp=1613121851
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA", USEE SPORTS 1
-https://cdn08jtedge.useetv.com/joss/15/useesport/chunklist_w640191954_b1344100_sleng.m3u8?enc=DUubKFiET7IqnbQ_UgdxiA&uid=&exp=1613121870
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="OLAHRAGA", USEE SPORTS 2
-https://cdn08jtedge.useetv.com/joss/15/useesports2/chunklist_w1647790219_b1344100_sleng.m3u8?enc=7kAD9OZID8XuN3KMziwCDQ&uid=&exp=1613120007
 #EXTINF: -1 tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2018/11/premier-league-logo-2016_square.png" group-title="OLAHRAGA", PREMIER HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2018/11/premier-league-logo-2016_square.png" group-title="OLAHRAGA", PREMIER HD 2
