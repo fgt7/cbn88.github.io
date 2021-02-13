@@ -23,7 +23,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://gratismkctv.net/oxygen.m3u8?channel=tvone
 #EXTINF: -1 tvg-id="RIYAN.e8813b7c0a6a7f62fd470a9418e8bf1d.SHINTA" tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="INDONESIA", METRO TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-id="RIYAN.f5bc0d3185db9489f4171a2b91caf32b.SHINTA" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA", NET TV
+#EXTINF: -1 tvg-id="RIYAN.f5bc0d3185db9489f4171a2b91caf32b.SHINTA" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA", NET HD
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.b66d1fa6a74595b8e5e2821b0f0d69c7.SHINTA" tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="INDONESIA", KOMPAS TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
@@ -47,7 +47,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.bb1932299b049da1b2fbd7127ad0f0a3.SHINTA" tvg-logo="https://www.useetv.com/pimages/logo_jaktv_small1.png?v=2.0.0.13" group-title="INDONESIA", JAKTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-id="RIYAN.2f3675da7ff68f83811e74f7b85e579a.SHINTA" tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="INDONESIA", OSHOP
+#EXTINF: -1 tvg-id="RIYAN.2f3675da7ff68f83811e74f7b85e579a.SHINTA" tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="INDONESIA", O SHOP
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.1eebed2e2badbd78c0893f6cfec5406c.SHINTA" tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="INDONESIA", MYTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
@@ -55,7 +55,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.bfa81c0274d3efbf26f08c984eee35b9.SHINTA" tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="INDONESIA", NUSANTARA TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-id="RIYAN.f9f3cfcf719c3d4fcc284063a7e68aff.SHINTA" tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="INDONESIA", OCHANNEL
+#EXTINF: -1 tvg-id="RIYAN.f9f3cfcf719c3d4fcc284063a7e68aff.SHINTA" tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="INDONESIA", O CHANNEL
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
 
 
