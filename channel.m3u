@@ -257,24 +257,12 @@ http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 4
-https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 5
-https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 3
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", SUPER TENNIS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS CHANNEL HD
