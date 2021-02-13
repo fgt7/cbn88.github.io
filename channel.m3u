@@ -277,52 +277,14 @@ http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 5
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="OLAHRAGA LIVE", SPORT TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="OLAHRAGA LIVE", SPORT TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="OLAHRAGA LIVE", SPORT TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="OLAHRAGA LIVE", SPORT TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="OLAHRAGA LIVE", SPORT TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 1 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85169
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 2 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85168
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.pnghttps://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 3 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85167
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 4 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85166
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 5 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85165
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 6 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85164
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 7 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85163
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/427-4270065_super-sport-logo-png-transparent-graphic-design-clipart.png" group-title="OLAHRAGA LIVE", SUPERSPORT 8 HD
-http://rv.therevenge.co:80/307213231550/307213231550/85162
-#EXTINF: -1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2019/10/Sony_ten_live_cricket.jpg" group-title="OLAHRAGA LIVE", SONY TEN 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-#EXTINF: -1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2019/10/Sony_ten_live_cricket.jpg" group-title="OLAHRAGA LIVE", SONY TEN 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/a8/60/93/a860939d6c040662807bfe1bdb394142.png" group-title="OLAHRAGA LIVE", SONY SIX
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", SUPER TENNIS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS CHANNEL HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS CHANNEL PLUS
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", US OPEN TENNIS 1
-http://213.152.161.254:8080/upl6_2.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", US OPEN TENNIS 2
-http://213.152.161.254:8080/upl2_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS [LVM]
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="OLAHRAGA LIVE", BEIN SPORTS XTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 1 HD
@@ -345,6 +307,8 @@ http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3356
 http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3357
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 10 HD
 http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3358
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",ID:HBO SD 
