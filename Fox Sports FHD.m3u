@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:0,Band Sports SD
+http://appcliente.com:8880/braga/braga/6480
+#EXTINF:0,Band Sports HD
+http://appcliente.com:8880/braga/braga/6591
+#EXTINF:0,Band Sports FHD
+http://appcliente.com:8880/braga/braga/6705
+#EXTINF:0,Fox Sports SD
+http://appcliente.com:8880/braga/braga/6506
+#EXTINF:0,Fox Sports HD
+http://appcliente.com:8880/braga/braga/6617
+#EXTINF:0,Fox Sports FHD
+http://appcliente.com:8880/braga/braga/6738
+#EXTINF:0,Fox Sports 2 SD
+http://appcliente.com:8880/braga/braga/6505
+#EXTINF:0,Fox Sports 2 HD
+http://appcliente.com:8880/braga/braga/6616
+#EXTINF:0,Fox Sports 2 FHD
+http://appcliente.com:8880/braga/braga/6737
