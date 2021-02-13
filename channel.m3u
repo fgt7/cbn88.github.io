@@ -51,8 +51,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.1eebed2e2badbd78c0893f6cfec5406c.SHINTA" tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="INDONESIA", MYTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-id="RIYAN.8fe58a9ccc9ec8b47c8b8658fab7b1e1.SHINTA" tvg-logo="https://www.useetv.com/pimages/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDONESIA", DAAI TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDONESIA", DAAI TV
+https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-daaitv
 #EXTINF: -1 tvg-id="RIYAN.bfa81c0274d3efbf26f08c984eee35b9.SHINTA" tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="INDONESIA", NUSANTARA TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-id="RIYAN.f9f3cfcf719c3d4fcc284063a7e68aff.SHINTA" tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="INDONESIA", O CHANNEL
