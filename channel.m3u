@@ -91,8 +91,18 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK-ANAK", BIZNET KIDZ
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-gpGISfdsY_o/WOgkkZr8rrI/AAAAAAAAiZ0/vZRtSOBChGUiZIgAEuKepBWxZeWSN6s7gCLcB/s1600/toonmax-tv-channel-logo.png" group-title="ANAK-ANAK", TOONMAX
+#EXTINF: -1 tvg-logo="https://www.nettv.live/uploads/18/1-1P426231059615.jpg" group-title="ANAK-ANAK", TOONMAX
 http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/98/79/56/9879564ed278454a1ac9825e912666fa.jpg" group-title="ANAK-ANAK", DISNEY JUNIOR
+http://latvonlive.com:33612/Llanos1/1234/929
+#EXTINF: -1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/disney-xd-vector-logo.png" group-title="ANAK-ANAK", DISNEY XD
+http://latvonlive.com:33612/Llanos1/1234/656
+#EXTINF: -1 tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/nicktoons.jpg" group-title="ANAK-ANAK", NICKTOONS
+http://latvonlive.com:33612/Llanos1/1234/137
+#EXTINF: -1 tvg-logo="https://www.prwave.ro/wp-content/uploads/2020/12/TeenNick-logo.jpg" group-title="ANAK-ANAK", TEENNICK
+http://latvonlive.com:33612/Llanos1/1234/138
+#EXTINF: -1 tvg-logo="https://apprecs.org/ios/images/app-icons/256/f3/508957683.jpg" group-title="ANAK-ANAK",UNIVERSAL KIDS
+http://latvonlive.com:33612/Llanos1/1234/279
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", NAT GEO WILD
