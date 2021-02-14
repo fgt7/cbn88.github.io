@@ -177,9 +177,9 @@ https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OLAHRAGA 2",ESPN 1
+#EXTINF:-1   tvg-logo="https://www.pngjoy.com/pngm/20/502157_espn-logo-square-poly-badge-screened-1-5x1.png" group-title="OLAHRAGA 2",ESPN 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3951
-#EXTINF:-1   tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OLAHRAGA 2",ESPN 2
+#EXTINF:-1   tvg-logo="https://www.pngjoy.com/pngm/20/502157_espn-logo-square-poly-badge-screened-1-5x1.png" group-title="OLAHRAGA 2",ESPN 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3952
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="OLAHRAGA 2", ASTRO SUPERSPORT 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
@@ -235,11 +235,11 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png" group-title="OLAHRAGA 2", TRUE TENNIS HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA 2", TENNIS CHANNEL
+#EXTINF: -1 tvg-logo="https://www.iphonehacks.com/wp-content/uploads/2015/01/tennis_channel_everywhere.png" group-title="OLAHRAGA 2", TENNIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF: -1 tvg-logo="https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="OLAHRAGA 2", TENNIS PLUS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF: -1 tvg-logo="https://img.pngio.com/golf-hd-png-transparent-golf-hdpng-images-pluspng-hd-golf-png-1600_330.png" group-title="OLAHRAGA 2", GOLF HD
+#EXTINF: -1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="OLAHRAGA 2", GOLF HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png" group-title="OLAHRAGA 2", ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
