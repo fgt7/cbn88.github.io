@@ -151,14 +151,18 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-egg
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="OLAHRAGA 1", FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-hkMGV9ae6tU/V1ASB_QA4PI/AAAAAAAAGiE/fjlB5ne1RKAfQDv33Owvu__IYtorG_t8QCLcB/s1600/FIGHTBOX_HD-400.png" group-title="OLAHRAGA 1",FIGHT BOX
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3921
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="OLAHRAGA 1",FIGHT NETWORK
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="OLAHRAGA 1", UFC STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="OLAHRAGA 1", RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="OLAHRAGA 1", TENNIS
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5ff54764258573.Y3JvcCwxMjA4LDk0NiwzNDYsMTQ.jpg" group-title="OLAHRAGA 1", DUBAI HORSE RACING
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="OLAHRAGA 1", TENNIS
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF: -1 tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2018/11/premier-league-logo-2016_square.png" group-title="OLAHRAGA 1", PREMIER HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2018/11/premier-league-logo-2016_square.png" group-title="OLAHRAGA 1", PREMIER HD 2
@@ -177,6 +181,10 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
 
+#EXTINF:-1   tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OLAHRAGA 2",ESPN 1
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3951
+#EXTINF:-1   tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OLAHRAGA 2",ESPN 2
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3952
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="OLAHRAGA 2", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="OLAHRAGA 2", FOX SPORTS 1 ASIA
