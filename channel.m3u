@@ -111,8 +111,8 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-crimeinvestigation
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-lingua
 #EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="PENGETAHUAN [USEETV]", BIZNET ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="PENGETAHUAN [USEETV]", ANIMAL PLANET HD
-http://tvfs.ml:80/Priscila/123456/15074
+#EXTINF: -1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New-696x392.png" group-title="PENGETAHUAN [USEETV]", ANIMAL PLANET HD
+http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="PENGETAHUAN [USEETV]", LOVE NATURE
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9GNB29H/smith.pnghttps://i.ibb.co/9GNB29H/smith.png" group-title="PENGETAHUAN [USEETV]", SMITHSONIAN
