@@ -111,7 +111,7 @@ https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-crimeinvestigation
 https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-lingua
 #EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="PENGETAHUAN [USEETV]", BIZNET ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New-696x392.png" group-title="PENGETAHUAN [USEETV]", ANIMAL PLANET HD
+#EXTINF: -1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New-696x392.png" group-title="PENGETAHUAN [USEETV]", ANIMAL PLANET
 http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="PENGETAHUAN [USEETV]", LOVE NATURE
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
@@ -155,7 +155,7 @@ http://210.210.155.35/uq2663/h/h05/01.m3u8
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3921
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="OLAHRAGA 1",FIGHT NETWORK
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
-#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="OLAHRAGA 1", TVS BOXING HD
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="OLAHRAGA 1", TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="OLAHRAGA 1", UFC STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
