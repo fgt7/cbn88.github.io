@@ -451,7 +451,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", DAAI TV TAIWAN
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
