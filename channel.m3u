@@ -201,7 +201,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
 #EXTINF: -1 tvg-logo="https://tvnovini.bg/upload/articles/photos/VEpmALZUOpJAQCccXTUwLKing77tBnrzxfPpmz7F.png" group-title="OLAHRAGA 2", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/683/355/png-transparent-premier-league-flow-sports-2018-fifa-world-cup-caribbean-premier-league-television-blue-text.png" group-title="OLAHRAGA 2", FLOW SPORT
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="OLAHRAGA 2", FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF: -1 tvg-logo="https://banner2.cleanpng.com/20180425/paw/kisspng-adventure-sports-flying-school-paragliding-school-outdoor-adventure-5ae00f7abac586.846959511524633466765.jpg" group-title="OLAHRAGA 2", ADVENTURE SPORT
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
@@ -233,9 +233,9 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="OLAHRAGA 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA 2", TENNIS CHANNEL HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png" group-title="OLAHRAGA 2", TRUE TENNIS HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA 2", TENNIS CHANNEL PLUS
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA 2", TENNIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF: -1 tvg-logo="https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="OLAHRAGA 2", TENNIS PLUS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
