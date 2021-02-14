@@ -165,7 +165,7 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="OLAHRAGA 2", FIGHT BOX
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3921
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="OLAHRAGA 2", FIGHT NETWORK
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="OLAHRAGA 2", FIGHT NETWORK 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="OLAHRAGA 2", FIGHT NETWORK 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3890
