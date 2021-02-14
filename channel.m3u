@@ -171,7 +171,7 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2013/12/programas/8011411175743506.png" group-title="OLAHRAGA 2", UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2013/12/programas/8011411175743506.png" group-title="OLAHRAGA 2", UFC STADIUM
+#EXTINF: -1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="OLAHRAGA 2", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/768998797791727616/vkWCzZaQ_400x400.jpg" group-title="OLAHRAGA 2", RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
