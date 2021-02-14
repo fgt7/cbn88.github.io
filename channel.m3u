@@ -181,12 +181,24 @@ https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3951
 #EXTINF:-1   tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OLAHRAGA 2",ESPN 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3952
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="OLAHRAGA 2", ASTRO SUPERSPORT 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="OLAHRAGA 2", ASTRO SUPERSPORT 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="OLAHRAGA 2", ASTRO SUPERSPORT 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="OLAHRAGA 2", ASTRO SUPERSPORT 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="OLAHRAGA 2", TRUE SPORT HD 1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="OLAHRAGA 2", TRUE SPORT HD 2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="OLAHRAGA 2", TRUE SPORT HD 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="OLAHRAGA 2", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="OLAHRAGA 2", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
-#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" group-title="OLAHRAGA 2", ASTRO SPORT
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tvnovini.bg/upload/articles/photos/VEpmALZUOpJAQCccXTUwLKing77tBnrzxfPpmz7F.png" group-title="OLAHRAGA 2", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/683/355/png-transparent-premier-league-flow-sports-2018-fifa-world-cup-caribbean-premier-league-television-blue-text.png" group-title="OLAHRAGA 2", FLOW SPORT
@@ -211,17 +223,19 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ad_sports.jpg" group-title="OLAHRAGA 2", ABU DHABI SPORT 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e1/%D8%AF%D8%A8%D9%8A_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="OLAHRAGA 2", DUBAI SPORTS 1 HD
+#EXTINF: -1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png" group-title="OLAHRAGA 2", DUBAI SPORTS 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/579/821/png-transparent-qatar-stars-league-al-kass-international-cup-2015-al-kass-sports-channels-international-champions-cup-doha-football-television-text-sport.png" group-title="OLAHRAGA 2", AL KASS SPORTS 1
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-al-kass-one-743.png" group-title="OLAHRAGA 2", AL KASS SPORTS 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/579/821/png-transparent-qatar-stars-league-al-kass-international-cup-2015-al-kass-sports-channels-international-champions-cup-doha-football-television-text-sport.png" group-title="OLAHRAGA 2", AL KASS SPORTS 2
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-al-kass-two-744.png" group-title="OLAHRAGA 2", AL KASS SPORTS 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="OLAHRAGA 2", SKY RACING 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="OLAHRAGA 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="OLAHRAGA 2", TENNIS
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA 2", TENNIS CHANNEL HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA 2", TENNIS CHANNEL PLUS
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF: -1 tvg-logo="https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="OLAHRAGA 2", TENNIS PLUS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
@@ -229,52 +243,10 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png" group-title="OLAHRAGA 2", ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png" group-title="OLAHRAGA 2", TRUE SPORT HD 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png" group-title="OLAHRAGA 2", TRUE SPORT HD 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png" group-title="OLAHRAGA 2", TRUE SPORT HD 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="OLAHRAGA 2", SETANTA SPORT 1
 http://ott-cdn.ucom.am/s81/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="OLAHRAGA 2", SETANTA SPORT 2
 http://ott-cdn.ucom.am/s82/03.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA LIVE", ASTRO SUPERSPORT 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA LIVE", ASTRO SUPERSPORT 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA LIVE", ASTRO SUPERSPORT 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA LIVE", ASTRO SUPERSPORT 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="OLAHRAGA LIVE", FOX SPORTS 1 TH
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="OLAHRAGA LIVE", FOX SPORTS 2 TH
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="OLAHRAGA LIVE", FOX SPORTS 3 TH
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 1
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="OLAHRAGA LIVE", TRUESPORT HD 3
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="OLAHRAGA LIVE", TRUE PREMIER HD 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", SUPER TENNIS
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS CHANNEL HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS CHANNEL PLUS
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="OLAHRAGA LIVE", TENNIS [LVM]
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 1 HD
