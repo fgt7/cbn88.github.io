@@ -437,8 +437,20 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_cnbcid_small.png" group-title="INDONESIA BACKUP", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="INDONESIA BACKUP", CNN INDONESIA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/D0khQk4R/logo-cnnindonesia-small1.png" group-title="INDONESIA BACKUP", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/D0khQk4R/logo-cnnindonesia-small1.png" group-title="INDONESIA BACKUP", CNN INDONESIA HD
+http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", JTV
+http://122.248.43.138:1935/ch2/myStream/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="INDONESIA BACKUP", TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", TVRI HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="INDONESIA BACKUP", BISNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF: -1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="INDONESIA BACKUP", BISNET ADVENTURE 4K
@@ -449,26 +461,12 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd.jpg" group-title="INDONESIA BACKUP", JAKARTA GLOBE NEWS CHANNEL
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png" group-title="INDONESIA BACKUP", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", DAAI TV TAIWAN
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/PJn5RzwG/tvri.png" group-title="INDONESIA BACKUP", TVRI
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", TVRI HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/--PP2kHBJ-Is/WLjGUi7pZ7I/AAAAAAAAhm4/Qe0rAn7Hg2wRW4z44E60CYqCcQmZMHbmwCLcB/s1600/hidup-tv-channel-logo.png" group-title="INDONESIA BACKUP", HIDUP TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="INDONESIA BACKUP", PEACE TV
 https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/D0khQk4R/logo-cnnindonesia-small1.png" group-title="INDONESIA BACKUP", CNN INDONESIA HD
-http://albitv.online/siarang/aLBiTV/indo/cnn.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", JTV
-http://122.248.43.138:1935/ch2/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="INDONESIA BACKUP", JTV SURABAYA
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="INDONESIA BACKUP", ETV
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ff/cf/d2/ffcfd2fe5dd74a676bfe49c29899650f.png" group-title="INDONESIA BACKUP", SIMPANG5 TV
