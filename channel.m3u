@@ -215,13 +215,15 @@ http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="OLAHRAGA 2", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="OLAHRAGA 2", BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="OLAHRAGA 2", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
 #EXTINF: -1 tvg-logo="https://tvnovini.bg/upload/articles/photos/VEpmALZUOpJAQCccXTUwLKing77tBnrzxfPpmz7F.png" group-title="OLAHRAGA 2", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="OLAHRAGA 2", FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF: -1 tvg-logo="https://banner2.cleanpng.com/20180425/paw/kisspng-adventure-sports-flying-school-paragliding-school-outdoor-adventure-5ae00f7abac586.846959511524633466765.jpg" group-title="OLAHRAGA 2", ADVENTURE SPORT
+#EXTINF: -1 tvg-logo="https://www.asi-portal.com/content/files/Adventure%20Sports/Adventure-Logo-Generic-B2B-150T.png" group-title="OLAHRAGA 2", ADVENTURE SPORT
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF: -1 tvg-logo="https://media.info/i/lf/0/1482296522/6412.png" group-title="OLAHRAGA 2", SKY THOROUGHBRED CENTRAL
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
@@ -265,30 +267,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://ott-cdn.ucom.am/s81/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="OLAHRAGA 2", SETANTA SPORT 2
 http://ott-cdn.ucom.am/s82/03.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 1 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3349
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 2 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3350
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 3 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3351
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 4 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3352
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 5 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3353
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 6 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3354
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 7 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3355
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 8 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3356
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 9 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3357
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS 10 HD
-http://blciptv.com:80/wm5iN1GF70/F3KSGDzl9M/3358
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS HD", BEIN SPORTS XTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",ID:HBO SD 
