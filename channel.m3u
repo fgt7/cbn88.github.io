@@ -213,6 +213,8 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3575
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3578
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="OLAHRAGA 2", SKY SPORT GOLF
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3579
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="OLAHRAGA 2", SKY SPORT MOTOGP
+http://attacktv.ddns.net:2052/12345/54321/54733
 
 
 #EXTINF: -1 tvg-logo="https://www.pngjoy.com/pngm/20/502157_espn-logo-square-poly-badge-screened-1-5x1.png" group-title="OLAHRAGA 3", ESPN 1
