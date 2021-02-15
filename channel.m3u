@@ -169,12 +169,8 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3921
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="OLAHRAGA 2", FIGHT NETWORK 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3890
-#EXTINF: -1 tvg-logo=""https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="OLAHRAGA 2", BOX NATION
-http://92.42.110.150:25461/live/rugby101/h8HSCrj260/672.m3u8
-#EXTINF: -1 tvg-logo="https://deadline.com/wp-content/uploads/2018/07/dazn-1.png" group-title="OLAHRAGA 2", SKY SPORT DAZN 1 HD
-http://51.89.153.231:8080/AESENCRYPTED/Season336/185?checkedby
-#EXTINF: -1 tvg-logo="https://deadline.com/wp-content/uploads/2018/07/dazn-1.png" group-title="OLAHRAGA 2", SKY SPORT DAZN 2 HD
-http://51.89.153.231:8080/AESENCRYPTED/Season336/186?checkedby
+#EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="OLAHRAGA 2", BOX NATION
+https://nonton.site:8443/novi/novi123/499
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="OLAHRAGA 2", TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF: -1 tvg-logo="https://gamework.in/wp-content/uploads/2020/02/UFC_FIGHTPASS_LOGO_F.jpg" group-title="OLAHRAGA 2", UFC FIGHT PASS
