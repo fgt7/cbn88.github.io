@@ -2,7 +2,7 @@
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=antv
+https://gratismkctv.net/oxygen.m3u8?channel=antv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA", INDOSIAR
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="INDONESIA", RCTI
@@ -22,7 +22,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="INDONESIA", INEWS
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TVONE
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvone
+https://gratismkctv.net/oxygen.m3u8?channel=tvone
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="INDONESIA", METRO TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA", NET HD
@@ -516,7 +516,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="BACKUP", ANTV
-https://gratismkctv.net/oxygen.m3u8?channel=antv
+http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="BACKUP", INDOSIAR
 http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="BACKUP", RCTI
@@ -533,8 +533,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/L8HyW9d2/logo-rtv-small1.png" group-title="BACKUP", RTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=rtv
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TVONE
-https://gratismkctv.net/oxygen.m3u8?channel=tvone
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="BACKUP", TVONE
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvone
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="BACKUP", METRO TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=metrotv
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9f5DfSJg/logo-metrotv-small1.png" group-title="BACKUP", METRO TV
