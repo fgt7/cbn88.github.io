@@ -283,115 +283,117 @@ http://latvonlive.com:33612/Llanos1/1234/138
 http://latvonlive.com:33612/Llanos1/1234/279
 
 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MOVIE", ZBIOSKOP
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-zbioskop
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="MOVIE", TVN
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tvn
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MOVIE", TVN MOVIES
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tvnmovies
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIE", THRILL
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-thrill
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="MOVIE", BIOSKOP INDONESIA
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-bioskopindonesia
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIE", CELESTIAL MOVIE
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-celestialmovie
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIE", CINEMA WORLD
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-cinemaworld
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIE", GALAXY
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-galaxy
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIE", GALAXY PREMIUM
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-galaxypremium
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIE", IMC
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-imc
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies", ZBioskop 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-zbioskop 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tvn 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tvnmovies 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", Thrill 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-thrill 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies", Bioskop Indonesia 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bioskopindonesia 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies", Celestial Movie 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-celestialmovie 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies", Cinema World 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cinemaworld 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies", Flik 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-filx 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-galaxy 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies", Galaxy Premium 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-galaxypremium 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies", IMC 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-imc
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="ENTERTAINMENT", CITRA BIOSKOP
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6684 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="ENTERTAINMENT", VIDIO ENTERTAINMENT
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-7352 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="ENTERTAINMENT", CITRA ENTERTAINMENT 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6402 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", DUNIA LAIN 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-dunialain
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="ENTERTAINMENT", CITRA DRAMA 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-cdrama 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="ENTERTAINMENT", CITRA DRAMA HD 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6401 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" group-title="ENTERTAINMENT", CITRA DANGDUT 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6587
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", WARNER 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-warner
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="ENTERTAINMENT", BLUE ANT ENTERTAINMENT 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-blueant 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="ENTERTAINMENT", BLUE ANT EXTREME 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-blueantextreme 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", AXN 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-axn
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", CHINESE DRAMA 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-chinesedrama 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", KIX
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-kix 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", WAKU WAKU JAPAN 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-wakuwaku 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT", K PLUS 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-kplus
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", SGEM TV 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-sgem
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", SONE TV 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-sone
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="ENTERTAINMENT", OUTDOOR CHANNEL 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-outdoor 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT", ANIPLUS 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-aniplus 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ENTERTAINMENT", ANIMAX
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-animax 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="ENTERTAINMENT", KBS WORLD
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-kbsworld
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="ENTERTAINMENT", ABC AUSTRALIA
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-abcaustralia
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="ENTERTAINMENT", LIFETIME 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-lifetime 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="ENTERTAINMENT", CTI ASIA
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-ctiasia
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT", CCTV4 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-cctv4
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="ENTERTAINMENT", NHK WORLD JAPAN 
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-nhkworld
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="ENTERTAINMENT", ARIRANG
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-arirang
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT", TV5 MONDE
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tv5monde
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="Entertainment", Citra Bioskop (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6684 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="Entertainment", Vidio Entertainment (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-7352 #
+EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="Entertainment", Citra Entertainment (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6402 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="Entertainment", Dunia Lain 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-dunialain 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="Entertainment", Citra Drama 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cdrama 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="Entertainment", Citra Drama (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6401 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" group-title="Entertainment", Citra Dangdut (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6587 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Entertainment", Warner 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-warner 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment", Blue ant entertainmet 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-blueant 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Entertainment", Blue ant extreme 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-blueantextreme 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Entertainment", AXN 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-axn 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Entertainment", Chinese Drama 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-chinesedrama 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="Entertainment", Kix 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-kix 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="Entertainment", Waku Waku Japan 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-wakuwaku 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Entertainment", K+ 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-kplus 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment", Sony GEM TV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-sgem 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="Entertainment", Sony One 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-sone 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="Entertainment", Outdoor CHANNEL 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-outdoor 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Entertainment", Aniplus 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-aniplus 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Entertainment", Animax 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-animax 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="Entertainment", KBS World 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-kbsworld 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="Entertainment", ABC Australia 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-abcaustralia 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Entertainment", Lifetime 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-lifetime 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="Entertainment", Ctiasia 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-ctiasia 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="Entertainment", CCTV4 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cctv4 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="Entertainment", NHK World Japan 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nhkworld 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="Entertainment", Arirang 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-arirang 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="Entertainment", TV5Monde 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tv5monde
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="RELIGI", CITRA MUSLIM
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6678
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI", RODJA TV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-rodjatv 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI", TAWAF TV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tawaftv
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="RELIGI", MTA TV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-mtatv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI", MUI TV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-muitv
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", ALQURAN KAREEM
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-alquran
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="RELIGI", MQTV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-mqtv
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI", TV9 NU
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-tv9
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", MUHAMMADIYAH TV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=usee-muhammadiyahtv 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", AJWA TV
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-7464
-#EXTINF: -1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="RELIGI", ALQURAN KAREEM
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6852
-#EXTINF: -1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI", REFORMED 21
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6853
-#EXTINF: -1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="RELIGI", U CHANNEL
-https://home-tv.web.id/dinda/milik_home-tv.m3u8?channel=vidio-6898 
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="RELIGI", MEKKAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6678 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi", Rodja TV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-rodjatv 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="Religi", Tawaf TV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tawaftv 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTA TV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-mtatv 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", MUI TV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-muitv 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="Religi", AL Quran AL Kareem 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-alquran 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi", MQTV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-mqtv 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi", TV9 NU 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-tv9 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi", Muhammadiyah TV 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-muhammadiyahtv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-7464 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="Religi", AL Quran AL Kareem (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6852 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Religi", Reformed 21 (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6853 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel (Vidio) 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6898 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Religi", Mekkah tv 
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8 
-#EXTINF: -1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="RELIGI", MADINAH TV
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="Religi", Madinah tv 
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
