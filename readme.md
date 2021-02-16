@@ -1,4 +1,4 @@
-PAKAI PERFECT PLAYER
+PAKAI PERFECT PLAYER masuk setting-playback pilih HW+
 
 https://cbn88.github.io/kerehore
 
