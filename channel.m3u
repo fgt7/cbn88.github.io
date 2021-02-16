@@ -151,9 +151,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports 2", ELEVEN SPORT 1
+#EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sports 2", ELEVEN SPORT 1
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3547
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports 2", ELEVEN SPORT 2
+#EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sports 2", ELEVEN SPORT 2
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3548
 #EXTINF: -1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/05/FOX_SPORTS_NEWS_LOGO_DIGITAL.png" group-title="Sports 2", FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
