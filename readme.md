@@ -1,4 +1,4 @@
-PAKAI PERFECT PLAYER ATAU TELEVIZO
+PAKAI PERFECT PLAYER
 
 https://cbn88.github.io/kerehore
 
