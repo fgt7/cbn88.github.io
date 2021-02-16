@@ -347,6 +347,56 @@ https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-arirang
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-tv5monde
 
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO & FOX",HBO 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO & FOX",HBO SIGNATURE 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO & FOX",HBO FAMILY 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO & FOX",HBO HITS 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO & FOX",HBO RED 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO & FOX",CINEMAX by HBO 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
+
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="News", CNBC Indonesia 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnbcindonesia 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="News", CNBC Asia 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnbcasia 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News", CNN Indonesia 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnnindonesia 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="News", CNN International 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-aljazeera 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="News", IDX 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-idx 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="News", abc australia 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-abcaustralia 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News", DW (English) 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-dwtv 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News", France 24 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-france24 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News", CNA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="News", TRT World 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-trtworld 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="News", Bloomberg 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="News", EuroNews 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-euronews 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="News", Aljazeera (Vidio) 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6410 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="News", EuroNews (Vidio) 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6412 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="News", DW (English) (Vidio) 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-5075 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="News", ABC Australia (Vidio) 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7150
+
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio)
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6678
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi", Rodja TV
