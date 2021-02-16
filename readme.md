@@ -1,4 +1,4 @@
-PAKAI PERFECT PLAYER masuk setting-playback pilih HW+
+PAKAI PERFECT PLAYER masuk setting-playback-decoder pilih HW+
 
 https://cbn88.github.io/kerehore
 
