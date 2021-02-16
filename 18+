@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/PEGI_18_%282003-2009%29.png" group-title="18+",香蕉台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2701
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/PEGI_18_%282003-2009%29.png" group-title="18+",松视1台
