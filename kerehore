@@ -423,6 +423,22 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" group-title="Lifestyle", Indihome Shopping 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-indishopping 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" group-title="Lifestyle", M Shop 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-mncshop 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-eatgo 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="Lifestyle", Asian Food Network 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-afc 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="Lifestyle", FASHION TV 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-fashiontv 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?v=2.0.0.13" group-title="Lifestyle", FASHION ONE 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-fashionone 
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Lifestyle", HGTV 
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-hgtv
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/The-reef-poster-2010jpg.jpg/220px-The-reef-poster-2010jpg.jpg" group-title="Vod Vidio", THE REEF
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Eiffel_I%27m_in_Love.jpg" group-title="Vod Vidio", EIFFEL I'M IN LOVE
