@@ -537,5 +537,49 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
 
 
-#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 1
 http://210.210.155.35/uq2663/h/h01/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 2
+http://210.210.155.35/uq2663/h/h02/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 3
+http://210.210.155.35/uq2663/h/h03/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 4
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 5
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 6
+http://210.210.155.35/uq2663/h/h06/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 7
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 8
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 9
+http://210.210.155.35/uq2663/h/h09/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 10
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 11
+http://210.210.155.35/uq2663/h/h11/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 12
+http://210.210.155.35/uq2663/h/h12/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 13
+http://210.210.155.35/uq2663/h/h13/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 14
+http://210.210.155.35/uq2663/h/h14/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 15
+http://210.210.155.35/uq2663/h/h15/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 16
+http://210.210.155.35/uq2663/h/h16/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 17
+http://210.210.155.35/uq2663/h/h17/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 18
+http://210.210.155.35/uq2663/h/h18/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 19
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", TEST 20
+http://210.210.155.35/uq2663/h/h20/01.m3u8
+
+
+
+
+
+
