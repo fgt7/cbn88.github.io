@@ -409,7 +409,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" group-title="Lifestyle", Indihome Shopping 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" tvg-url="https://home-tv.web.id/ch/win_tla.php?channel=token=free" group-title="Lifestyle", Indihome Shopping 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-indishopping 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" group-title="Lifestyle", M Shop 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-mncshop 
