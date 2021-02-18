@@ -71,7 +71,7 @@ http://ott-cdn.ucom.am/s86/index.m3u8?fluxusTV.m3u8
 http://tyciptv.site:8080/393e2766/c723f42a/157397
 EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3922
-EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="Sports 1", BOX NATION
+#EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="Sports 1", BOX NATION
 https://nonton.site:8443/novi/novi123/499
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="Sports 1", TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
@@ -182,29 +182,29 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1 
-https://cdngb196.useetv.com/joss/15/champion1/chunklist_w1195391921_b1344100_sleng.m3u8?enc=sJnKxKUm5Fs3MRlLSFj87Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562728 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Utama", Champion TV 2 
-https://cdngb196.useetv.com/joss/15/champion2/chunklist_w284345316_b1344100_sleng.m3u8?enc=wHDooBIkS5YRoJjbsjm51g&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562730  
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion2  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports Utama", UseeSports 1 
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1857196723_b1344100_sleng.m3u8?enc=lb8ksLFbzhrglQ33raPcJg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562744  
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesport 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports Utama", UseeSports 2 
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1862037060_b1344100_sleng.m3u8?enc=NT9yP1rz7zXsDuUeUx_1rw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562746 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesports2 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports Utama", Bein Sport 1 
-https://cdngb196.useetv.com/joss/15/bein1/chunklist_w420204525_b1344100_sleng.m3u8?enc=0mmbNuw_hS1BllT2Fx5e5Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562724 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein1 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports Utama", bein Sport 2 
-https://cdngb196.useetv.com/joss/15/bein2/chunklist_w1092384079_b1344100_sleng.m3u8?enc=NaDzMcYCulKco27EwaLNSw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613564652
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 1 
-https://cdngb196.useetv.com/joss/15/foxsport1/chunklist_w1032721342_b1344100_sleng.m3u8?enc=JN_URYJet-hW0tuIKS6-eA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562734  
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 2 
-https://cdngb196.useetv.com/joss/15/foxsport2/chunklist_w606878731_b1344100_sleng.m3u8?enc=MpDSKNEfVTkQff2g-C-OHA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562736  
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 3 
-https://cdngb196.useetv.com/joss/15/foxsport3/chunklist_w1024872852_b1344100_sleng.m3u8?enc=vrp1Iqz6JZsuGiMUvcqQuQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562739
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Utama", Golf 
-https://cdngb196.useetv.com/joss/15/golfplus/chunklist_w1266982661_b1344100_sleng.m3u8?enc=Khrtwc0lYW0-SCHE_3fd-w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562743  
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-golfplus  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports Utama", NBA 
-https://cdngb196.useetv.com/joss/15/nba/chunklist_w1250659614_b1344100_sleng.m3u8?enc=ZnI1FlNCL83NBnSRVitEsg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613564644 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nba 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", eGG TV 
-https://cdngb196.useetv.com/joss/14/egg/chunklist_w1895453823_b684100_sleng.m3u8?enc=GYnbgHXcYPB65criiD-pCQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613562797
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-egg
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian (Vidio) 
