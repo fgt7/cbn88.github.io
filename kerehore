@@ -411,6 +411,32 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO & FOX",HBO
+https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO & FOX",HBO FAMILY
+https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO & FOX",HBO HITS
+https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO & FOX",HBO SIGNATURE
+https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO & FOX",HBO RED
+https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO & FOX",CINEMAX by HBO
+https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HBO & FOX",FOX
+https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HBO & FOX",FOX CRIME
+https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HBO & FOX",FOX LIFE
+https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HBO & FOX",FOX MOVIES
+https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HBO & FOX",FOX ACTION MOVIES
+https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=h56jd&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HBO & FOX",FOX FAMILY MOVIES
+https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=h56jd&v=20200807
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/The-reef-poster-2010jpg.jpg/220px-The-reef-poster-2010jpg.jpg" group-title="Vod Vidio", THE REEF
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Eiffel_I%27m_in_Love.jpg" group-title="Vod Vidio", EIFFEL I'M IN LOVE
