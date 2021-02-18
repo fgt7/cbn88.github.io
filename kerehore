@@ -83,7 +83,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e57c9beb56b81af.m3u8
 #EXTINF: -1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="Sports 1", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/768998797791727616/vkWCzZaQ_400x400.jpg" group-title="Sports 1", RACING
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/768998797791727616/vkWCzZaQ_400x400.jpg" group-title="Sports 1", RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5ff54764258573.Y3JvcCwxMjA4LDk0NiwzNDYsMTQ.jpg" group-title="Sports 1", DUBAI HORSE RACING
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
@@ -229,6 +229,8 @@ https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-crimeinvestig
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-history 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge", Lingua 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-lingua
+#EXTINF: -1 tvg-logo="https://toppng.com/uploads/preview/animal-planet-eps-vector-logo-download-free-11574234714wttcyg01h4.png" group-title="Knowledge", Animal Planet
+https://delivery.macan.tv/stream/id_animalplanet/playlist.m3u8?token=h56jd&v=20200807
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
