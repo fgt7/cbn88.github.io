@@ -424,43 +424,43 @@ https://etslive-2-vidio-com.akamaized.net/exp=1613742524~acl=/hls-p/ingest_geo_7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio) 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6678 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613741230~acl=/hls-p/ingest_6678_*/*~hmac=e9efa91c23ed0da513af6efa019d26783f53574a2275875e58e992a0a13673fb/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi", Rodja TV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-rodjatv 
-
+https://cdn09jtedge.useetv.com/joss/14/rodjatv/chunklist_w1837823839_b684100_sleng.m3u8?enc=2jrf9M40jEgSg1JrSrhnYQ&uid=&exp=1613742913
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="Religi", Tawaf TV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-tawaftv 
-
+https://cdn09jtedge.useetv.com/joss/14/tawaftv/chunklist_w964527840_b684100_sleng.m3u8?enc=_kzDuMpNhWBP6NKP4MDyeg&uid=&exp=1613742915
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTA TV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-mtatv 
-
+https://cdn09jtedge.useetv.com/joss/14/mtatv/chunklist_w862170461_b684100_sleng.m3u8?enc=sswTHpg1LCS07LaQ_QnnwQ&uid=&exp=1613742906
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", MUI TV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-muitv 
-
+https://cdn09jtedge.useetv.com/joss/14/muitv/chunklist_w1112164901_b684100_sleng.m3u8?enc=Bmccf0q9R8oF7fDgUosCpA&uid=&exp=1613742911
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="Religi", AL Quran AL Kareem 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-alquran 
-
+https://cdn09jtedge.useetv.com/joss/14/alquran/chunklist_w1348663516_b684100_sleng.m3u8?enc=s8pmcc8U8g-FMkdYfcOr_A&uid=&exp=1613742902
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi", MQTV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-mqtv 
-
+https://cdn09jtedge.useetv.com/joss/14/mqtv/chunklist_w1554119452_b684100_sleng.m3u8?enc=IxAQuF_G7I3-kGPASA5BlQ&uid=&exp=1613742904
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi", TV9 NU 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-tv9 
-
+https://cdn09jtedge.useetv.com/joss/14/tv9/chunklist_w2042814425_b684100_sleng.m3u8?enc=XcPOOVOJpChODVpEIXDKBg&uid=&exp=1613742917
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi", Muhammadiyah TV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-muhammadiyahtv 
-
+https://cdn09jtedge.useetv.com/joss/14/muhammadiyahtv/chunklist_w2083589422_b684100_sleng.m3u8?enc=pvyTS_vpA3faoJINO2j-zw&uid=&exp=1613742909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio) 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7464 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747173~acl=/hls-p/ingest_7464_*/*~hmac=2c0dfe0f771a9657907b14bb475059d6848307436ab752de6035bd0b330ca699/hls-p/ingest_7464_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="Religi", AL Quran AL Kareem (Vidio) 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6852 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747281~acl=/hls-p/ingest_6852_*/*~hmac=38e9415d2ffeacaedc47be27cae53f4c775e9ece2230be30a26c6c062181950f/hls-p/ingest_6852_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Religi", Reformed 21 (Vidio) 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6853 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747023~acl=/hls-p/ingest_6853_*/*~hmac=08f19a7534f1baa709d737d48b71199ae4205d69b412f730b066c275072d4c64/hls-p/ingest_6853_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel (Vidio) 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6898
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747304~acl=/hls-p/ingest_6898_*/*~hmac=3781db868c555cbd4676691a6003d892f83b125a6e401fd9bd6692c9aff0861c/hls-p/ingest_6898_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO",HBO 
