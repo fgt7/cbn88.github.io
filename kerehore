@@ -66,7 +66,7 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX
-http://ott-cdn.ucom.am/s86/index.m3u8?fluxusTV.m3u8
+http://92.43.140.200/s86/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.prowrestlingtees.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/i/c/icw1004-t-ba3a.png" group-title="Sports 1", FIGHT CLUB
 http://tyciptv.site:8080/393e2766/c723f42a/157397
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
@@ -83,6 +83,8 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e57c9beb56b81af.m3u8
 #EXTINF: -1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="Sports 1", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF: -1 tvg-logo="http://ocdn.eu/images/program-tv/YmI7MDA_/a3473c5ae099e441facb0e48b479554b.png" group-title="Sports 1", FAST BOX
+http://92.43.140.200/s79/04.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/768998797791727616/vkWCzZaQ_400x400.jpg" group-title="Sports 1", RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5ff54764258573.Y3JvcCwxMjA4LDk0NiwzNDYsMTQ.jpg" group-title="Sports 1", DUBAI HORSE RACING
