@@ -320,17 +320,17 @@ https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6853
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6898
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO & FOX",HBO 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO",HBO 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO & FOX",HBO SIGNATURE 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO",HBO SIGNATURE 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO & FOX",HBO FAMILY 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO",HBO FAMILY 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO & FOX",HBO HITS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO",HBO HITS 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO & FOX",HBO RED 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO",HBO RED 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO & FOX",CINEMAX by HBO 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO",CINEMAX by HBO 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
 
 
