@@ -465,132 +465,126 @@ https://etslive-2-vidio-com.akamaized.net/exp=1613747304~acl=/hls-p/ingest_6898_
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO",HBO 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO",HBO SIGNATURE 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO",HBO FAMILY 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO",HBO HITS 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO",HBO RED 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO",CINEMAX by HBO 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
 
 
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" group-title="Lifestyle", Indihome Shopping 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-indishopping 
-
+https://cdn11jtedge.useetv.com/joss/14/indishopping/chunklist_w453596264_b894100_sleng.m3u8?enc=hyse8XOZXTZJIOBjYbs7YQ&uid=&exp=1613744414
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" group-title="Lifestyle", M Shop 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-mncshop 
-
+https://cdn11jtedge.useetv.com/joss/14/mncshop/chunklist_w1038631148_b684100_sleng.m3u8?enc=9FqG-SJBVxFR4D8YoAvi2Q&uid=&exp=1613744418
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-eatgo 
-
+https://cdn11jtedge.useetv.com/joss/14/eatgo/chunklist_w285616327_b684100_sleng.m3u8?enc=oui327GbgSIroRVO1NPLRg&uid=&exp=1613744405
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="Lifestyle", Asian Food Network 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-afc 
-
+https://cdn09jtedge.useetv.com/joss/15/afc/chunklist_w1580426414_b1344100_sleng.m3u8?enc=SQ090r9RZnkpTOMVusRIPA&uid=&exp=1613744607
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="Lifestyle", FASHION TV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-fashiontv 
-
+https://cdn11jtedge.useetv.com/joss/15/fashiontv/chunklist_w326215124_b1344100_sleng.m3u8?enc=ppWiQfkGxmt4s7pqb0NXPw&uid=&exp=1613746335
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?v=2.0.0.13" group-title="Lifestyle", FASHION ONE 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-fashionone 
-
+https://cdn11jtedge.useetv.com/joss/15/fashionone/chunklist_w509917523_b1344100_sleng.m3u8?enc=YuTYda_h-SNuCWqNbw54tw&uid=&exp=1613744407
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Lifestyle", HGTV 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-hgtv 
-
+https://cdn11jtedge.useetv.com/joss/15/hgtv/chunklist_w1988646232_b1344100_sleng.m3u8?enc=jwpWNWkIdqen8LhWqYE0aQ&uid=&exp=1613744412
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="Radio-Vidio", prambors 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7004 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613746882~acl=/hls-p/ingest_7004_*/*~hmac=d56d2b15b1ce1e913048b5f3dfea714722cb6df23ee6453dea222c56479493d5/hls-p/ingest_7004_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="Radio-Vidio", Hardrock 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7053 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747060~acl=/hls-p/ingest_7053_*/*~hmac=f74e18bab4ae9b9d96699c7de57f34587ca29bbdeb5814f85d7988b99cd14e8d/hls-p/ingest_7053_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVQsRd0/brava.png" group-title="Radio-Vidio", Brava 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7054 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747056~acl=/hls-p/ingest_7054_*/*~hmac=9fe749b83ebba204852613e6cb03d05aa73896d27ca98325d9cd351a92c73d3a/hls-p/ingest_7054_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxSrPHd/trax.png" group-title="Radio-Vidio", Trax 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7055 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747052~acl=/hls-p/ingest_7055_*/*~hmac=bbf5f625fbe64bb8205a67b3671fb7dbb06becee46a4d3068ab160045ef90d70/hls-p/ingest_7055_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7gmbM2/cosmo.png" group-title="Radio-Vidio", Cosmopolitan 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7056 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747054~acl=/hls-p/ingest_7056_*/*~hmac=52155da6d6880b94bd24dc28d96dd68e7d42d0458f2f6cc0b2a1265b55dc0a1a/hls-p/ingest_7056_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QkF1bDh/iradio.png" group-title="Radio-Vidio", I-Radio 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7057 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747048~acl=/hls-p/ingest_7057_*/*~hmac=91ad1e9a544524db8fd7b10e18901c6aa4fa340e981df0d0ca6a682e31318307/hls-p/ingest_7057_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hMMrSNj/bahana.png" group-title="Radio-Vidio", Bahana 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7091 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742962~acl=/hls-p/ingest_7091_*/*~hmac=39b07e9ee3947dca7b74b0b34050e96330e4ef9a53eef03290986943a2846420/hls-p/ingest_7091_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Smc4p9D/deltafm.png" group-title="Radio-Vidio", Delta 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7092 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747065~acl=/hls-p/ingest_7092_*/*~hmac=878688b42c1f0d720308b1d836ae8b9fd2dd0bb7c693c61cbcd1ec8f8c018252/hls-p/ingest_7092_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KKdd9cv/female.png" group-title="Radio-Vidio", Female 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7130 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747062~acl=/hls-p/ingest_7130_*/*~hmac=58bde028315faf473f1fd4989992b84ab0e4f9c9d63caad833ac6396d5518e27/hls-p/ingest_7130_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYGvYtz/elshinta.png" group-title="Radio-Vidio", Elshinta 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7166 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747046~acl=/hls-p/ingest_7166_*/*~hmac=2d9853ea507801752892a206981e0b043f0bbf3a37165f6ce9ed524582056fa1/hls-p/ingest_7166_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3DRdwj/elgangga.png" group-title="Radio-Vidio", Elgangga 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7169 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742968~acl=/hls-p/ingest_7169_*/*~hmac=1a2320d286f29b9700013c8a39f4a00ffc00da0ec7a17b6fe88af846e64dd3b1/hls-p/ingest_7169_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pwmgtsx/elmitra.png" group-title="Radio-Vidio", Elmitra 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7170 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742966~acl=/hls-p/ingest_7170_*/*~hmac=e77daa3ae7a30e50b611e01515d5a41fa1da51c38b4e91136b0ebc6653e90100/hls-p/ingest_7170_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHdNWYt/ardanfm.png" group-title="Radio-Vidio", Ardan 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7184 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747041~acl=/hls-p/ingest_7184_*/*~hmac=fcb53234b4f03cc7646c08e7b1c043d65a5aa33d0ebbe940f98bda8346ee5ec2/hls-p/ingest_7184_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5D14ZF/mgt.png" group-title="Radio-Vidio", MGT 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7188 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747044~acl=/hls-p/ingest_7188_*/*~hmac=b783e0416eb4db8341b5c671db0b3579bcae88a84ecdcdcf02be0581472a7283/hls-p/ingest_7188_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RH7RGT/geronimo.png" group-title="Radio-Vidio", Geronimo 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7216 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742970~acl=/hls-p/ingest_7216_*/*~hmac=33bcc1f6abc8908a4ccb092a554a169af79351e4b261c3964744a22735feb483/hls-p/ingest_7216_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Fyr1Tm/shusi.png" group-title="Radio-Vidio", Sushi 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7218 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742964~acl=/hls-p/ingest_7218_*/*~hmac=02ddf84705d5df35a27f5da7cf8115efe6a3db1c0582038e0ce0255baa199a30/hls-p/ingest_7218_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDP8tZy/dahlia.png" group-title="Radio-Vidio", Dahlia 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7242 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742972~acl=/hls-p/ingest_7242_*/*~hmac=aa568d3146afa71c83cd18977fe825dd4622bccffd8f89bf997713028114e553/hls-p/ingest_7242_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XXHn4J/swaragama.png" group-title="Radio-Vidio", Swaragama 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7248 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742974~acl=/hls-p/ingest_7248_*/*~hmac=8ddfc595cc0358ebf2e9a873743971cb483be18cbb3ed5e661f4c5190783f858/hls-p/ingest_7248_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yspjdcm/imelda.png" group-title="Radio-Vidio", Imelda 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7281 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742977~acl=/hls-p/ingest_7281_*/*~hmac=4ec528538e345173f17d4340ec8c679c76640d80c28b580bdea1ade6311d6e24/hls-p/ingest_7281_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1pzdJk/swara-smarang.png" group-title="Radio-Vidio", Swara Semarang 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7283 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742979~acl=/hls-p/ingest_7283_*/*~hmac=40d25286401671cf616f3ac9b9513b71bedb7449e0074a41be8ec8b17ecd8c41/hls-p/ingest_7283_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxYkDB1/gajah.png" group-title="Radio-Vidio", Gajahmada 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7284 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742981~acl=/hls-p/ingest_7284_*/*~hmac=20f37ec05e3ab0251a6125de762d3b36689e99e7f8fd2b592d90a4a6b5af4fad/hls-p/ingest_7284_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGh8BWT/cakra.png" group-title="Radio-Vidio", Cakra 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7297 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742983~acl=/hls-p/ingest_7297_*/*~hmac=d2db0102b490334221d8e55df2b309db9ba68ce859856752dd5860fc30aac004/hls-p/ingest_7297_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9vX60HD/genfm.png" group-title="Radio-Vidio", Gen Jakarta 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7443 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742985~acl=/hls-p/ingest_7443_*/*~hmac=de67aca5e46b1cdcb1c8b46f489765127bdf8a6cbb8afb0dfcc36d9eb52d4f89/hls-p/ingest_7443_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqwBq0Y/kisfm.png" group-title="Radio-Vidio", Kis 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7445 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742989~acl=/hls-p/ingest_7445_*/*~hmac=ea5272a893763470cf8cbe8e360fd4ded75f0315ffb9e97f97f0136f57de66ab/hls-p/ingest_7445_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jCXChY/gensuabaya.png" group-title="Radio-Vidio", Gen Surabaya 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7446 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747071~acl=/hls-p/ingest_7446_*/*~hmac=a0b82910aa07d512ad05e2525c123773b5da654df2bd984e1e44e28c9c4d2a45/hls-p/ingest_7446_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWXJGSW/mustang-fm.png" group-title="Radio-Vidio", Mustang 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7447 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742991~acl=/hls-p/ingest_7447_*/*~hmac=a21f4dc2255b4727f8122c24b41ebe542253cab348913446d703f06ac6d112ce/hls-p/ingest_7447_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgSL43h/hot.png" group-title="Radio-Vidio", Hot 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7448 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747069~acl=/hls-p/ingest_7448_*/*~hmac=2adb06ef0e7afd4d454a206fa2bb3a441b59ec6814edfde69b935b9ebcd2df63/hls-p/ingest_7448_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKFHYN1/jakfm.png" group-title="Radio-Vidio", Jak 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7449 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613742987~acl=/hls-p/ingest_7449_*/*~hmac=8711969b2e873d1f34f8365599c8caa1962cb76b4684ca2998e3b3f7150ff69b/hls-p/ingest_7449_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbXqTkN/mostfm.png" group-title="Radio-Vidio", Most Radio 
 https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7450 
-
+https://etslive-2-vidio-com.akamaized.net/exp=1613747067~acl=/hls-p/ingest_7450_*/*~hmac=279569e86b456de51a4a206ae3748411a44d9f1a37d07f4450ac7eebe5cc2af6/hls-p/ingest_7450_480p/index.m3u8
 
