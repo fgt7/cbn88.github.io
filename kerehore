@@ -37,10 +37,6 @@ https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="Local", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-indonesia.jpg" group-title="Local", SINEMA INDONESIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-riknw9r-fBw/XUIosO4WM6I/AAAAAAAAAPQ/oZM6RT7uVP00Ji1xLtp-HJr3FaBMOYlGgCLcBGAs/s1600/frekuensi-sinema-indonesia-x.jpg" group-title="Local", SINEMA INDONESIA X
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Local", BERITA SATU
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/euAMoMGy4JEKPAe1i-C8WPsvumU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/333535.png" group-title="Local", AJWA TV
