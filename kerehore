@@ -229,8 +229,6 @@ https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-crimeinvestig
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-history 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge", Lingua 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-lingua
-#EXTINF: -1 tvg-logo="https://toppng.com/uploads/preview/animal-planet-eps-vector-logo-download-free-11574234714wttcyg01h4.png" group-title="Knowledge", Animal Planet
-https://delivery.macan.tv/stream/id_animalplanet/playlist.m3u8?token=h56jd&v=20200807
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
@@ -413,30 +411,30 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO & FOX",HBO
-https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO & FOX",HBO FAMILY
-https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO & FOX",HBO HITS
-https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO & FOX",HBO SIGNATURE
-https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO & FOX",HBO RED
-https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO & FOX",CINEMAX by HBO
-https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HBO & FOX",FOX
-https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HBO & FOX",FOX CRIME
-https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HBO & FOX",FOX LIFE
-https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HBO & FOX",FOX MOVIES
-https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HBO & FOX",FOX ACTION MOVIES
-https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=h56jd&v=20200807
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HBO & FOX",FOX FAMILY MOVIES
-https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=h56jd&v=20200807
+EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HBO & FOX",HBO
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HBO & FOX",HBO FAMILY
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HBO & FOX",HBO HITS
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HBO & FOX",HBO SIGNATURE
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HBO & FOX",HBO RED
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HBO & FOX",CINEMAX by HBO
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HBO & FOX",FOX
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HBO & FOX",FOX CRIME
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HBO & FOX",FOX LIFE
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HBO & FOX",FOX MOVIES
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HBO & FOX",FOX ACTION MOVIES
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HBO & FOX",FOX FAMILY MOVIES
+
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/The-reef-poster-2010jpg.jpg/220px-The-reef-poster-2010jpg.jpg" group-title="Vod Vidio", THE REEF
