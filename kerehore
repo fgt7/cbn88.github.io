@@ -545,3 +545,32 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=f82798ec8909d23e55679ee26bb2643741a474e7edc50efff0a6205bcf0d6a77
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="Radio", RADIO CAKRA
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
+
+
+
+#EXTINF:-1 tvg-id="hbo.my" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MY FILM",HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MY FILM",HBO SIGNATURE
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MY FILM",HBO FAMILY
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MY FILM",HBO HITS
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MY FILM",HBO RED
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MY FILM",CINEMAX by HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyDZR4v6/tvn2.png" group-title="MY FILM",TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="MY FILM", TVN
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-tvn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MY FILM", TVN MOVIES
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-tvnmovies
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="MY FILM",SONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/drakor.png" group-title="MY FILM",Drakor Plus
+http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PKz2RLh/ZQ-Drama.jpg" group-title="MY FILM",ZQ Drama
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MY FILM", ZBioskop
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-zbioskop
