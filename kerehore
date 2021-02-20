@@ -195,89 +195,78 @@ http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683761
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion1
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Utama", Champion TV 2
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion2
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports Utama", UseeSports 1
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesport
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports Utama", UseeSports 2
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesports2
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports Utama", Bein Sport 1
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein1
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports Utama", Bein Sport 2
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein2
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 1
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 2
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 3
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Utama", Golf
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-golfplus
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports Utama", NBA
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nba
-
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", eGG TV
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-egg
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian (Vidio) 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6550 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature (Vidio) 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6635 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6635
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", National Geographic 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-natgeo 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-natgeo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo People 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-natgeopeople 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-natgeopeople
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-disco 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cgtndocumentary 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cgtndocumentary
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge", Crime Investigation 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-crimeinvestigation 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-crimeinvestigation
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", History 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-history 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-history
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge", Lingua 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-lingua
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-mykids 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-mykids
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee (Vidio) 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-7052 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-7052
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-babyfirst 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-babyfirst
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", Horee 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-horee 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-horee
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="Kids", Duck TV 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-ducktv 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-ducktv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", Boomerang 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-boomerang 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-boomerang
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cartoonnetwork 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", Dunia Anak 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-duniaanak
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nickjr 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nickjr
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nickelodeon 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nickelodeon
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids", Da Vinci Learning 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-davinci 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-davinci
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids", Dreamworks 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-dreamworks 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-dreamworks
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", Zoo Moo (Vidio) 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6533 
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6533
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DaVinci (Vidio) 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6549
 
