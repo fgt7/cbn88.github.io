@@ -219,6 +219,9 @@ https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-nba
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-egg
 
 
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/animal-planet-eps-vector-logo-download-free-11574234714wttcyg01h4.png" group-title="Knowledge", Animal Planet ID
+http://hottest.fit:8080/Leonard/Leonard/28815
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian (Vidio) 
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature (Vidio) 
