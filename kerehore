@@ -173,23 +173,23 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT PREMIER
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT PREMIER
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683793
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT F1
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT F1
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683753
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MAIN EVENT
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MAIN EVENT
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683738
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT RACING
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT RACING
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683771
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT CRICKET
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT CRICKET
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683767
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MIX
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MIX
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683824
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT GOLF
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT GOLF
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/684095
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT ARENA
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT ARENA
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/7926
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT FOOTBALL
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT FOOTBALL
 http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683761
 
 
