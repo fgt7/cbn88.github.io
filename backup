@@ -140,9 +140,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1 
-https://cdn09jtedge.useetv.com/joss/15/champion1/chunklist_w341082338_b1344100_sleng.m3u8?enc=3lJfB4wNpDgK4tFtH36guQ&uid=&exp=1613744711
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion1
-https://cdn09jtedge.useetv.com/joss/15/champion1/chunklist_w341082338_b1344100_sleng.m3u8?enc=3lJfB4wNpDgK4tFtH36guQ&uid=&exp=1613744711
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Utama", Champion TV 2 
 https://cdn09jtedge.useetv.com/joss/15/champion2/chunklist_w1715848080_b1344100_sleng.m3u8?enc=qV7WqPJ3vCTRyWTdRLjk1A&uid=&exp=1613742788
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-champion2
