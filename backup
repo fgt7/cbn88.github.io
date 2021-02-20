@@ -10,7 +10,7 @@ https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-indosiar
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-UseeTv",MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL-UseeTv",SCTV
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sctv
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-sctv
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-UseeTv",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Metro TV
@@ -245,7 +245,6 @@ https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-abcaustralia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Entertainment", Lifetime
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-lifetime
-https://home-tv.web.id/dinda/malaka.m3u8?channel=
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="Entertainment", Ctiasia
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-ctiasia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="Entertainment", CCTV4
