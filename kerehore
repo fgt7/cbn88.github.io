@@ -116,13 +116,13 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
-http://tv.wakds.xyz:8080/pptvy/76937/3581
+http://tv.wakds.xyz:8080/pptvy/76937/4170
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a254.png" group-title="Sports 2",ASTRO SUPERSPORT 2
-http://tv.wakds.xyz:8080/pptvy/76937/3582
+http://tv.wakds.xyz:8080/pptvy/76937/4171
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="Sports 2",ASTRO SUPERSPORT 3
-http://tv.wakds.xyz:8080/pptvy/76937/3583
+http://tv.wakds.xyz:8080/pptvy/76937/4172
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
-http://tv.wakds.xyz:8080/pptvy/76937/3584
+http://tv.wakds.xyz:8080/pptvy/76937/4173
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 2
@@ -173,24 +173,16 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT PREMIER
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683793
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT F1
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683753
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MAIN EVENT
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683738
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT RACING
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683771
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT CRICKET
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683767
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MIX
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683824
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT GOLF
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/684095
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT ARENA
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/7926
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT FOOTBALL
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/683761
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 1
+http://tv.wakds.xyz:8080/pptvy/76937/4131
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 2
+http://tv.wakds.xyz:8080/pptvy/76937/4132
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 3
+http://tv.wakds.xyz:8080/pptvy/76937/4133
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 4
+http://tv.wakds.xyz:8080/pptvy/76937/4134
+EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 5
+http://tv.wakds.xyz:8080/pptvy/76937/4135
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1
