@@ -61,7 +61,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
-http://210.210.155.35/uq2663/h/h05/02.m3u8
+http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX
 http://92.43.140.200/s86/04.m3u8
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX HD
