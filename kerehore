@@ -173,15 +173,15 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 1
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 1
 http://tv.wakds.xyz:8080/pptvy/76937/4131
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 2
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 2
 http://tv.wakds.xyz:8080/pptvy/76937/4132
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 3
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 3
 http://tv.wakds.xyz:8080/pptvy/76937/4133
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 4
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 4
 http://tv.wakds.xyz:8080/pptvy/76937/4134
-EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 5
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT 5
 http://tv.wakds.xyz:8080/pptvy/76937/4135
 
 
