@@ -136,9 +136,9 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="Sports 2", BEIN 1
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="Sports 2", BEIN 2
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/74.ts
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
