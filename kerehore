@@ -60,7 +60,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports 1", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
-http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX
 http://92.43.140.200/s86/04.m3u8
@@ -123,13 +122,13 @@ http://onlyallgood.com:8080/Worktvs/Worktvs/31923
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
 http://onlyallgood.com:8080/Worktvs/Worktvs/31924
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 2
