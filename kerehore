@@ -65,15 +65,13 @@ http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX
 http://92.43.140.200/s86/04.m3u8
 #EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX HD
-http://tv.wakds.xyz:8080/pptvy/76937/3921
+http://onlyallgood.com:8080/Worktvs/Worktvs/26177
 #EXTINF:-1 tvg-logo="https://www.prowrestlingtees.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/i/c/icw1004-t-ba3a.png" group-title="Sports 1", FIGHT CLUB
 http://tyciptv.site:8080/393e2766/c723f42a/157397
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
 http://tyciptv.site:8080/393e2766/c723f42a/193555
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK HD
-http://tv.wakds.xyz:8080/pptvy/76937/3922
 #EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="Sports 1", BOX NATION
-http://ipflix.click:8080/qir0i5xhcd/857mquaw0rtk/15783
+http://onlyallgood.com:8080/Worktvs/Worktvs/29069
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="Sports 1", TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF: -1 tvg-logo="https://gamework.in/wp-content/uploads/2020/02/UFC_FIGHTPASS_LOGO_F.jpg" group-title="Sports 1", UFC NETWORK
@@ -117,13 +115,13 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
-http://tv.wakds.xyz:8080/pptvy/76937/4170
+http://onlyallgood.com:8080/Worktvs/Worktvs/31921
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a254.png" group-title="Sports 2",ASTRO SUPERSPORT 2
-http://tv.wakds.xyz:8080/pptvy/76937/4171
+http://onlyallgood.com:8080/Worktvs/Worktvs/31922
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="Sports 2",ASTRO SUPERSPORT 3
-http://tv.wakds.xyz:8080/pptvy/76937/4172
+http://onlyallgood.com:8080/Worktvs/Worktvs/31923
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
-http://tv.wakds.xyz:8080/pptvy/76937/4173
+http://onlyallgood.com:8080/Worktvs/Worktvs/31924
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -179,15 +177,15 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MAIN EVENT
-http://tv.wakds.xyz:8080/pptvy/76937/4131
+http://onlyallgood.com:8080/Worktvs/Worktvs/25082
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT F1
-http://tv.wakds.xyz:8080/pptvy/76937/4132
+http://onlyallgood.com:8080/Worktvs/Worktvs/25089
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT NFL
-http://tv.wakds.xyz:8080/pptvy/76937/4133
+http://onlyallgood.com:8080/Worktvs/Worktvs/25084
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT GOLF
-http://tv.wakds.xyz:8080/pptvy/76937/4134
+http://onlyallgood.com:8080/Worktvs/Worktvs/25085
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT PREMIER
-http://tv.wakds.xyz:8080/pptvy/76937/4135
+http://onlyallgood.com:8080/Worktvs/Worktvs/25086
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1
