@@ -343,30 +343,34 @@ https://cdn11jtedge.useetv.com/joss/14/arirang/chunklist_w2035349447_b684100_sle
 https://cdn11jtedge.useetv.com/joss/14/tv5monde/chunklist_w2015503978_b684100_sleng_kamiselaluada.m3u8?enc=lBLSM4w3gWV5DzFNubl_DQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063621
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_small.png?v=1" group-title="News", SEA TODAY
+https://cdn11jtedge.useetv.com/joss/15/seatoday/chunklist_w188862737_b1344100_sleng_kamiselaluada.m3u8?enc=cP1M_AYsxg-iT5wBjfz6yQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614065541
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="News", CNBC Indonesia 
-https://cdn11jtedge.useetv.com/joss/15/cnbcindonesia/chunklist_w1525644152_b1344100_sleng.m3u8?enc=IZRR8ZviIbC-TDqhmkReeA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059530 
+https://cdn11jtedge.useetv.com/joss/15/cnbcindonesia/chunklist_w1525644152_b1344100_sleng_kamiselaluada.m3u8?enc=AMk2Jn1On3NS1X8AZACbMg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614065541
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="News", CNBC Asia 
-https://cdn11jtedge.useetv.com/joss/14/cnbcasia/chunklist_w496062256_b894100_sleng.m3u8?enc=776Z33dq2t_Vj2bP5rDe4A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059537 
+https://cdn11jtedge.useetv.com/joss/14/cnbcasia/chunklist_w496062256_b894100_sleng_kamiselaluada.m3u8?enc=n8nu4swR1tdcCEnnKjPY1A&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614065542
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News", CNN Indonesia 
-https://cdn11jtedge.useetv.com/joss/15/cnnindonesia/chunklist_w219623474_b1344100_sleng.m3u8?enc=TEdYUGgcguXVRgqMD4QIIw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059561 
+https://cdn11jtedge.useetv.com/joss/15/cnnindonesia/chunklist_w219623474_b1344100_sleng_kamiselaluada.m3u8?enc=Wb2kyRFSp6E6i5gmzqK57A&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614065544
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="News", CNN International
 https://cdn11jtedge.useetv.com/joss/15/cnninternational/chunklist_w1553197646_b1344100_sleng_kamiselaluada.m3u8?enc=TnK5VvFCZfd-m8zfH0Uc9A&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1614063626
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera 
-https://cdn11jtedge.useetv.com/joss/14/aljazeera/chunklist_w1245436753_b684100_sleng.m3u8?enc=c-XCdwASnEGrk8Db8Co-7Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614061464 
+https://cdn11jtedge.useetv.com/joss/14/aljazeera/chunklist_w1245436753_b684100_sleng_kamiselaluada.m3u8?enc=Iaio9wP0mg3c04h6RWEkYg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063618
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="News", IDX 
-https://cdn11jtedge.useetv.com/joss/14/idx/chunklist_w758939897_b684100_sleng.m3u8?enc=iSPiKMiCXvnjfxUpUf8xuA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614061471 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="News", abc australia  
+https://cdn11jtedge.useetv.com/joss/14/idx/chunklist_w758939897_b684100_sleng_kamiselaluada.m3u8?enc=WbAUn5PH8dC5Caw2NKQn8g&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063618
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="News", ABC Australia  
+https://cdn11jtedge.useetv.com/joss/15/abcaustralia/chunklist_w1239833884_b684100_sleng_kamiselaluada.m3u8?enc=3Bpin-NAbIMlKdckyc6aPw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063615
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News", DW (English) 
-https://cdn11jtedge.useetv.com/joss/14/dwtv/chunklist_w338851992_b684100_sleng.m3u8?enc=G7zSOhe9vNrzoTn9bAd1Qg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059546 
+https://cdn11jtedge.useetv.com/joss/14/dwtv/chunklist_w338851992_b684100_sleng_kamiselaluada.m3u8?enc=BKbwWWgmEBjEu4wBPlLhnQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063619
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News", France 24 
-https://cdn11jtedge.useetv.com/joss/14/france24/chunklist_w1884209580_b684100_sleng.m3u8?enc=TRNiI1oQjgDeYrJg0Q2yZQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059547 
+https://cdn11jtedge.useetv.com/joss/14/france24/chunklist_w1884209580_b684100_sleng_kamiselaluada.m3u8?enc=Gt672Xk7TyVo49Q7RfnBSg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063619
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News", CNA 
-https://cdn11jtedge.useetv.com/joss/14/newsasia/chunklist_w107416975_b684100_sleng.m3u8?enc=TVer3VZwI_A10fAkEJ3DYQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059581 
+https://cdn11jtedge.useetv.com/joss/14/newsasia/chunklist_w107416975_b684100_sleng_kamiselaluada.m3u8?enc=IONxbZ7ZNRe-BKeR_ps1cg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063621
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="News", TRT World 
-https://cdn11jtedge.useetv.com/joss/14/trtworld/chunklist_w1979655625_b894100_sleng.m3u8?enc=qKXY0DnSyau28PBhFIkkiA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059554 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="News", Bloomberg  
+https://cdn11jtedge.useetv.com/joss/14/trtworld/chunklist_w1979655625_b894100_sleng_kamiselaluada.m3u8?enc=3pqH9mOF14lDcZvKqSMzKA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063619
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="News", Bloomberg 
+https://cdn11jtedge.useetv.com/joss/14/bloomberg/chunklist_w974950836_b684100_sleng_kamiselaluada.m3u8?enc=pdXBDIEqIIbdXKwstLCmOQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614065545
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="News", EuroNews 
-https://cdn11jtedge.useetv.com/joss/14/euronews/chunklist_w558545072_b684100_sleng.m3u8?enc=rdUU_N6F27-Qc6o6tnsllg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059568 
+https://cdn11jtedge.useetv.com/joss/14/euronews/chunklist_w558545072_b684100_sleng_kamiselaluada.m3u8?enc=61hRHglplKnEGHSx0OzeoA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063620
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="News", Aljazeera (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="News", EuroNews (Vidio)
