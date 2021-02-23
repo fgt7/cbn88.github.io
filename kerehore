@@ -203,7 +203,7 @@ https://cdn11jtedge.useetv.com/joss/15/golfplus/chunklist_w1859747182_b1344100_s
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports Utama", NBA
 https://cdn11jtedge.useetv.com/joss/15/nba/chunklist_w356701504_b1344100_sleng.m3u8?enc=2HCpr-LFT6RUDIGQgtXo2w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059479
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", eGG TV
-https://cdn11jtedge.useetv.com/joss/14/egg/chunklist_w1573948385_b684100_sleng.m3u8?enc=qQOteNzaiwwqg24lGvkA5A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059561
+https://cdn11jtedge.useetv.com/joss/14/egg/chunklist_w1573948385_b684100_sleng_kamiselaluada.m3u8?enc=S2iSgYb9JtwRiF1pjrwgIQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063620
 
 
 
@@ -213,17 +213,17 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature (Vidio) 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", National Geographic 
-https://cdn09jtedge.useetv.com/joss/15/natgeo/chunklist_w1098336654_b1344100_sleng.m3u8?enc=igHhh_Q_hRmHlzvCcrgY_Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056316
+https://cdn11jtedge.useetv.com/joss/15/natgeo/chunklist_w874784817_b1344100_sleng_kamiselaluada.m3u8?enc=gUd2cENB8yL-R2wVmY5X9Q&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063609
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo People 
-https://cdn09jtedge.useetv.com/joss/15/natgeopeople/chunklist_w183052684_b1344100_sleng.m3u8?enc=j7XjpBetlNGsuUsAtuUyJA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614058243
+https://cdn11jtedge.useetv.com/joss/15/natgeopeople/chunklist_w598711486_b1344100_sleng_kamiselaluada.m3u8?enc=bSHXyaOnIhSdE7HbmM2YIg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614065534
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild 
-https://cdn09jtedge.useetv.com/joss/15/natgeowild/chunklist_w732241468_b1344100_sleng.m3u8?enc=yHHMm2remBSUAGziwPUcDA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056319
+https://cdn11jtedge.useetv.com/joss/15/natgeowild/chunklist_w332471088_b1344100_sleng_kamiselaluada.m3u8?enc=CtEpQLHKxiTvh_2cwK5Fuw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063610
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
-https://cdn09jtedge.useetv.com/joss/15/disco/chunklist_w1052482870_b1344100_sleng.m3u8?enc=L6AT8E8ZKEvrMpRsWchhqA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056321
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cgtndocumentary
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge", Crime Investigation 
-https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-crimeinvestigation
+https://cdn11jtedge.useetv.com/joss/15/disco/chunklist_w739932481_b1344100_sleng_kamiselaluada.m3u8?enc=z75LuobUec69KjQfBUQXFA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063611
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary 
+https://cdn11jtedge.useetv.com/joss/14/cgtndocumentary/chunklist_w236810743_b684100_sleng_kamiselaluada.m3u8?enc=rEZ-P-8FH9Z6M4Oz4LC_Bw&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1614063626
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge", Crime Investigation 
+https://cdn11jtedge.useetv.com/joss/15/crimeinvestigation/chunklist_w2049143943_b684100_sleng_kamiselaluada.m3u8?enc=Fq97xhclgx-sfE4t04LpVw&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1614063626
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", History 
 https://cdn09jtedge.useetv.com/joss/15/history/chunklist_w576055500_b1344100_sleng.m3u8?enc=5zaXj6zAyHdYu-Om5Rmtyw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056348
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge", Lingua 
@@ -237,7 +237,7 @@ https://cdn09jtedge.useetv.com/joss/14/babyfirst/chunklist_w1074541900_b684100_s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", Horee 
 https://cdn09jtedge.useetv.com/joss/14/horee/chunklist_w941028703_b684100_sleng.m3u8?enc=jHQiRerhW2s6AdZ2TGyeOQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056295
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="Kids", Duck TV 
-https://cdn09jtedge.useetv.com/joss/14/ducktv/chunklist_w1834386675_b684100_sleng.m3u8?enc=reCjV0O59sbJpeRBVitiZg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056296
+https://cdn11jtedge.useetv.com/joss/14/ducktv/chunklist_w1202321429_b684100_sleng_kamiselaluada.m3u8?enc=o1NdEOCj1Hrs2jK29hI2Dw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063604
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", Boomerang 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network 
 https://cdn09jtedge.useetv.com/joss/14/cartoonnetwork/chunklist_w14809032_b684100_sleng.m3u8?enc=M3I2xg_h9NqUboJ9aoSSkw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056297
@@ -344,7 +344,8 @@ https://cdn11jtedge.useetv.com/joss/15/cnbcindonesia/chunklist_w1525644152_b1344
 https://cdn11jtedge.useetv.com/joss/14/cnbcasia/chunklist_w496062256_b894100_sleng.m3u8?enc=776Z33dq2t_Vj2bP5rDe4A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059537 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News", CNN Indonesia 
 https://cdn11jtedge.useetv.com/joss/15/cnnindonesia/chunklist_w219623474_b1344100_sleng.m3u8?enc=TEdYUGgcguXVRgqMD4QIIw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059561 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="News", CNN International  
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="News", CNN International
+https://cdn11jtedge.useetv.com/joss/15/cnninternational/chunklist_w1553197646_b1344100_sleng_kamiselaluada.m3u8?enc=TnK5VvFCZfd-m8zfH0Uc9A&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1614063626
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera 
 https://cdn11jtedge.useetv.com/joss/14/aljazeera/chunklist_w1245436753_b684100_sleng.m3u8?enc=c-XCdwASnEGrk8Db8Co-7Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614061464 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="News", IDX 
