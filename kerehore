@@ -378,13 +378,15 @@ https://cdn11jtedge.useetv.com/joss/14/tawaftv/chunklist_w1991825816_b684100_sle
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="Religi", AL Quran AL Kareem 
 https://cdn11jtedge.useetv.com/joss/14/alquran/chunklist_w1267058538_b684100_sleng_kamiselaluada.m3u8?enc=P2rh8XQuHJgElNFc0IBN5A&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063623
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi", MQTV 
-https://cdn12jtedge.useetv.com/joss/14/mqtv/chunklist_w160593378_b684100_sleng.m3u8?enc=iVkgxFR9KCxSNIiHbdFj-w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614052730 
+https://cdn11jtedge.useetv.com/joss/14/mqtv/chunklist_w160593378_b684100_sleng_kamiselaluada.m3u8?enc=nufthX3B7w7B5jRdUohEmQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063623
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi", TV9 NU 
-https://cdn12jtedge.useetv.com/joss/14/tv9/chunklist_w134425879_b684100_sleng.m3u8?enc=sa3i0fpTOqpcdKKcTWEK7w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614052728 
+https://cdn11jtedge.useetv.com/joss/14/tv9/chunklist_w93382867_b684100_sleng_kamiselaluada.m3u8?enc=1YxSodGw0gVL5jMdIeQ5kA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063622 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi", Muhammadiyah TV 
-https://cdn12jtedge.useetv.com/joss/14/muhammadiyahtv/chunklist_w1267843725_b684100_sleng.m3u8?enc=Jy1OZstR_MzEbtf-CUj-2A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614052730 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTA TV  
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", MUI TV
+https://cdn11jtedge.useetv.com/joss/14/muhammadiyahtv/chunklist_w1267843725_b684100_sleng_kamiselaluada.m3u8?enc=VJtsQY-ZgCWUOubN8wWlMg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063624 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTA TV
+https://cdn11jtedge.useetv.com/joss/14/mtatv/chunklist_w488004756_b684100_sleng_kamiselaluada.m3u8?enc=GFSvAKcED8s5c7oe5E8DqA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063624
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", MUI TV
+https://cdn11jtedge.useetv.com/joss/14/muitv/chunklist_w546359075_b684100_sleng_kamiselaluada.m3u8?enc=VU3KJ7BJcVBmciXkzy1IWg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614063622
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio)
