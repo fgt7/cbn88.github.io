@@ -260,19 +260,19 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies", ZBioskop 
-https://cdn12jtedge.useetv.com/joss/14/zbioskop/chunklist_w998057990_b684100_sleng.m3u8?enc=dIllxZS2TXXw1ggGkxXTfg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084778
+http://rr2.dens.tv/s/s32/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN 
 https://cdn08jtedge.useetv.com/joss/15/tvn/chunklist_w1247064495_b1344100_sleng.m3u8?enc=lQnuwrUvziYhJP_c3Ig4Xw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614085177
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES 
 https://cdn12jtedge.useetv.com/joss/15/tvnmovies/chunklist_w1912462262_b1344100_sleng.m3u8?enc=0wwp76power3IUBkUVPVbw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084783
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", Thrill 
-https://cdn12jtedge.useetv.com/joss/14/thrill/chunklist_w1412843302_b684100_sleng.m3u8?enc=fTFNl0g2DOrwihnPFp4b-w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084781
+http://rr2.dens.tv/s/s34/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies", Bioskop Indonesia 
 https://cdn12jtedge.useetv.com/joss/14/bioskopindonesia/chunklist_w690621838_b684100_sleng.m3u8?enc=u6ZkEhQNwMU5B2ZmLdB7xA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084787
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies", Celestial Movie 
-https://cdn12jtedge.useetv.com/joss/14/celestialmovie/chunklist_w1199088724_b684100_sleng.m3u8?enc=UxBI1CKQiF93EOQ1s4275A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084790
+http://rr2.dens.tv/s/s33/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies", Cinema World 
-https://cdn12jtedge.useetv.com/joss/14/cinemaworld/chunklist_w129274466_b684100_sleng.m3u8?enc=Vyav94YbSbNa3G0De2rVvg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084793
+http://rr.dens.tv/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies", Flik 
 https://cdn12jtedge.useetv.com/joss/15/flik/chunklist_w278049956_b1344100_sleng.m3u8?enc=EVK9e1xlqNnjkGI0r0IFrQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614084797
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
