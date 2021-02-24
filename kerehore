@@ -180,30 +180,18 @@ http://onlyallgood.com:8080/Worktvs/Worktvs/25085
 http://onlyallgood.com:8080/Worktvs/Worktvs/25086
 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", beIN Sport 1
-https://cdn08jtedge.useetv.com/joss/15/bein1/chunklist_w1155472596_b1344100_sleng_kamiselaluada.m3u8?enc=sqDKzsZ6P3G04xS1ZPyv6Q&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150010
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", beIN Sport 2
-https://cdn08jtedge.useetv.com/joss/15/bein2/chunklist_w1511563349_b1344100_sleng_kamiselaluada.m3u8?enc=NOiDSuTRy_2yvbupmwjUcA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150010
-#EXTINF:-1 tvg-id="nbatv" tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports", NBA
-https://cdn08jtedge.useetv.com/joss/15/nba/chunklist_w1036929229_b1344100_sleng_kamiselaluada.m3u8?enc=zELjnVa1AzsTx61MQMoGNQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150009
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sports", Champion TV 1
-https://cdn08jtedge.useetv.com/joss/15/champion1/chunklist_w1427719989_b1344100_sleng_kamiselaluada.m3u8?enc=8kIU8Ssuo5PTTLQI1n3lcg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150011
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sports", Champion TV 2
-https://cdn08jtedge.useetv.com/joss/15/champion2/chunklist_w243710495_b1344100_sleng_kamiselaluada.m3u8?enc=Mpz-SCkp4KQwAy_pj1pdxg&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150011
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1
-https://cdn08jtedge.useetv.com/joss/15/foxsport1/chunklist_w785660514_b1344100_sleng_kamiselaluada.m3u8?enc=31cogEEg6aUOMrzjb7mMrA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150012
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", Fox Sport 2
-https://cdn08jtedge.useetv.com/joss/15/foxsport2/chunklist_w326445578_b1344100_sleng_kamiselaluada.m3u8?enc=IwuN84TLB_9UsEJxRaKFzA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150015
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", Fox Sport 3
-https://cdn08jtedge.useetv.com/joss/15/foxsport3/chunklist_w1049315255_b1344100_sleng_kamiselaluada.m3u8?enc=_LQmeDxEZx92w7C8I9dmlw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150015
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/golf.png" group-title="Sports", Golf
-https://cdn08jtedge.useetv.com/joss/15/golfplus/chunklist_w1822732846_b1344100_sleng_kamiselaluada.m3u8?enc=_NarEGwdTo3My4Q-VZkhbA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150015
-#EXTINF:-1 tvg-id="useesport" tvg-logo="http://kamiselaluada.com/img/useesports1.png" group-title="Sports", Useesports 1
-https://cdn08jtedge.useetv.com/joss/15/useesport/chunklist_w1756904747_b1344100_sleng_kamiselaluada.m3u8?enc=Ogdrtq66q75Zt9-R44VtJA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150016
-#EXTINF:-1 tvg-id="useesports2" tvg-logo="http://kamiselaluada.com/img/useesports2.png" group-title="Sports", Useesports 2
-https://cdn08jtedge.useetv.com/joss/15/useesports2/chunklist_w612250723_b1344100_sleng_kamiselaluada.m3u8?enc=xFf89m9q1IvurwLPm2Q_3w&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614151941
-#EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Sports", eGG TV
-https://cdn08jtedge.useetv.com/joss/14/egg/chunklist_w344687519_b684100_sleng_kamiselaluada.m3u8?enc=SazQqW9474suDCczllzhBA&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614150026
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
+#EXTINF:-1 group-title="Sports"
 
 
 EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/animal-planet-eps-vector-logo-download-free-11574234714wttcyg01h4.png" group-title="Knowledge", Animal Planet ID
