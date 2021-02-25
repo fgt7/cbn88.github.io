@@ -167,15 +167,15 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT MAIN EVENT
-http://onlyallgood.com:8080/Worktvs/Worktvs/25082
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4131
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT F1
-http://onlyallgood.com:8080/Worktvs/Worktvs/25089
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4132
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT NFL
-http://onlyallgood.com:8080/Worktvs/Worktvs/25084
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4133
 #EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT GOLF
-http://onlyallgood.com:8080/Worktvs/Worktvs/25085
-#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT PREMIER
-http://onlyallgood.com:8080/Worktvs/Worktvs/25086
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4134
+#EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT CRICKET
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4130
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports", Champions TV 1 (Vidio)
