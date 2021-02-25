@@ -190,6 +190,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/635-6357831_animal-planet-animal-planet-logo-png.png" group-title="Knowledge", Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee (Vidio) 
