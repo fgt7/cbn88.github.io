@@ -1,6 +1,6 @@
 #EXTM3U 
 
-
+***Local***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
@@ -55,6 +55,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
 
 
+***Sports 1***
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports 1", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
@@ -107,6 +108,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
+***Sports 2***
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
 http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a254.png" group-title="Sports 2",ASTRO SUPERSPORT 2
@@ -176,66 +178,74 @@ http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4134
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4130
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports", Champions TV 1 (Vidio)
+***Sports***
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports", Champions TV 1 (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports", Champions TV 2 (Vidio)
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports", Champions TV 2 (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian (Vidio) 
+***Knowledge***
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian (Vidio) 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/635-6357831_animal-planet-animal-planet-logo-png.png" group-title="Knowledge", Animal Planet
+#EXTINF: -1 tvg-logo="https://www.nicepng.com/png/detail/635-6357831_animal-planet-animal-planet-logo-png.png" group-title="Knowledge", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee (Vidio) 
+***Kids***
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee (Vidio) 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", Zoo Moo (Vidio) 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", Zoo Moo (Vidio) 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DaVinci (Vidio) 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DaVinci (Vidio) 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6XlT52AAEtFj5wJNZYFweG9glbM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/1b4448.png" group-title="Movies",Zee Bioskop (Vidio)
+***Movies***
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6XlT52AAEtFj5wJNZYFweG9glbM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/1b4448.png" group-title="Movies",Zee Bioskop (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="Movies",Citra Bioskop (Vidio)
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="Movies",Citra Bioskop (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" group-title="Movies",ZING (Vidio)
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" group-title="Movies",ZING (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="Entertainment", Vidio Entertainment (Vidio)
+***Entertainment***
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LYqRMcV/vidio.png" group-title="Entertainment", Vidio Entertainment (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="Entertainment", Citra Entertainment (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="Entertainment", Citra Entertainment (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="Entertainment", Citra Drama (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="Entertainment", Citra Drama (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="News", Aljazeera (Vidio)
+***News***
+#EXTINF: -1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="News", Aljazeera (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="News", EuroNews (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="News", EuroNews (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="News", DW (English) (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="News", DW (English) (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="News", ABC Australia (Vidio) 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="News", ABC Australia (Vidio) 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c20bb2d9a50d5ac1f713f8b34d9aac5a102a6ed6587b5b8cb4ebbe972864690b
 
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio)
+
+***Religi***
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="Religi", AL Quran AL Kareem (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="Religi", AL Quran AL Kareem (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Religi", Reformed 21 (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Religi", Reformed 21 (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel (Vidio)
+#EXTINF: -1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800102a6ed6587b5b8cb4ebbe972864690b
 
 
+***Vod Vidio***
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/The-reef-poster-2010jpg.jpg/220px-The-reef-poster-2010jpg.jpg" group-title="Vod Vidio", THE REEF
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Eiffel_I%27m_in_Love.jpg" group-title="Vod Vidio", EIFFEL I'M IN LOVE
@@ -300,6 +310,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
 
 
+***Radio***
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="Radio", MGT RADIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=d073bb8d0c47f317dd39de9c9f004e9d41a474e7edc50efff0a6205bcf0d6a77
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oj6YyMLXBYx6etq-_OIyff0fMiI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="Radio", ELSHINTA 90 FM
