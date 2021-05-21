@@ -4,29 +4,29 @@
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
-http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
-http://chostv.mobie.in/files/iptv/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local", MNCTV
-http://chostv.mobie.in/files/iptv/mnctv.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local", GTV
-http://chostv.mobie.in/files/iptv/gtv.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local", TRANS7
-http://chostv.mobie.in/files/iptv/trans7.m3u8
+http://210.210.155.35/qwr9ew/s/s101/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local", RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/qwr9ew/s/s12/02.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
-http://chostv.mobie.in/files/iptv/inews.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
-https://gratismkctv.net/oxygen/oxygen.m3u8?channel=tvone
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local", METRO TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local", NET HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Local", KOMPAS TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local", JTV
@@ -40,7 +40,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Local", BERITA SATU
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
+http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_small1.png?v=2.0.0.13" group-title="Local", JAKTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="Local", O SHOP
