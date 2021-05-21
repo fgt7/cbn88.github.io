@@ -6,17 +6,17 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
-http://chostv.mobie.in/files/iptv/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local", MNCTV
-http://chostv.mobie.in/files/iptv/mnctv.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local", GTV
-http://chostv.mobie.in/files/iptv/gtv.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local", TRANS7
-http://210.210.155.35/qwr9ew/s/s101/02.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local", RTV
 http://210.210.155.35/qwr9ew/s/s12/02.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
@@ -24,11 +24,11 @@ http://chostv.mobie.in/files/iptv/inews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local", METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local", NET HD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Local", KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s104/02.m3u8
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local", JTV
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="Local", MOLA TV FREE
@@ -38,7 +38,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="Local", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Local", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI
 http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_small1.png?v=2.0.0.13" group-title="Local", JAKTV
@@ -46,11 +46,11 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 #EXTINF: -1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="Local", O SHOP
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF: -1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local", MYTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_daaitv_small1.png?v=2.0.0.13" group-title="Local", DAAI TV
-http://210.210.155.35/qwr9ew/s/s13/02.m3u8
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="Local", NUSANTARA TV
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
+http://122.248.43.138:1935/ch8/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="Local", O CHANNEL
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
 
