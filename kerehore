@@ -110,13 +110,13 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 ***Sports 2***
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://iptvtree.net:8080/mariconigliar0/30d5055e/146068
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a254.png" group-title="Sports 2",ASTRO SUPERSPORT 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+http://iptvtree.net:8080/mariconigliar0/30d5055e/157556
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="Sports 2",ASTRO SUPERSPORT 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+http://iptvtree.net:8080/mariconigliar0/30d5055e/157557
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+http://iptvtree.net:8080/mariconigliar0/30d5055e/157558
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 2
