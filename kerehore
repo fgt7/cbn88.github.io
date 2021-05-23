@@ -60,13 +60,13 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX
+EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="Sports 1", FIGHT BOX
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/3921
 #EXTINF:-1 tvg-logo="https://www.prowrestlingtees.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/i/c/icw1004-t-ba3a.png" group-title="Sports 1", FIGHT CLUB
 http://tyciptv.site:8080/393e2766/c723f42a/157397
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
+EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/3890
-#EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="Sports 1", BOX NATION
+EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="Sports 1", BOX NATION
 http://catenamode.cf:8090/muttsnuts/PzreCs7oYP/126
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="Sports 1", TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
@@ -88,8 +88,10 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="Sports 1", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 1", BEIN SPORTS XTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 1", BEIN SPORTS
+http://iptvtree.net:8080/mariconigliar0/30d5055e/165105
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 1", BEIN SPORTS 1
+http://iptvtree.net:8080/mariconigliar0/30d5055e/165073
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Sports 1", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
 #EXTINF: -1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png" group-title="Sports 1", DUBAI SPORTS
@@ -100,7 +102,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF: -1 tvg-logo="https://media.info/i/lf/0/1482296522/6412.png" group-title="Sports 1", THOROUGHBRED CENTRAL
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png" group-title="Sports 1", TRUE TENNIS HD
+EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png" group-title="Sports 1", TRUE TENNIS HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Sports 1", TENNIS
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -169,6 +171,35 @@ EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.p
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4134
 EXTINF: -1 tvg-logo="https://img.apksum.com/8e/com.bskyb.sportnews/8.18.4/icon.png" group-title="Sports 2", SKY SPORT CRICKET
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/4130
+
+
+***SuperSport***
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Golf FHD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11641
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Grandstand FHD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/194353
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport LaLiga HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/194358
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Maximo 1 HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/38572
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport MOTORSPORT HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11638
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Premier League FHD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11642
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport RUGBY HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11639
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport TENNIS HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/15200
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Variety 1 HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11633
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Variety 2 HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11634
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Variety 3 HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11635
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport Variety 4 HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/11636
+#EXTINF:-1   tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png" group-title="SuperSport",SuperSport WWE HD
+http://iptvtree.net:8080/mariconigliar0/30d5055e/201120
 
 
 ***Sports***
