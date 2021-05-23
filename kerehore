@@ -64,8 +64,8 @@ EXTINF: -1 tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f81
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/3921
 EXTINF:-1 tvg-logo="https://www.prowrestlingtees.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/i/c/icw1004-t-ba3a.png" group-title="Sports 1", FIGHT CLUB
 http://tyciptv.site:8080/393e2766/c723f42a/157397
-EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
-http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/3890
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
+http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/69393
 EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1523.1447971434.png" group-title="Sports 1", BOX NATION
 http://catenamode.cf:8090/muttsnuts/PzreCs7oYP/126
 #EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/440-4405308_boxing-news-tv-sign-hd-png-download.png" group-title="Sports 1", TVS BOXING
@@ -98,6 +98,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF: -1 tvg-logo="https://media.info/i/lf/0/1482296522/6412.png" group-title="Sports 1", THOROUGHBRED CENTRAL
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA HD" tvg-logo="" group-title="Sports 1",BEIN SPORTS NBA HD
+http://rv.therevenge.co:80/692361022615717/692361022615717/163913
 EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png" group-title="Sports 1", TRUE TENNIS HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Sports 1", TENNIS
@@ -158,9 +160,9 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ad_sports.jpg" group-title="Sports 2", ABU DHABI SPORT 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-al-kass-one-743.png" group-title="Sports 2", AL KASS SPORTS 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+http://rv.therevenge.co:80/692361022615717/692361022615717/163896
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-al-kass-two-744.png" group-title="Sports 2", AL KASS SPORTS 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+http://rv.therevenge.co:80/692361022615717/692361022615717/163895
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
