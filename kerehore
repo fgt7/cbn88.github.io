@@ -98,8 +98,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF: -1 tvg-logo="https://media.info/i/lf/0/1482296522/6412.png" group-title="Sports 1", THOROUGHBRED CENTRAL
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA HD" tvg-logo="" group-title="Sports 1",BEIN SPORTS NBA HD
-http://rv.therevenge.co:80/692361022615717/692361022615717/163913
 EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/97/82/eb/9782ebded924527be80816df1c7765ab.png" group-title="Sports 1", TRUE TENNIS HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Sports 1", TENNIS
@@ -159,10 +157,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ad_sports.jpg" group-title="Sports 2", ABU DHABI SPORT 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-al-kass-one-743.png" group-title="Sports 2", AL KASS SPORTS 1
-http://rv.therevenge.co:80/692361022615717/692361022615717/163896
-#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/tv-station-al-kass-two-744.png" group-title="Sports 2", AL KASS SPORTS 2
-http://rv.therevenge.co:80/692361022615717/692361022615717/163895
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
