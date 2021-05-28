@@ -91,27 +91,27 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
 
 ***Knowledge***
 #EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="KNOWLADGE",National Geographic 
-http://103.47.132.165:80/PLTV/88888888/224/3221227177/1.m3u8
+http://210.210.155.35/qwr9ew/s/s01/02.m3u
 #EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="National Geographic People" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif" group-title="KNOWLADGE",Nat Geo People 
-http://103.47.132.165:80/PLTV/88888888/224/3221227127/1.m3u8
+http://210.210.155.35/qwr9ew/s/s02/02.m3u
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild Backup" tvg-logo="" group-title="KNOWLADGE",Nat Geo Wild 
-http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
+http://210.210.155.35/qwr9ew/s/s03/02.m3u
 #EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",ANIMAL PLANET 
-http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u
 #EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY CHANNEL 
-http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
+http://210.210.155.35/qwr9ew/s/s05/02.m3u
 #EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY ASIA 
-http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+http://210.210.155.35/qwr9ew/s/s06/02.m3u
 #EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY 
-http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
+http://210.210.155.35/qwr9ew/s/s07/02.m3u
 #EXTINF:-1 group-title="KNOWLADGE" tvg-logo="",AFN 
-http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+http://210.210.155.35/qwr9ew/s/s08/02.m3u
 #EXTINF:-1 group-title="KNOWLADGE" tvg-logo="",CRIME+INVESTIGATION
-http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
+http://210.210.155.35/qwr9ew/s/s09/02.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="" group-title="KNOWLADGE",BBC Lifestyle 
-http://103.47.132.165/PLTV/88888888/224/3221227115/1.m3u8
+http://210.210.155.35/qwr9ew/s/s10/02.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="KNOWLADGE",Love Nature 
-http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
+http://210.210.155.35/qwr9ew/s/s11/02.m3u
 
 
 ***Sports 1***
