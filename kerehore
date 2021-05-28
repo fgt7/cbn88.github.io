@@ -90,40 +90,28 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
 
 
 ***Knowledge***
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_small1.png" group-title="Local TV",TV ONE
-http://rr2.dens.tv/s/s02/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_sctv_small1.png" group-title="Local TV",SCTV
-http://rr2.dens.tv/s/s03/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR
-http://rr2.dens.tv/s/s04/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV
-http://rr2.dens.tv/s/s05/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7
-http://rr2.dens.tv/s/s06/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_small1.png" group-title="Local TV",ANTV
-http://rr2.dens.tv/s/s07/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_small1.png" group-title="Local TV",NET.TV
-http://rr2.dens.tv/s/s08/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_small1.png" group-title="Local TV",KOMPAS TV
-http://rr2.dens.tv/s/s09/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV
-http://rr.dens.tv/h/h05/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
-http://rr2.dens.tv/s/s12/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local TV",RCTI
-https://stream.sindonews.net/live/rctioke.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local TV",GLOBAL TV
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local TV",MNCTV
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_small1.png" group-title="Local TV",JAKTV
-http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_daaitv_small1.png" group-title="Local TV",DAAI TV
-http://rr2.dens.tv/s/s13/index2.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_small1.png" group-title="Local TV",TVRI
-http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="KNOWLADGE",National Geographic 
+http://103.47.132.165:80/PLTV/88888888/224/3221227177/1.m3u8
+#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="National Geographic People" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif" group-title="KNOWLADGE",Nat Geo People 
+http://103.47.132.165:80/PLTV/88888888/224/3221227127/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild Backup" tvg-logo="" group-title="KNOWLADGE",Nat Geo Wild 
+http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
+#EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",ANIMAL PLANET 
+http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
+#EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY CHANNEL 
+http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
+#EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY ASIA 
+http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+#EXTINF:-1 group-title="KNOWLADGE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY 
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
+#EXTINF:-1 group-title="KNOWLADGE" tvg-logo="",AFN 
+http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+#EXTINF:-1 group-title="KNOWLADGE" tvg-logo="",CRIME+INVESTIGATION
+http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="" group-title="KNOWLADGE",BBC Lifestyle 
+http://103.47.132.165/PLTV/88888888/224/3221227115/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="KNOWLADGE",Love Nature 
+http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
 
 
 ***Sports 1***
