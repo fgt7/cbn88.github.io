@@ -90,18 +90,40 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
 
 
 ***Knowledge***
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Channel
-http://103.242.13.90:5555/udp/239.4.2.19:10000
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery World HD
-http://103.242.13.90:5555/udp/239.4.1.20:10000
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",National Geographic
-http://rr.dens.tv/h/h11/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",NatGeo Wild
-http://rr.dens.tv/h/h12/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",CGTN Documentary
-http://rr2.dens.tv/s/s20/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_small1.png" group-title="Local TV",TV ONE
+http://rr2.dens.tv/s/s02/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_sctv_small1.png" group-title="Local TV",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV
+http://rr2.dens.tv/s/s05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7
+http://rr2.dens.tv/s/s06/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_small1.png" group-title="Local TV",ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_small1.png" group-title="Local TV",NET.TV
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_small1.png" group-title="Local TV",KOMPAS TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV
+http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
+http://rr2.dens.tv/s/s12/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local TV",RCTI
+https://stream.sindonews.net/live/rctioke.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local TV",GLOBAL TV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local TV",MNCTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_small1.png" group-title="Local TV",JAKTV
+http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_daaitv_small1.png" group-title="Local TV",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_small1.png" group-title="Local TV",TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
 
 
 ***Sports 1***
