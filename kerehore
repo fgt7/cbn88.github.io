@@ -89,6 +89,21 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
 
 
+***Knowledge***
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Channel
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery World HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",National Geographic
+http://rr.dens.tv/h/h11/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",NatGeo Wild
+http://rr.dens.tv/h/h12/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",CGTN Documentary
+http://rr2.dens.tv/s/s20/index2.m3u8
+
+
 ***Sports 1***
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports 1", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
