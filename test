@@ -1,0 +1,582 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TRANS 7
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TRANS TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-transtv
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL-UseeTv",Indosiar
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indosiar
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-UseeTv",MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL-UseeTv",SCTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sctv
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-UseeTv",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Metro TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-metrotv
+#EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-UseeTv",iNEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL-UseeTv",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",NET TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",RTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rtv
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Berita Satu
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-beritasatu
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Kompas TV https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kompastv
+#EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JITV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jitv
+#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Insert
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-insert
+#EXTINF:-1 tvg-id="" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",ANTARA TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-antara
+#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="LOKAL-UseeTv",Ruang Terampil
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeinfo
+#EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Usee Photo
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useephoto
+#EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Usee Prime
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeprime
+#EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",BALI TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-balitv
+#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JAK TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jaktv
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JTV https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jtv
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TV Edukasi
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvedukasi
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",TVRI
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvri
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",DAAI TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-daaitv
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",RRI NET
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rrinet
+#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="LOKAL-UseeTv",TVRI HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="LOKAL-UseeTv", TV INDO
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+
+###########################
+(( KIDS ))
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BSアニマックス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8e3646b71c2b9dba8fff762f4720ff91.png" group-title="KIDS", ANIMAX
+https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ディズニーチャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/80503a019de716ab75a9c4a172841964.png" group-title="KIDS", DISNEY CHANNEL
+https://cdn.kr130.jpnettv.live/live/disney_channel/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",TV KIDS
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+##########################
+(( HIBURAN ))
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Hiburan", AXN
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-axn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="Hiburan", Kix
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xOsBWex.png" group-title="Hiburan", BLUE ANT EXTREME
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blueantextreme
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCh7eJL.jpg" group-title="Hiburan", BLUE ANT ENTERTAINMENT
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blueant
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Hiburan", Thrill
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-thrill
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Hiburan", Celestial Movie https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-celestialmovie
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Hiburan", Cinema World
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cinemaworld #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Hiburan", Flik
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-filx #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Hiburan", Galaxy https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxy #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Hiburan", Galaxy Premium https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxypremium #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Hiburan", IMC
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-imc
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="Hiburan",Hiburan
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+
+###################################
+(( Movie ))
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movie", Bioskop Indonesia https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bioskopindonesia
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="Movie",HBO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="Movie",HBO Signature
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849bd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="Movie",HBO Hits
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="Movie",HBO Family
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3d045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="Movie",Cinemax
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="Movie",Red By HBO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="Movie",MOVIE
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+###################################
+(( Olahraga ))
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.584ff5bd2369a6a5e4ac7ea63e1a6254.SHINTA" tvg-name"Champions TV 1 _VIDIO" group-title="SPORTS",Champions TV 1
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" tvg-id="RIYAN.9318ca537b07dc37aed3c3cf738721fb.SHINTA" tvg-name"Champions TV 2 _VIDIO" group-title="SPORTS",Champions TV 2
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.4c494bd1109e1bcee005c20860e6df6e.SHINTA" tvg-name"Champions TV 3 _VIDIO" group-title="SPORTS",Champions TV 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1สำรอง
+http://160.119.77.116:8081/iptv/epl-1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 2
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sport.mthai.com/app/uploads/2019/10/truepremierfootballhd3.png",True Premier Football HD 3
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFmk3T-N2QuE4ad2HGDNZJ14TlCOIvHrGdg&usqp=CAU",True Premier Football HD 4
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier Football HD 5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",ช่อง true sport  HD 1
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",ช่อง true sport  HD  2
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",ช่อง true sport  HD 3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",ช่อง true sport  HD 4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",ช่อง true sport 2
+https://laos-tech-live.b-cdn.net/sd-tsport2_480/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",ช่อง true sport 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",ช่อง true sport 7
+http://160.119.77.116:8081/iptv/sd-tsport7.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847!NBA_TV_Philippines.png",ช่อง NBA TV
+https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",ช่อง Tennis HD
+https://laos-tech-live.b-cdn.net/hd-tennis_720/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",ช่อง Golf Channel Thailand
+https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZl-SpdoZYTzvv3QDXxCXEjq05iahDad5Gw&usqp=CAU", Fox Sports 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU",Fox Sports 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png&w=320&h=240",Fox Sports 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",ช่อง NFL TV
+https://laos-tech-live.b-cdn.net/hd-nfl_720/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",ช่อง BT Sport 1 HD
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",ช่อง BT Sport 2 HD
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",ช่อง BT Sport 3 HD
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="SPORTS",SPORTS
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+###########################
+(( BEIN SPORTS ))
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Bein Sports", Bein Sport 1 Usee
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Bein Sports", Bein Sport 2 Usee
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU",ช่อง beIN sport1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU",ช่อง beIN sport1สำรอง
+https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU",ช่อง beIN SPORTS 2
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU",ช่อง beIN SPORTS 2สำรอง
+https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5ImPpKP_BT78t9p6QEJuZRwYBTywToo_ww&usqp=CAU",ช่อง beIN SPORTS 3
+https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6p1wv9Z02vnP9uPDNejoSw0-UD4nazRhsA&usqp=CAU",ช่อง beIN SPORTS 4
+https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcd83hOkBHwgQVUp4Rg7xKoIypd3JZPt9ng&usqp=CAU",ช่อง beIN SPORTS 5
+https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZSjutXtOgLZHX5vGqsk00i6b11KU1zPP1g&usqp=CAU",ช่อง beIN SPORTS 6
+https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 4
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 5
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 6
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 8
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 9
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 10
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 11
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports", Bein Sports 12
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="Bein Sports",BEIN SPORTS
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+###########################
+((( KOREAN )))
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="KOREAN", K+
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kplus
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg" group-title="KOREAN", S ONE
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sone
+
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6190/1bc82b7049e6cbc2068d90baf4e65c4ffde745d7_hq.jpg" tvg-id="RIYAN.7f65e4b3d76fd827e7ac4049e02100fa.SHINTA" tvg-name"[CODAY] TVN _VIDIO" group-title="KOREAN", TVN
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvnmovies
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="KOREAN", KBS World
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kbsworld
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KOREAN",KOREAN
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+############ ((( JAPAN )))
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Gem_TV_Asia_logo.jpg/200px-Gem_TV_Asia_logo.jpg" group-title="JAPAN", S GEM
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sgem
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", Waku Waku Japan https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-wakuwaku
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png" group-title="JAPAN", NHK WORLD
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nhkworld
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ãƒ†ãƒ¬ãƒ“æœæ—¥" tvg-logo="https://origin1-ams.sotalcloud.com/content/public/r599104/64x64:crop?t=1606386336436" group-title="JAPAN",TV Asahi
+https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ãƒ†ãƒ¬ãƒ“æ±äº¬" tvg-logo="https://origin1-ams.sotalcloud.com/content/public/r599136/64x64:crop?t=1606386336437" group-title="JAPAN",TV Tokyo
+https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_007/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«ï¼‘" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/b83f680e1ce06ab456beb47e4f32ba83.png" group-title="JAPAN", Star 1
+https://cdn.jpth10.jpnettv.live/jptv/starch1_540/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«ï¼’" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1fcd59a9242e1290a6d6230bb4383479.png" group-title="JAPAN", Star 2
+https://cdn.jpth10.jpnettv.live/jptv/starch2_540/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«ï¼“" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2f3cdfa740d53d939ba33c1644e418eb.png" group-title="JAPAN", Star 3
+https://cdn.jpth10.jpnettv.live/jptv/starch3_540/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWã‚·ãƒãƒ•ã‚£ãƒ«" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4350eb31c727413345416b84f8b85ba7.jpg" group-title="JAPAN",WOWOW Cinema
+https://cdn.jpth10.jpnettv.live/jptv/cinefil_wowow_540/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BSæ—¥æœ¬æ˜ ç”»å°‚é–€ch" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7efdc3ccf055675bb01cbded259afa86.png" group-title="JAPAN",Old Japanese Movie
+https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="東映チャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f02c1596d9426063497ec76a9a946ee4.png" group-title="JAPAN",東映チャンネル
+https://cdn.jpth10.jpnettv.live/jptv/TOA/playlist.m3u8?
+#EXTINF:-1 group-title="JAPAN" tvg-name="衛星劇場" tvg-logo="https://www.eigeki.com/hp/eigeki/img/eigeki_fb_logo.jpg",衛星劇場
+https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="映画・チャンネルNEKO" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/5f4ff5c6d5cbbf07d843a89353166f3d.png" group-title="JAPAN",映画・チャンネルNEKO
+https://cdn.jpth10.jpnettv.live/jptv/Neco/playlist.m3u8?
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ムービープラス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8a9b88c17c832bebb81f0f5f311d9282.png" group-title="JAPAN",ムービープラス
+https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8?
+#EXTINF:-1 group-title="JAPAN" tvg-name="テレビ大阪JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/658a4e932e85fc055176ac1f4195f6b1.png" ,テレビ大阪JPTH10
+https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
+#EXTINF:-1 group-title="JAPAN" tvg-name="カンテレJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/d77abadf7275c0cb00db7e360c364615.png" ,カンテレJPTH10
+https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="JAPAN",JAPAN
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+###########################
+(( OTHER ))
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",A CNA
+http://45.126.83.51/uq2663/h/h29/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",EGG GAME
+http://45.126.83.51/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", STYLE
+http://45.126.83.51/uq2663/h/h01/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER", LIFE STYLE
+http://45.126.83.51/uq2663/h/h28/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="OTHER",UZUMAKI TV
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+
+###########################
+(( MUSIC ))
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ziv42k_p6xUIMBqi76K-fn9o7UA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" tvg-id="RIYAN.f2f5fad9b860a0193ddae27dd4f87aa4.SHINTA" tvg-name"[CODAY] Citra Dangdut _VIDIO" group-title="MUSIC",Citra Dangdut
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/cdn.pbrd.co/images/JNcq7YP.jpg?o=1" group-title="MUSIC",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="MTV" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4c21fcb1be5f941e0ed936e623ce932a.png" group-title="MUSIC", MTV
+https://cdn.kr130.jpnettv.live/live/mtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Sambel Terasi (DJ Remix) [Official Music Video]
+https://www.googleapis.com/drive/v3/files/1FcuEk1IEKq5bOa3x-HV4X_neWS2_GCKg?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Bojomu Semangatku [Official Music Video]
+https://www.googleapis.com/drive/v3/files/1wHDTk537d1YNA1ul8WPEpad98hjDC0Id?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Denny Caknan - Kartonyono Medot Janji (Official Music)
+https://www.googleapis.com/drive/v3/files/1GtlFcxeYlcBesYsLXQ5lnnqCuNY6O_Pj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Nella Kharisma - Jaran goyang [Official Music]
+https://www.googleapis.com/drive/v3/files/1hdtwM_l_0Gy2TbEN3vLRcx4_ALgfN0oD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Rela Demi Cinta ( Official Music Video )
+https://www.googleapis.com/drive/v3/files/1tr7_yBFE3Bf28mKweA7k_LMOxLcwoW4k?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC",Jihan Audy - Sakit Dalam Bercinta  (Official Music Video)
+https://www.googleapis.com/drive/v3/files/1JPQ2nR3A6PA-hgt2DjRBikuheqdmS-GA?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Budal Rabi (Official Music Video)
+https://www.googleapis.com/drive/v3/files/1GHksIcYA7sYHc_CGrVgIpe6ewzBIJv3N?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Jihan Audy - Prei Kanan Kiri (Official Music)
+https://www.googleapis.com/drive/v3/files/1NRfzF1qX32IsRcybk2Gd-j0_FuyicKBP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Siti Badriah - Lagi Syantik (Official Music)
+https://www.googleapis.com/drive/v3/files/1UgBhx4FvlOnbqdY3qzC87aREgpj2lbCA?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC",Via Vallen - Meraih Bintang  (Official Music Video)
+https://m.vidio.com/videos/1639063/vjs_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Selow  (Official Music Video)
+https://m.vidio.com/videos/1829739/vjs_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Bro  (Official Music Video)
+https://m.vidio.com/videos/1829825/vjs_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Bojo Galak (Official Music Video)
+https://m.vidio.com/videos/1828825/vjs_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Bella Nova - Rumput Tetangga (Official Music Video)
+https://www.googleapis.com/drive/v3/files/1IfusjXxd89-HYp66Iu48ABoWoU_K7qy-?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Wandra - Kangen Setengah Mati (Official Music Video)
+https://www.googleapis.com/drive/v3/files/1xi3Do3V9W41_9jEAGqPFwSVYlR-Q1mvJ?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Wandra - Kelangan (Official Music Video)
+https://www.googleapis.com/drive/v3/files/1HFr6h9nh_poApsUdFb6HabqZUYVP30Jt?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Wandra - Kelangan 2 (Official Music Video)
+https://www.googleapis.com/drive/v3/files/1f4NzIBBYUKWVliNyO15-EIl8jNsK2YT8?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Vita Alvia - Konco Turu (Official Music Video)
+https://www.googleapis.com/drive/v3/files/17-CeSv5eULNioqfXuVPUmkx-pRk4TB_B?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC",UZU TV Music
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
+###########################
+(( VOD ANIMASI ))
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VoD - ANIMASI", Boruto 185
+https://r3---sn-uxa3vhnxa-n0c6.googlevideo.com/videoplayback?expire=1612724879&ei=D8ofYIS1MMHXhwah6oLwCQ&ip=51.159.0.189&id=45c74fef8e81d7b1&itag=18&source=blogger&susc=bl&mime=video/mp4&vprv=1&dur=1434.343&lmt=1612696074369586&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgFXeEY6wAsBMABYlZbWvylNgsfo1-V2k_MR8DXpYRtBQCIQCbgHP1EAyOPmzFb0DR6wH_36JqE0WiYw7GE9j6f2E-eg==&cms_redirect=yes&mh=Lr&mip=182.2.41.79&mm=31&mn=sn-uxa3vhnxa-n0c6&ms=au&mt=1612700239&mv=m&mvi=3&pcm2cms=yes&pl=23&lsparams=mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRgIhAJhcYeMYWiMFZ1knecgiFlm6havnZjmgEAA2lbiSsqziAiEAlHBGDLqJWjQHZtB8Lad7Bn69Gmyzw-uKdDE1AbZDNxs=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VoD - ANIMASI", One Piece 961
+https://r4---sn-4g5e6nle.googlevideo.com/videoplayback?expire=1612696876&ei=rFwfYKTAIdnAhwbsv7LYDw&ip=51.159.0.189&id=280ffafe2c1e4dae&itag=18&source=blogger&susc=bl&mime=video/mp4&vprv=1&dur=1440.171&lmt=1612668072101162&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAITNqr5ACIQsyB7QOYTSNHx15ORHwWHtVvfJE6ZqSpswAiEA3nvkXOiRs0nFgv20AhTxv00MKxtqA3DIQfr6f6PCE5o=&cms_redirect=yes&mh=Le&mip=51.79.173.166&mm=31&mn=sn-4g5e6nle&ms=au&mt=1612670196&mv=m&mvi=4&pl=25&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAK62VD3rV-b1Zu7CMwfmSKTMNaVRxBhRovbK5QRqMCMrAiBc6eyLI6OLtHt37uQuMjTTUVWSZjvBceNgsWcGPb0t_w==
+
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg" group-title="VoD - ANIMASI",Altered Carbon: Resleeved (2020)
+https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg" group-title="VoD - ANIMASI",Abominable (2019)
+https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymfYndRmWvIeq3H12dilQw6wXG4RFVj6vt_yUQw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/nQBOzqA.jpg" group-title="VoD - ANIMASI",Big Hero 6 (2014)
+https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VoD - ANIMASI",Brave (2012)
+https://lh3.googleusercontent.com/5JnP-eTnKSwFQ9M29yEwcU4m3U2twJ9zeEOpzLuDTg0mtZj-7gfI7Ui7aEkeCLVh7NLjUk24muipjgm-aA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg" group-title="VoD - ANIMASI",A Shaun the Sheep Movie: Farmageddon (2019)
+https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HmYjXF.jpg" group-title="VoD - ANIMASI",Batman Ninja (2018)
+https://lh3.googleusercontent.com/-tgi8pvGLgoUmbtSEOR0LuEyZQcvNi_NWM04Xi2FvlN8smXkqE6wcVcesxUkBR1B3FldiYPmjPrusNZmxA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VPBKM1g.jpg" group-title="VoD - ANIMASI",Ice Princess Lily (2018)
+https://lh3.googleusercontent.com/P3PiUglF1AVAY2uqaNaDMiQPW9NOxbQuwttFpC-Di21C_ttxtcoEMk0pybUAWOMXWC2A2AfAKcami9xovw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u32zdt2.jpg" group-title="VoD - ANIMASI",Cars (2006)
+https://lh3.googleusercontent.com/NTaQ7QK6M-pvb2TCZBpua6lgVR7AMHfzS5L5X_BsXPDGGlx1GLenSlvc4ZRtQo0ZHWBdRM2KA-np-lQ7Uw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VwlgFRB.jpg" group-title="VoD - ANIMASI",Cars 2 (2011)
+https://lh3.googleusercontent.com/ZoZmtDYUPUUzVm9ZkF7HbM2uxF80e5aNOEWOX-ks7hMEmIkmLHMlIz4nbZCsGoVT0EIDej-dW5wLtw_eZA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/4MJTuMD.jpg" group-title="VoD - ANIMASI",Cars 3 (2017)
+https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VoD - ANIMASI",Monsters University (2013)
+https://lh3.googleusercontent.com/CrjdkDGEoO0RzVc9UZhMmV6r2jNNLlhqvzYm768vkKY5JAArbC50XvZdAhoYpIaCb09h__j-d-GPBQoTkQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg" group-title="VoD - ANIMASI",Monsters, Inc. (2001)
+https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/saOpM2X.jpg" group-title="VoD - ANIMASI",Frozen (2013)
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tQjVdJc.jpg" group-title="VoD - ANIMASI",Frozen II (2019)
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fmh7eFl.jpg" group-title="VoD - ANIMASI",BoBoiBoy: The Movie (2016)
+https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf7sxeJCRC7q-qGe1SkMke9dDIqYtlRgHk0KbQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iTLF7UE.jpg" group-title="VoD - ANIMASI",BoBoiBoy Movie 2 (2019)
+https://lh3.googleusercontent.com/s_n63JhY1Nh1upoyAT6L653V9BrfKXxrcNbG7zODPUjjD_F4QBeHWxjFshWW3JCYdG4A_X-kx2w3E4xm4w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YAuVdml.jpg" group-title="VoD - ANIMASI",Klaus (2019)
+https://lh3.googleusercontent.com/bZksVRtlxJYkorO8Nv5vhIdEeQmgzLQMcLB0D5VJREvnt70WbJVsl9ZdQo6SzXbSkLMKB0V6Jm4XZWsKYw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LZh9Ujz.jpg" group-title="VoD - ANIMASI",Kung Fu Panda (2008)
+https://lh3.googleusercontent.com/-p78whiwcwyIIVLMyyAv8YEGzBOBqP74QRsprLSdf0hc_mXRkvtp5OB3BWdzt4kT28ujMnjJ1NJGUJ8agw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HytloH.jpg" group-title="VoD - ANIMASI",Kung Fu Panda 2 (2011)
+https://lh3.googleusercontent.com/gSfq9VdV9U8LRF5Cj27gel2507QXEzUhHdljNA9YoLxH4fQMba8rxENXLw8kRSzhifl3QHLonXimSWkSeQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VoD - ANIMASI",Kung Fu Panda 3 (2016)
+https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dfgGzkm.jpg" group-title="VoD - ANIMASI",Throne of Elves (2016)
+https://lh3.googleusercontent.com/z64bQSz2Xc9fAAr467xapW9CrGzs5Mi4EIlWttapanaalcCHLqrmkw2yYT8F6cAVGgAUcIwBCHxrxiTJyQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/RhMIDnp.jpg" group-title="VoD - ANIMASI",Ice Age (2002)
+https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfcSqUlu0-iu5WeZfTcAF5pxTVavum5KHdPnvMw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/wianuVI.jpg" group-title="VoD - ANIMASI",Ice Age: The Meltdown (2006)
+https://lh3.googleusercontent.com/_e3MaCLRE2pFQSYdaLHBoIiN6O7i6ALosCHAiYUDILysW75D9VLG-ChTxhwVk4jUccEXUHa2dqjIoOU1GA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iJofDin.jpg" group-title="VoD - ANIMASI",Ice Age: Dawn of the Dinosaurs (2009)
+https://lh3.googleusercontent.com/S4U5m_bep6TYRYiAIqCmDL8sEzMFZD9QqTe6u_aQjqtJgD6uGSnfKQ-YYWGGGyWcFEm9pbiBhE97JRLlKQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/mKiKnGf.jpg" group-title="VoD - ANIMASI",Ice Age: Continental Drift (2012)
+https://lh3.googleusercontent.com/6QwK8RipgMSvRNhioFlgChBB9olLkEaqC_C22acc4Rikl3Pb6ldczJpFdRUqORmJkvHN5VyQyKAIa8msaw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5gsdkhp.jpg" group-title="VoD - ANIMASI",Ice Age: Collision Course (2016)
+https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u89e0K9.jpg" group-title="VoD - ANIMASI",Dragon Nest: Warriors' Dawn (2014)
+https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/lTiqWPc.jpg" group-title="VoD - ANIMASI",The Incredibles (2004)
+https://lh3.googleusercontent.com/-8QwFnowpt_T1S2-TUnVmD6fq-X16KgrRIPzL81DBT7uDR1R85KFP2O8dIWBvzVeMfRTsz6sVi9TwBIRVQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/R0GwKBj.jpg" group-title="VoD - ANIMASI",Tad: The Explorer (2012)
+https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEtr6nu2Ak47AXKroZsxnwAgZF2nEQAbmkCD5sw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/A3a5UhK.jpg" group-title="VoD - ANIMASI",The Snow Queen  (2012)
+https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NWwwgHi.jpg" group-title="VoD - ANIMASI",The Snow Queen 2 (2014)
+https://lh3.googleusercontent.com/PUkP_uc30xYVDPQPTPBOcYAmdTJDzriV5Jb_RKM0CrMlykOwQBB4a6B4Hs2NMEJwPF5t2bZVqOOSWfjgsQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2RxTk0E.jpg" group-title="VoD - ANIMASI",The Snow Queen 3 (2016)
+https://lh3.googleusercontent.com/VwINSgoBhaYdlPODtPggQCEvv9nUbojqu2y7SyiXV2-Jfp2vU3z-bAJ36yfVCSsmQqhX5ARt-B6HijKjCw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5rsBKFr.jpg" group-title="VoD - ANIMASI",Scooby-Doo! and the Curse of the 13th Ghost (2019)
+https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/MM1v1Iz.jpg" group-title="VoD - ANIMASI",Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
+https://lh3.googleusercontent.com/9Pwu6oU8JOO8xLQvcbZKBv92_Xg30CGIKiZOn_e1zM62QEmMO83oqTYnMZ-qc3ngLmqz64PRK6KjVSbeJQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YMFcpiQ.jpg" group-title="VoD - ANIMASI",Aloha, Scooby-Doo! (2005)
+https://lh3.googleusercontent.com/Hca942oPRyaQMmYwrXXyVT3cbvkPFUcf0awP6SdBQTbX5cayhCHi429tLeEjE8ZyMngLxy5nzKlZiKAe5w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg" group-title="VoD - ANIMASI",Trolls (2016)
+https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap2uuxJAHp4vCn9vQjHTw8cmUtwUAz1wsZUKJg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/09NKdAq.jpg" group-title="VoD - ANIMASI",The Addams Family (2019)
+https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EodiiFj.jpg" group-title="VoD - ANIMASI",Lilo & Stitch (2002)
+https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94USqf182zlQS6a1utV7jiFAzhrqcj9wE-nMaJA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/T45xcT2.jpg" group-title="VoD - ANIMASI",Pokémon the Movie: The Power of Us (2018)
+https://lh3.googleusercontent.com/nOPQnLh3q9rsfXXbL8iBQsU2MN38rPsx9ovcP88eBByElr8UV_djNSArFh1W_T9EVmzZTp_1aLwcczTuCg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/FEJLyE0.jpg" group-title="VoD - ANIMASI",Playmobil: The Movie (2019)
+https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dYdsgjq.png" group-title="VoD - ANIMASI",Peter Rabbit (2018)
+https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHzg9VpmWCZaHJAITEXD9pRoupQhUc6pVgl4rXg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Kvq6iCM.jpg" group-title="VoD - ANIMASI",Rio (2011)
+https://lh3.googleusercontent.com/YXp1lzZCyBQzdw7y9WQzHxlkRHbLc9zR6aEILB-5DAaYXjwSNrlRXvah-s99e_nSkl2unwrO1DXIVUCSrg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/eQKudie.jpg" group-title="VoD - ANIMASI",Rio 2 (2014)
+https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="VoD - ANIMASI",Wreck-It Ralph (2012)
+https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/hIbPFdg.jpg" group-title="VoD - ANIMASI",Ralph Breaks the Internet (2018)
+https://lh3.googleusercontent.com/H_GqI24O5cNbG80JM4gGbXir6_KVd-0pQQJ11eOxPqcMyD7kBoRzqNqNHwk8dOswmg-f9B7D9mDsQX_aCA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tPDZ81o.jpg" group-title="VoD - ANIMASI",The Animatrix (2003)
+https://lh3.googleusercontent.com/w-rIc-U5JWPeWNmb6LDLy99o9A03aSqPYK9IdxF8EDDOPCJvSQEKbUfIuBHTwIf6-KkQYj7CSlwL3NePoQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8JOcZCv.jpg" group-title="VoD - ANIMASI",White Snake (2019)
+https://lh3.googleusercontent.com/RamGmf47xAzSLk9JDJNlfTD_l3aeAKBzjSlOTBDo_Jw30u6fCcz-Pnq1D_8AUO0u5sVMKcesaGeAkayBwg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ar3OoG1.jpg" group-title="VoD - ANIMASI",The Big Bad Fox and Other Tales (2017)
+https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9kh7oB9.jpg" group-title="VoD - ANIMASI",War of the Worlds: Goliath (2012)
+https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gWE4ZKR.jpg" group-title="VoD - ANIMASI",G-Force (2009)
+https://lh3.googleusercontent.com/hhi756pirDCaC88olH53sA6Djx8ftsQIwGfEwgWQ2iWlc40gEeqdxO8cQKFxZOtEEUiBVyvNt2K-zdNEEQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VoD - ANIMASI",Aladin (1993)
+https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/h33B4m5.jpg" group-title="VoD - ANIMASI",Mars Needs Moms (2011)
+https://lh3.googleusercontent.com/b6uTzSPgPRA1yo4ugyinFS0TaKpGHrfKKtLjzFbYQtqtOS1psqw95Xx6hlcvGFsYU5akzv47Prwm1MxIOw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KKMYnZu.jpg" group-title="VoD - ANIMASI",Dragon Quest: Your Story (2019)
+https://lh3.googleusercontent.com/18EQjsSIBHi4fbbOv2wwMLayRH4dk3igm_JvM7Ta0R9oYhrXl_dR7y3xBo_lFpRtSBBc5msG-0NJWQplyA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ivSLobG.jpg" group-title="VoD - ANIMASI",Ejen Ali: The Movie (2019)
+https://lh3.googleusercontent.com/jmLxzKTov1xWOsKFZhNooBeqEsQi6Y-HV2tNpU1QCHwbU8lwD5TfyOw7Hh-mSPUD1F9xBlK2vZPX-p8DMw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xUmHVVm.jpg" group-title="VoD - ANIMASI",Onward (2020)
+https://lh3.googleusercontent.com/fF8HWTTEyxQ47-aS0eX_bgduZKpSz7nQMWvNFZHITRQuzFfDsIEEUnHJLafBEFD5G2YVWzCFvQHondQrww=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BgYDlV3.jpg" group-title="VoD - ANIMASI",Ne Zha (2019)
+https://lh3.googleusercontent.com/c0U7OGUBnkPTdncJ2Ok8ZCZryJ3P6dK82BsWpZX5eNM7Ue4roUSmGdczGLn0yhc6FKnpuHiijTN-apqJ6g=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/cZGo5gT.jpg" group-title="VoD - ANIMASI",Tarzan (2013)
+https://lh3.googleusercontent.com/zufDgL7mogTBnRtvvwRJcdEZR-AkdSbGM24odqJTnp5qp2x_UEirukB_XNB13CjL38w8R2i-ukpD-p62IQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LrWJF1R.jpg" group-title="VoD - ANIMASI",Superman: Red Son (2020)
+https://lh3.googleusercontent.com/_4hWYQK9NZZhVyYrK6f-J7wdBShV1dimiEmZuHn-cSK_7dj5tQk-3S06ZV8bSFId6cb5f1pYZkmJ1q_EIg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg" group-title="VoD - ANIMASI",Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/slalaPk.jpg" group-title="VoD - ANIMASI",Spies in Disguise (2019)
+https://lh3.googleusercontent.com/OoBO6eHYVDaqQGVTbi_V7B6k9gex4sBQghhHRnSTMrv5Z9h4AlICZX5NKjLB0shdHz7QNL3lwNMv2Mqk-w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/UVOZbW5.jpg" group-title="VoD - ANIMASI",Hotel Transylvania 2 (2015)
+https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/s3zlJkN.jpg" group-title="VoD - ANIMASI",Hotel Transylvania 3: Summer Vacation (2018)
+https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg" group-title="VoD - ANIMASI",Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1ZO45Fg.jpg" group-title="VoD - ANIMASI",Rabbit School - Guardians of the Golden Egg (2017)
+https://lh3.googleusercontent.com/eZ7xx-sBxliS9RqIPS83EV1Y2hpMrpGy3quJCh7w6jH6lED7pkifhEsAhF2Irc2fbHKZ-8Ou6MkmxB9GHw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HUIh40G.jpg" group-title="VoD - ANIMASI",Luis and the Aliens (2018)
+https://lh3.googleusercontent.com/ax1thLqrhCB8Xcy99VYX9ASXAejRZwJgkIhLcTEg5V0Gvxww3PelKkJvYp1eOaECcZukq-6Y1r79MInUnA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VRq7FPM.jpg" group-title="VoD - ANIMASI",Trolled (2018)
+https://lh3.googleusercontent.com/genRt26TWtb0zBMuTXuVA1W_JSYNm8Ycyj4B6FM06z71CTtFqzaq31YGm6qQeHxfHwAqL29ke_a2qNH4pg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YQpHmRN.jpg" group-title="VoD - ANIMASI",How to Train Your Dragon (2010)
+https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5jDj8VG1d6eJ1TOK041LriA6FXsOBC2KhWSAxw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dtnZfvd.jpg" group-title="VoD - ANIMASI",How to Train Your Dragon 2 (2014)
+https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg" group-title="VoD - ANIMASI",How to Train Your Dragon: The Hidden World (2019)
+https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fSaLFvF.jpg" group-title="VoD - ANIMASI",Steven Universe: The Movie (2019)
+https://lh3.googleusercontent.com/E99xqFlfU_4bdUjOk9Ji6qIDSO1TCtjVB9lNThPVww_cVaepGnxYNW3PeB01PDJmuZ-Pdr6jt46IgqlQ7w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7BM73j8.jpg" group-title="VoD - ANIMASI",Next Gen (2018)
+https://lh3.googleusercontent.com/NyW6KtjebzkRDEgarfoj4raUDwjirHptpKikrn2vkw_kTWjrRkKA4wVr1TmFPtfrwAKfOK8bt60bAVtAEQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg" group-title="VoD - ANIMASI",Moana (2016)
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kS9Ckkl.jpg" group-title="VoD - ANIMASI",Racetime (2018)
+https://lh3.googleusercontent.com/fhw3X66GqUCTzmwweS1nZmXO7DslzAcbIrPPF09lTwK-teUh8nIFvPsZEhHownMKQtB7T6mBjVBFYtOGaw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/E7sPvZ2.jpg" group-title="VoD - ANIMASI",Spider-Man: Into the Spider-Verse (2018)
+https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xgMF6vM.jpg" group-title="VoD - ANIMASI",Incredibles 2 (2018)
+https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/MsnZYOa.jpg" group-title="VoD - ANIMASI",Duck Duck Goose (2018)
+https://lh3.googleusercontent.com/gdh73W9ibmWLvZGXMyEr5BOmi88klvMshe7Yc8FvAZlxq9ujiS1FEqDQCupwzXarWJWaPDxo0cRPGil7DA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg" group-title="VoD - ANIMASI",Coco (2017)
+https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kl80F2h.jpg" group-title="VoD - ANIMASI",Cinderella the Cat (2017)
+https://lh3.googleusercontent.com/ZeKk8aw26Vle_JgcDATloql64Y8UiMENzgMER2RMRujbGayebdkUum099Mp5T3WhQrs1GoLcvsvFjyKWvw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ooSS6ek.jpg" group-title="VoD - ANIMASI",Ploey (2018)
+https://lh3.googleusercontent.com/By9ezNfZ9dmIC0Qk2vkCfbntcGL6Ybdc13gDV9bAWU85KrBfR45mR_TQOgJmkDUu_XFhKBAJ6cpQqp-HoA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5GGpZyZ.jpg" group-title="VoD - ANIMASI",Spark: A Space Tail (2016)
+https://lh3.googleusercontent.com/UPIm4fM-6VhJ5ExNFfRNiYwLmfEcZ9K9_Aj2bFbbRQQNSwRKnl_6GuNLP7RGTYF54uryWcE0Bp-jQzWAQw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8gmHuxi.jpg" group-title="VoD - ANIMASI",Early Man (2018)
+https://lh3.googleusercontent.com/s3umJBZYY8x6Q19-5gu9IesDlTo7kpR3pT_qGeIinD6zw7L_EQ7VsyoMa9fMFCrmh_sz3QE0PgPoIYP1Rw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1dne2NK.jpg" group-title="VoD - ANIMASI",Ferdinand (2017)
+https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/a4EPNnZ.jpg" group-title="VoD - ANIMASI",The Breadwinner (2017)
+https://lh3.googleusercontent.com/uMgnRZ7dVhTAZ-jF4yb655NXUd-h4-YWxng7S0SVVozx40O0DAT09G4GtzHn08KtdVWkvLPvjd4K0hnh9A=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/S1F4lse.jpg" group-title="VoD - ANIMASI",Woody Woodpecker (2017)
+https://lh3.googleusercontent.com/LAO2jlag3W5IvX5S1oRmvIc77JKlhtfvkHVTC3NxJgRWsdyDtwk17HKkJvx_gQzYJnV6CmyYqQx78l8onQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/JInxoDt.jpg" group-title="VoD - ANIMASI",Bilal: A New Breed of Hero (2015)
+https://lh3.googleusercontent.com/f3uaz13M7le6hfjKjBOIR6tNCUObu4gIPfEFosf6j72n2gWAg7J05A7CV6M-w8FcwdtXirBy5atiF78XDQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg" group-title="VoD - ANIMASI",The Boss Baby (2017)
+https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iPBjM6y.jpg" group-title="VoD - ANIMASI",The Emoji Movie (2017)
+https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VoD - ANIMASI",UZU TV Anime
+https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
