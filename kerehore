@@ -99,31 +99,31 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="DisneyJunior.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneyjunior.png", Disney Junior (ENG)
-https://delivery.zichannels.xyz/stream/disneyjunior_en/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/disneyjunior_en/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="DisneyJunior.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneyjunior.png", Disney Junior (IDN)
-https://delivery.zichannels.xyz/stream/disneyjunior_id/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/disneyjunior_id/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="CartoonNetwork.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/cartoonnetwork.png", Cartoon Network (ENG)
-https://delivery.zichannels.xyz/stream/cartoonnetwork_en/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/cartoonnetwork_en/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="CartoonNetwork.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/cartoonnetwork.png", Cartoon Network (IDN)
-https://delivery.zichannels.xyz/stream/cartoonnetwork_id/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/cartoonnetwork_id/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="DisneyChannel.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneychannel.png", Disney Channel (ENG)
-https://delivery.zichannels.xyz/stream/disneychannel_en/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/disneychannel_en/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="DisneyChannel.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneychannel.png", Disney Channel (IDN)
-https://delivery.zichannels.xyz/stream/disneychannel_id/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/disneychannel_id/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/dreamworks.png", Dreamworks (IDN)
-https://delivery.zichannels.xyz/stream/dreamworks_id/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/dreamworks_id/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/dreamworks.png", Dreamworks (ENG)
-https://delivery.zichannels.xyz/stream/dreamworks_en/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/dreamworks_en/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lingua.MACAN" tvg-name="Lingua.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/lingua.png", Lingua
-https://delivery.zichannels.xyz/stream/lingua/playlist.m3u8?token=evqgm&v=20200807
+https://delivery.zichannels.xyz/stream/lingua/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.MACAN" tvg-name="BabyTV.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/babytv.png", BabyTV
 https://delivery.zichannels.xyz/stream/babytv/playlist.m3u8?token=evqgm&v=20200807
