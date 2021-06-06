@@ -88,7 +88,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_small1.png?v=2.0.0.13" group-title="Local Vidio", JAK TV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_480p/index.m3u8
 EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Local Vidio", TVN [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6362_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="Local Vidio", Citra Drama [VIDIO] 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Local Vidio", Citra Muslim [VIDIO] 
@@ -96,7 +96,47 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="Local Vidio", Citra Bioskop [VIDIO] 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
 EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Local Vidio", Zee Bioskop [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_geo_6399_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local Vidio", MYTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="Local Vidio", Nusantara TV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7432_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxMM0S7/daaitv.png" group-title="Local Vidio", Daai TV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Local Vidio", ChampionTV 1 [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Local Vidio", ChampionTV 2 [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Local Vidio", ChampionTV 3 [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Vidio", Zing [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/error/not-found@2x.png" group-title="Local Vidio", Mola TV Free [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6840_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="Local Vidio", Aljazeera [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6410_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="Local Vidio", EuroNews [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6412_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="Local Vidio", DW (English) [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="Local Vidio", ABC Australia [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png?v=1" group-title="Local Vidio", SEA TODAY [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7687_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Local Vidio", HipHip Horee [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Local Vidio", Zoo Moo [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6533_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Local Vidio", DaVinci [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6549_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Local Vidio", Horee [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Local Vidio", Smithsonian [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Local Vidio", Love Nature [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6635_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Local Vidio",TV Edukasi [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
 
 
 ***Sports 1***
@@ -227,11 +267,11 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 
 
 ***Knowledge***
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", National Geographic
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", National Geographic
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo People
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo People
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
 
 
