@@ -87,7 +87,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_small1.png?v=2.0.0.13" group-title="Local Vidio", JAK TV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_480p/index.m3u8
-EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Local Vidio", TVN [VIDIO] 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Local Vidio", TVN [VIDIO] 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="Local Vidio", Citra Drama [VIDIO] 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8 
@@ -95,7 +95,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="Local Vidio", Citra Bioskop [VIDIO] 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
-EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Local Vidio", Zee Bioskop [VIDIO] 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Local Vidio", Zee Bioskop [VIDIO] 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local Vidio", MYTV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6711_720p/index.m3u8
