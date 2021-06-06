@@ -87,16 +87,6 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_small1.png?v=2.0.0.13" group-title="Local Vidio", JAK TV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_480p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Local Vidio", TVN [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="Local Vidio", Citra Drama [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Local Vidio", Citra Muslim [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="Local Vidio", Citra Bioskop [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Local Vidio", Zee Bioskop [VIDIO] 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local Vidio", MYTV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="Local Vidio", Nusantara TV [VIDIO]
@@ -109,10 +99,16 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Local Vidio", ChampionTV 3 [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Vidio", Zing [VIDIO]
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/error/not-found@2x.png" group-title="Local Vidio", Mola TV Free [VIDIO]
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6840_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Local Vidio", TVN [VIDIO] 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="Local Vidio", Citra Drama [VIDIO] 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Local Vidio", Citra Muslim [VIDIO] 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="Local Vidio", Citra Bioskop [VIDIO] 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Local Vidio", Zee Bioskop [VIDIO] 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="Local Vidio", Aljazeera [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6410_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="Local Vidio", EuroNews [VIDIO]
@@ -137,6 +133,10 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6635_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Local Vidio",TV Edukasi [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="Local Vidio", Zing [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/error/not-found@2x.png" group-title="Local Vidio", Mola TV Free [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6840_720p/index.m3u8
 
 
 ***Sports 1***
