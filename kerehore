@@ -273,6 +273,18 @@ EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeop
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NAT GEO
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NAT GEO PEOPLE
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",NAT GEO WILD
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",LOVE NATURAL
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",OUTDOOR
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",ANIMAL PLANET
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 
 ***Premium Channel***
