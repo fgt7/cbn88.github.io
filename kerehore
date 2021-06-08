@@ -2,11 +2,9 @@
 
 ***Local***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ=
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138
@@ -60,6 +58,8 @@ http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 
 
 ***Local Vidio***
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local Vidio", ANTV
+http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local Vidio", INDOSIAR [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local Vidio", RCTI [VIDIO]
@@ -76,6 +76,8 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local Vidio", RTV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_1561_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local Vidio", TVONE
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local Vidio", METRO TV [VIDIO]
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local Vidio", NET HD [VIDIO]
