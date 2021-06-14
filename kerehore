@@ -383,7 +383,7 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 ***Premium Channel***
 #EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium Channel", EGG TV 
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Kids", ANIMAX
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Premium Channel", ANIMAX
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", FIGHT SPORT 
 http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
