@@ -237,6 +237,22 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6533_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6549_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", Horee
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First 
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148182   
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", Boomerang 
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148179 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior 
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148177 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon 
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148181  
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids", Dreamworks 
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148180 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Kids", Animax 
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Kids", Aniplus 
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 
 
 ***Sports 1***
@@ -376,13 +392,7 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium Channel", EGG TV 
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", FIGHT SPORT 
-http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Premium Channel", ANIMAX 
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aniplus.png" group-title="Premium Channel", ANIPLUS 
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8 
-#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Premium Channel", MKIDZ 
-http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8 
+http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="Premium Channel", TVN 
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvnmovies.png" group-title="Premium Channel", TVN MOVIES 
