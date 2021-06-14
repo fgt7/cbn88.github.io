@@ -242,7 +242,7 @@ http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior 
 https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148177 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon 
-https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148181   
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/47   
 
 
 ***Sports 1***
@@ -298,13 +298,13 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", ChampionTV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
-https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147893
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a254.png" group-title="Sports 2",ASTRO SUPERSPORT 2
-https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147894
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="Sports 2",ASTRO SUPERSPORT 3
-https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147895
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
-https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147896
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 2
