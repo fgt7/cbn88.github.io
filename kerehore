@@ -230,28 +230,38 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo Wild
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature
+EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6635_720p/index.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian
+EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=disco
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", History 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=history
 
 
 ***Kids***
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee
+EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", Zoo Moo
+EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", Zoo Moo
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6533_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DaVinci
+EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DaVinci
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6549_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", Horee
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
-http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8   
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=horee  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior 
-http://bazarhd.online:80/307210575557/307210575557/85131 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=nickjr 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon 
-http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/47   
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=nickelodeon   
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=babyfirst
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", Boomerang 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=boomerang 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", Dunia Anak 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=duniaanak
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network 
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=cartoonnetwork 
 
 
 ***Sports 1***
@@ -300,11 +310,11 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 ***Sports 2***
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", ChampionTV 1
+EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", ChampionTV 1
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", ChampionTV 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", ChampionTV 2
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", ChampionTV 3
+EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", ChampionTV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
