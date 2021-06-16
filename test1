@@ -5,7 +5,7 @@
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 ,
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-name="Server ID: RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI ( Mynetqu.id )
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-name="Server ID: RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI
 https://fikrulmkc.my.id/bagus/usee-jtv.m3u8
 #EXTINF:-1 ,
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
