@@ -12,8 +12,8 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4
 https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local", TRANS TV
@@ -251,9 +251,11 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", Da
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6549_720p/index.m3u8
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", Horee
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=horee  
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", Nick Junior 
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=nickjr 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon 
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=nickelodeon   
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First 
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=babyfirst
@@ -354,11 +356,11 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 1
-https://www.warpfootball.games/live/?ch=truesporthd
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 2
-https://www.warpfootball.games/live/?ch=truesporthd2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 3
-https://www.warpfootball.games/live/?ch=truesporthd3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 2
