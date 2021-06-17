@@ -173,11 +173,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 ***Vidio***
 EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Vidio", ANTV
 http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ=
-# EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Vidio", INDOSIAR
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Vidio", INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1623951201~acl=/hls-p/ingest_205_*/*~hmac=77a12423cd1d9a943827a1e4d6a799385ab05c9becd7855e5234c2b7db9ce688/hls-p/ingest_205_720p/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
 https://etslive-2-vidio-com.akamaized.net/exp=1623920414~acl=/hls-b/ingest_205_*/*~hmac=bb01ef519a7eb1faa8aff28c7b805d92b1bd2dcf3a344d39f44e7b251243aec4/hls-b/ingest_205_720p/index.m3u8
- #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Vidio", RCTI
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Vidio", RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1623950882~acl=/hls-p/ingest_665_*/*~hmac=2c3fd95d6d33b428f76911a1eeb679c665158391392fa987854a2eb65a3da6c8/hls-p/ingest_665_720p/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 https://etslive-2-vidio-com.akamaized.net/exp=1623920415~acl=/hls-b/ingest_665_*/*~hmac=a3fbd5e41143af14522f0085de58619fa7e9082d6d93674206065be784ba88b2/hls-b/ingest_665_720p/index.m3u8
