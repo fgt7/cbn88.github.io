@@ -31,7 +31,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1422440354_b744100_sl
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
-https://etslive-2-vidio-com.akamaized.net/exp=1624005018~acl=/hls-p/ingest_5409_*/*~hmac=7715e9e1ec8e72a8c440b69026ee5e068abc28fb6984faf690f3f92fd99be7f7/hls-p/ingest_5409_720p/index.m3u8
+http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-5409
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
