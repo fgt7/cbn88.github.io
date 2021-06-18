@@ -20,15 +20,15 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel-avc1_1000000=6-mp4a_66000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local", TRANS TV
-https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1422440354_b744100_sleng.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1422440354_b744100_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
-https://etslive-2-vidio-com.akamaized.net/exp=1623947418~acl=/hls-p/ingest_5409_*/*~hmac=10a3d4f921ca22a4dc03c76f0188da0358a545e3e662fdf6164d4aae9b3a045a/hls-p/ingest_5409_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1624005018~acl=/hls-p/ingest_5409_*/*~hmac=7715e9e1ec8e72a8c440b69026ee5e068abc28fb6984faf690f3f92fd99be7f7/hls-p/ingest_5409_720p/index.m3u8
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
@@ -173,52 +173,52 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 ***Vidio***
 EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Vidio", ANTV
 http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ=
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Vidio", INDOSIAR
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Vidio", INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1623951201~acl=/hls-p/ingest_205_*/*~hmac=77a12423cd1d9a943827a1e4d6a799385ab05c9becd7855e5234c2b7db9ce688/hls-p/ingest_205_720p/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
 https://etslive-2-vidio-com.akamaized.net/exp=1623920414~acl=/hls-b/ingest_205_*/*~hmac=bb01ef519a7eb1faa8aff28c7b805d92b1bd2dcf3a344d39f44e7b251243aec4/hls-b/ingest_205_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Vidio", RCTI
+EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Vidio", RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1623950882~acl=/hls-p/ingest_665_*/*~hmac=2c3fd95d6d33b428f76911a1eeb679c665158391392fa987854a2eb65a3da6c8/hls-p/ingest_665_720p/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 https://etslive-2-vidio-com.akamaized.net/exp=1623920415~acl=/hls-b/ingest_665_*/*~hmac=a3fbd5e41143af14522f0085de58619fa7e9082d6d93674206065be784ba88b2/hls-b/ingest_665_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Vidio", MNCTV
+EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Vidio", MNCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1623951097~acl=/hls-p/ingest_870_*/*~hmac=451d529f7af725d2b7720748dad87af6998592b66466d4d4034314236e96a30a/hls-p/ingest_870_720p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1623920133~acl=/hls-p/ingest_870_*/*~hmac=04ff04fca5d0843b78b9a740f792dc3a3aec062cb841a893e6c68156effd490e/hls-p/ingest_870_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Vidio", GTV
+EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Vidio", GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1623951122~acl=/hls-p/ingest_778_*/*~hmac=73bbb8417b630e505c800f3722762bd7b9e42e416dcf0da7e96f4f641d406a92/hls-p/ingest_778_720p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1623920225~acl=/hls-p/ingest_778_*/*~hmac=4447de7ef4782b7ef473f4546160606523afac599cc2da125aecf01bf6bf778e/hls-p/ingest_778_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Vidio", SCTV
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Vidio", SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1623950999~acl=/hls-p/ingest_204_*/*~hmac=9ad6f7ed81eb804fbedc16b71836f8e151ed04effb9d44c1891819e677573735/hls-p/ingest_204_720p/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 https://etslive-2-vidio-com.akamaized.net/exp=1623920195~acl=/hls-b/ingest_204_*/*~hmac=f656b016e8284cd528a842fc3591b665aaaa605e2218b8d23d9b81fc2c455665/hls-b/ingest_204_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Vidio", TRANS TV
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Vidio", TRANS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1623951031~acl=/hls-p/ingest_733_*/*~hmac=d306355cd6e461a04d20fec862a135ae6c09cad69c5698b5a772c278e62cc949/hls-p/ingest_733_720p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1623920156~acl=/hls-b/ingest_733_*/*~hmac=a12b6f6fdf7b1ab30533795d2104736f1be85d5233dabd2c68a0f33fb1717e01/hls-b/ingest_733_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Vidio", TRANS7
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Vidio", TRANS7
 https://etslive-2-vidio-com.akamaized.net/exp=1623951072~acl=/hls-p/ingest_734_*/*~hmac=94020c93a78502af4b289d60e66617b8b1e0f3699d1ceaca5ff66dd697f3f149/hls-p/ingest_734_720p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1623920418~acl=/hls-b/ingest_734_*/*~hmac=f85abc3d7e4b357acebb5f0ea9bb9c041701793cd7997e74ec85cb6e6ec610e4/hls-b/ingest_734_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Vidio", RTV
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Vidio", RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1623951262~acl=/hls-p/ingest_1561_*/*~hmac=ec446426a46c6f4519665cdc2a1e4b442e028aed6823fe99d4ba7c9547560d5e/hls-p/ingest_1561_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_1561_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
+EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
 https://etslive-2-vidio-com.akamaized.net/exp=1623951229~acl=/hls-p/ingest_5409_*/*~hmac=5422889adb17279701207138fa99fd0f8b7e4b7879fb9ff535752477eb84a7cf/hls-p/ingest_5409_720p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1623920275~acl=/hls-p/ingest_5409_*/*~hmac=93048ce6daea55834bcaade2d8d097f4626e794787487709dea6b1e6ea12bea4/hls-p/ingest_5409_720p/index.m3u8
 EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Vidio", TVONE
 http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160668?play_token=aH9dft2lFi&token=ShdcBRFREglDUFdQWlVcVgQFXVYJCQFRXlxcDAJSCwRVA1ZWBwhSVVFGHxERR0tSUF5mClwbCQZQVQ8DD04bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEIAg0YRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHcHEVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Vidio", METRO TV
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Vidio", METRO TV
 https://etslive-2-vidio-com.akamaized.net/exp=1623951148~acl=/hls-p/ingest_777_*/*~hmac=dc6a244e3dbf1e69fc0f8002e4b76ca9a0da17501b72a52fd0656dc5564d76ab/hls-p/ingest_777_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Vidio", NET HD
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Vidio", NET HD
 https://etslive-2-vidio-com.akamaized.net/exp=1623951175~acl=/hls-p/ingest_875_*/*~hmac=b488e2c25766bd3e3f8e7f869a2223c81d1fdd95aca5dd1e8d7b0d7111c46c3c/hls-p/ingest_875_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Vidio", KOMPAS TV
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Vidio", KOMPAS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1623951283~acl=/hls-p/ingest_874_*/*~hmac=e2c2055a7cbaf0a78d6690eaa4891180a0d311338beb66601d4ba80ecc54900e/hls-p/ingest_874_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="Vidio", TVRI
+EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="Vidio", TVRI
 https://etslive-2-vidio-com.akamaized.net/exp=1623951303~acl=/hls-p/ingest_6441_*/*~hmac=76d34d42a131ef65920dd7428dc203f5675162685cd1976c14d351f6daa1bf7a/hls-p/ingest_6441_720p/index.m3u8
 EXTINF: -1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="Vidio", O CHANNEL
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
