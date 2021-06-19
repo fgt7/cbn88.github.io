@@ -293,6 +293,29 @@ http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=cartoonnetwork
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 
 
+***Bein Sports***
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49229
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49230
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49231
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 4
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52518
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 5
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52519
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 6
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52520
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 7
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52521
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52522
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 9
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52523
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS MAX 10
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52524
+
+
 ***Sports 1***
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports 1", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
@@ -362,19 +385,19 @@ https://gma2.blab.email/fs2.m3u8
 #EXTINF: -1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports 2",ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 1
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95408
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 2
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95411
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS XTRA
-http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/13
+#EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 3
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95413
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33705
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 2
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33704
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 3
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33703
-EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 4
-http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/17
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 2
@@ -409,6 +432,39 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+***Supersport***
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PLAY HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116674
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT MAXIMO 1
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116675
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT BLITZ HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116676
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT EVENTS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116677
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT MOTORSPORT HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116678
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT GOLF HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116679
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT CRICKET HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116680
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT RUGBY HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116681
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT TENNIS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116682
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT FOOTBAL PLUS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116683
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT LALIGA HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116684
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PREMIER LEAGUE HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116685
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT FOOTBALL HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116686
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PSL HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116687
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT ACTION HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116688
 
 
 ***Skynet Sport***
