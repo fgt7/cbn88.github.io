@@ -1,25 +1,217 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" ,Trans TV ( Mynetqu.id )
-https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
-#EXTINF:-1 ,
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-name="Server ID: RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI
-https://fikrulmkc.my.id/bagus/usee-jtv.m3u8
-#EXTINF:-1 ,
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MNCTV.id" tvg-name="Server ID: MNCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" ,MNCTV ( Mynetqu.id )
-https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 ,
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qP4ACF-N0i-Oh1GyPZ6wUuWRzvM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/41be2c.jpg" ,GTV ( Mynetqu.id )
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
-#EXTINF:-1 ,
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVOne.id" tvg-name="TVOne.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" ,TV ONE ( Mynetqu.id )
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:-1 ,
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" ,ANTV ( Mynetqu.id )
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1,SCTV_3
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1,INDOSIAR_4
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1,ANTV_7
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1,NET TV_8
+http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,ELSHINTA_10
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1,TVRI_11
+http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1,rTV_12
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1,DAAI TV_13
+http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1,rODJA TV_14
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1,Al-Jazeera_16
+http://210.210.155.35:80/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1,Al-Jazeera 2_17
+http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1,CCTV 4_19
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1,CGTV_20
+http://210.210.155.35:80/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1,CHINA 1_21
+http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1,FRANCE 24_22
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1,RT tv_23
+http://210.210.155.35:80/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1,DW_26
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1,Mekah live_27
+http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1,Mekah 2_28
+http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,China 2_29
+http://210.210.155.35:80/qwr9ew/s/s29/01.m3u8
+#EXTINF:-1,ZEE Bioskop_32
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,Celestial movie_33
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,Thrill_34
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,RTP_38
+http://210.210.155.35:80/qwr9ew/s/s38/01.m3u8
+#EXTINF:-1,TBN Asia_39
+http://210.210.155.35:80/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1,V channel_41
+http://210.210.155.35:80/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1,_44
+http://210.210.155.35:80/qwr9ew/s/s44/01.m3u8
+#EXTINF:-1,qwr9ew_45
+http://210.210.155.35:80/qwr9ew/s/s45/01.m3u8
+#EXTINF:-1,qwr9ew_46
+http://210.210.155.35:80/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1,qwr9ew_50
+http://210.210.155.35:80/qwr9ew/s/s50/01.m3u8
+#EXTINF:-1,Trans 7_101
+http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1,Kompas_104
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1,TV one_105
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1,TVRI SPORT_107
+http://210.210.155.35:80/qwr9ew/s/s107/01.m3u8
+#EXTINF:-1,Aniplus_2
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1,News global_3
+http://210.210.155.35:80/dr9445/h/h03/01.m3u8
+#EXTINF:-1,Cinema word_4
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1,KiX_7
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+#EXTINF:-1,_9
+http://210.210.155.35:80/dr9445/h/h09/01.m3u8
+#EXTINF:-1,golf_10
+http://210.210.155.35:80/dr9445/h/h10/01.m3u8
+#EXTINF:-1,_11
+http://210.210.155.35:80/dr9445/h/h11/01.m3u8
+#EXTINF:-1,dr9445_15
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1,Blue ant entertaiment_16
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1,TVN_20
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF:-1,TVN MOVIE_21
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF:-1,live style_28
+http://210.210.155.35:80/dr9445/h/h28/01.m3u8
+#EXTINF:-1,Hits_37
+http://210.210.155.35:80/dr9445/h/h37/01.m3u8
+#EXTINF:-1,AXN_141
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF:-1,ANIMAX_144
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+#EXTINF:-1,_3
+http://210.210.155.35:80/uq2663/h/h03/01.m3u8
+#EXTINF:-1,_4
+http://210.210.155.35:80/uq2663/h/h04/01.m3u8
+#EXTINF:-1,uq2663_5
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+#EXTINF:-1,uq2663_7
+http://210.210.155.35:80/uq2663/h/h07/01.m3u8
+#EXTINF:-1,K+_8
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:-1,HIGH LIGH_9
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+#EXTINF:-1,_12
+http://210.210.155.35:80/uq2663/h/h12/01.m3u8
+#EXTINF:-1,Cinema EUROPA_18
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
+#EXTINF:-1,GEM_19
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1,GAme online_22
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+#EXTINF:-1,NHK WORD JAPAN_23
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1,_28
+http://210.210.155.35:80/uq2663/h/h28/01.m3u8
+#EXTINF:-MEDIACOP_29
+http://210.210.155.35:80/uq2663/h/h29/01.m3u8
+#EXTINF:-1,uq2663_37
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+#EXTINF:-1,uq2663_141
+http://210.210.155.35:80/uq2663/h/h141/01.m3u8
+#EXTINF:-1,uq2663_142
+http://210.210.155.35:80/uq2663/h/h142/01.m3u8
+#EXTINF:-1,ONE korea_143
+http://210.210.155.35/uq2663/h/h155/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_40
+http://210.210.155.35:80/uq2663/h/h40/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_41
+http://210.210.155.35:80/uq2663/h/h41/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_42
+http://210.210.155.35:80/uq2663/h/h42/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_43
+http://210.210.155.35:80/uq2663/h/h43/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_45
+http://210.210.155.35:80/uq2663/h/h45/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_46
+http://210.210.155.35:80/uq2663/h/h46/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_49
+http://210.210.155.35:80/uq2663/h/h49/S4/mnf.m3u8
+#EXTINF:-1,M cinema_S4_90
+http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1,WION_S4_91
+http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_92
+http://210.210.155.35:80/uq2663/h/h92/S4/mnf.m3u8
+#EXTINF:-1,UA animasi_S4_101
+http://210.210.155.35:80/uq2663/h/h101/S4/mnf.m3u8
+#EXTINF:-1,KSA_S4_151
+http://210.210.155.35:80/uq2663/h/h151/S4/mnf.m3u8
+#EXTINF:-1,DUbai CCYD_S4_152
+http://210.210.155.35:80/uq2663/h/h152/S4/mnf.m3u8
+#EXTINF:-1,Telenovela channel_S4_153
+http://210.210.155.35:80/uq2663/h/h153/S4/mnf.m3u8
+#EXTINF:-1,FILMY INDIA_S4_154
+http://210.210.155.35:80/uq2663/h/h154/S4/mnf.m3u8
+#EXTINF:-1,Cinema indonesia_S4_155
+http://210.210.155.35:80/uq2663/h/h155/S4/mnf.m3u8
+#EXTINF:-1,TRT WORD_S4_156
+http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1,China e_S4_157
+http://210.210.155.35:80/uq2663/h/h157/S4/mnf.m3u8
+#EXTINF:-1,TVE_S4_158
+http://210.210.155.35:80/uq2663/h/h158/S4/mnf.m3u8
+#EXTINF:-1,Bali Tv_S4_159
+http://210.210.155.35:80/uq2663/h/h159/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_160
+http://210.210.155.35:80/uq2663/h/h160/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_161
+http://210.210.155.35:80/uq2663/h/h161/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_162
+http://210.210.155.35:80/uq2663/h/h162/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_163
+http://210.210.155.35:80/uq2663/h/h163/S4/mnf.m3u8
+#EXTINF:-1,uq2663_S4_164
+http://210.210.155.35:80/uq2663/h/h164/S4/mnf.m3u8
+#EXTINF:-1,RTV30
+http://210.210.155.35:80/qwr9ew/s/s30/S4/mnf.m3u8
+#EXTINF:-1,RTV31
+http://210.210.155.35:80/qwr9ew/s/s31/S4/mnf.m3u8
+#EXTINF:-1,RTV46
+http://210.210.155.35:80/uq2663/h/h46/S3/mnf.m3u8
+#EXTINF:-1,RTV151
+http://210.210.155.35:80/uq2663/h/h151/S3/mnf.m3u8
+#EXTINF:-1,RTV153
+http://210.210.155.35:80/uq2663/h/h153/S3/mnf.m3u8
+#EXTINF:-1,RTV154
+http://210.210.155.35:80/uq2663/h/h154/S3/mnf.m3u8
+#EXTINF:-1,RTV155
+http://210.210.155.35:80/uq2663/h/h155/S3/mnf.m3u8
+#EXTINF:-1,RTV156
+http://210.210.155.35:80/uq2663/h/h156/S3/mnf.m3u8
+#EXTINF:-1,RTV157
+http://210.210.155.35:80/uq2663/h/h157/S3/mnf.m3u8
+#EXTINF:-1,RTV158
+http://210.210.155.35:80/uq2663/h/h158/S3/mnf.m3u8
+#EXTINF:-1,RTV159
+http://210.210.155.35:80/uq2663/h/h159/S3/mnf.m3u8
+#EXTINF:-1,RTV160
+http://210.210.155.35:80/uq2663/h/h160/S3/mnf.m3u8
+#EXTINF:-1,RTV161
+http://210.210.155.35:80/uq2663/h/h161/S3/mnf.m3u8
+#EXTINF:-1,RTV162
+http://210.210.155.35:80/uq2663/h/h162/S3/mnf.m3u8
+#EXTINF:-1,RTV163
+http://210.210.155.35:80/uq2663/h/h163/S3/mnf.m3u8
+#EXTINF:-1,RTV164
+http://210.210.155.35:80/uq2663/h/h164/S3/mnf.m3u8
