@@ -131,8 +131,5 @@ http://210.210.155.35:80/uq2663/h/h157/S4/mnf.m3u8
 http://210.210.155.35:80/uq2663/h/h158/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",BALI TV
 http://210.210.155.35:80/uq2663/h/h159/S4/mnf.m3u8
-#EXTINF:-1,MYKIDS
-http://210.210.155.35:80/qwr9ew/s/s30/S4/mnf.m3u8
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35:80/qwr9ew/s/s31/S4/mnf.m3u8
+
 
