@@ -433,6 +433,8 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Premium Channel", ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Premium Channel", ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", FIGHT SPORT 
 http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Premium Channel", TVN 
@@ -449,6 +451,14 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Premium Channel", K+ 
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="Premium Channel", CCTV4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="Premium Channel", FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="Premium Channel", DW (English)
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="Premium Channel", NHK World Japan
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Premium Channel", SONY GEM TV 
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="Premium Channel", SONY ONE 
