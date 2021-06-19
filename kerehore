@@ -429,14 +429,10 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 
 
 ***Premium Channel***
-#EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Premium Channel", EGG TV 
-http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Premium Channel", ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Premium Channel", ANIPLUS
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", FIGHT SPORT 
-http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Premium Channel", TVN 
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Premium Channel", TVN MOVIES 
@@ -471,10 +467,14 @@ http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Premium Channel", THRILL 
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8  
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="Premium Channel", TV5MONDE STYLE 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="Premium Channel", TV5 MONDE
 http://210.210.155.35:80/uq2663/h/h01/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Premium Channel", BLOOMBERG 
 http://210.210.155.35:80/uq2663/h/h03/01.m3u8
+#EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Premium Channel", EGG TV 
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="Premium Channel", MYCINEMA 
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", FIGHT SPORT 
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 
