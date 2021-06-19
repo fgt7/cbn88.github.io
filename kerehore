@@ -439,9 +439,9 @@ http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Premium Channel", TVN MOVIES 
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="BACKUP", AXN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Premium Channel", AXN
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="BACKUP", KIX
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="Premium Channel", KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Premium Channel", BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8 
