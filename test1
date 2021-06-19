@@ -1,121 +1,121 @@
 #EXTM3U
 
 
-#EXTINF:-1,SCTV_3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1,INDOSIAR_4
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1,ANTV_7
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1,NET TV_8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local", NET.
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1,ELSHINTA_10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYGvYtz/elshinta.png" group-title="Radio-Vidio", Elshinta
 http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1,TVRI_11
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI
 http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1,rTV_12
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1,DAAI TV_13
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Local",DAAI TV
 http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1,rODJA TV_14
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Local", RODJA TV
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1,Al-Jazeera_16
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera
 http://210.210.155.35:80/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1,Al-Jazeera 2_17
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera 2
 http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1,CCTV 4_19
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="Entertainment", CCTV4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1,CGTN DOCUMENTARY_20
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary
 http://210.210.155.35:80/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1,CHINA 1_21
 http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
-#EXTINF:-1,FRANCE 24_22
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News", France 24
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1,RT tv_23
 http://210.210.155.35:80/qwr9ew/s/s23/01.m3u8
-#EXTINF:-1,DW_26
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News", DW (English)
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1,Mekah live_27
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Religi", Mekkah
 http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1,Mekah 2_28
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Religi", Mekkah 2
 http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,China 2_29
 http://210.210.155.35:80/qwr9ew/s/s29/01.m3u8
-#EXTINF:-1,ZEE Bioskop_32
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies", ZEE Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1,Celestial movie_33
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies", Celestial Movie
 http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1,Thrill_34
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", Thrill
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,RTP_38
 http://210.210.155.35:80/qwr9ew/s/s38/01.m3u8
 #EXTINF:-1,TBN Asia_39
 http://210.210.155.35:80/qwr9ew/s/s39/01.m3u8
-#EXTINF:-1,U channel_41
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel
 http://210.210.155.35:80/qwr9ew/s/s41/01.m3u8
-#EXTINF:-1,MYTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOKAL-Vidio", MyTV
 http://210.210.155.35:80/qwr9ew/s/s46/01.m3u8
 #EXTINF:-1,KIDS
 http://210.210.155.35:80/qwr9ew/s/s50/01.m3u8
-#EXTINF:-1,Trans 7_101
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local", TRANS7
 http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1,Kompas_104
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Local", KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1,TV one_105
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1,TVRI SPORT_107
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI SPORT
 http://210.210.155.35:80/qwr9ew/s/s107/01.m3u8
-#EXTINF:-1,Aniplus_2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Entertainment", Aniplus
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-#EXTINF:-1,News global_3
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="News", Bloomberg
 http://210.210.155.35:80/dr9445/h/h03/01.m3u8
-#EXTINF:-1,Cinema word_4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies", Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1,KiX_7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="Entertainment", Kix
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-#EXTINF:-1,golf_10
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Utama", Golf
 http://210.210.155.35:80/dr9445/h/h10/01.m3u8
-#EXTINF:-1,BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Entertainment", Blue ant extreme
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1,Blue ant entertaiment_16
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment", Blue ant entertainmet
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-#EXTINF:-1,TVN_20
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1,TVN MOVIE_21
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1,live style_28
 http://210.210.155.35:80/dr9445/h/h28/01.m3u8
 #EXTINF:-1,Hits_37
 http://210.210.155.35:80/dr9445/h/h37/01.m3u8
-#EXTINF:-1,AXN_141
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Entertainment", AXN
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-#EXTINF:-1,ANIMAX_144
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Entertainment", Animax
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
-#EXTINF:-1,K+_8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="Entertainment", K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
-#EXTINF:-1,HIGH LIGH_9
+#EXTINF:-1,HIGHLIGHT
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1,Cinema EUROPA_18
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
-#EXTINF:-1,GEM_19
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment", Sony GEM TV
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-#EXTINF:-1,EGG TV_22
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", eGG TV
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1,NHK WORD JAPAN_23
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="Entertainment", NHK World Japan
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
-#EXTINF:-1,MEDIACOP_29
+#EXTINF:-1,MEDIACORP
 http://210.210.155.35:80/uq2663/h/h29/01.m3u8
-#EXTINF:-1,SINEMA INDONESIA_143
+#EXTINF:-1,SINEMA INDONESIA
 http://210.210.155.35/uq2663/h/h155/S4/mnf.m3u8
-#EXTINF:-1,M cinema_S4_90
+#EXTINF:-1,M cinema
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1,WION_S4_91
+#EXTINF:-1,WION
 http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1,UA animasi_S4_101
+#EXTINF:-1,UA
 http://210.210.155.35:80/uq2663/h/h101/S4/mnf.m3u8
-#EXTINF:-1,KSA_S4_151
+#EXTINF:-1,KSA
 http://210.210.155.35:80/uq2663/h/h151/S4/mnf.m3u8
-#EXTINF:-1,DUbai CCYD_S4_152
+#EXTINF:-1,DUbai CCYD
 http://210.210.155.35:80/uq2663/h/h152/S4/mnf.m3u8
 #EXTINF:-1,Telenovela channel_S4_153
 http://210.210.155.35:80/uq2663/h/h153/S4/mnf.m3u8
@@ -129,9 +129,10 @@ http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
 http://210.210.155.35:80/uq2663/h/h157/S4/mnf.m3u8
 #EXTINF:-1,TVE_S4_158
 http://210.210.155.35:80/uq2663/h/h158/S4/mnf.m3u8
-#EXTINF:-1,Bali Tv_S4_159
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",BALI TV
 http://210.210.155.35:80/uq2663/h/h159/S4/mnf.m3u8
 #EXTINF:-1,MYKIDS
 http://210.210.155.35:80/qwr9ew/s/s30/S4/mnf.m3u8
 #EXTINF:-1,MY CINEMA
+http://210.210.155.35:80/qwr9ew/s/s31/S4/mnf.m3u8
 
