@@ -391,10 +391,13 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 3
 http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95413
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60954
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33705
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 2
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60955
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33704
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 3
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60956
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33703
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
