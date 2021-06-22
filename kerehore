@@ -8,21 +8,18 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1624332439~acl=/hls-b/ingest_665_*/*~hmac=723df471519d049e155a5f1c37c0a361767d230e5ead4b2b4540911faae2cb2b/hls-b/ingest_665_480p/index.m3u8
-https://newweb.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 http://45.141.58.67:80/alic/alic/166232
+https://newweb.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local", MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1624332559~acl=/hls-p/ingest_870_*/*~hmac=7077d269b41dc5b759ba41d9e7619aafd23dc3056cd7d351c21d1274851ae07f/hls-p/ingest_870_360p/index.m3u8
-https://newweb.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 http://45.141.58.67:80/alic/alic/166272
+https://newweb.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local", GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1624332480~acl=/hls-p/ingest_778_*/*~hmac=0a85dd5c1db9dc952633173fa12cb65730931dc58cc82b1be62659363de20675/hls-p/ingest_778_360p/index.m3u8
-https://newweb.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 http://45.141.58.67:80/alic/alic/166271
+https://newweb.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
@@ -40,7 +37,6 @@ https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
-https://etslive-2-vidio-com.akamaized.net/exp=1624332615~acl=/hls-p/ingest_5409_*/*~hmac=796cd8e5d6cae40706ed23d2993a625d4629a922324a1a5f24379c72f5a957c8/hls-p/ingest_5409_360p/index.m3u8
 https://newweb.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
