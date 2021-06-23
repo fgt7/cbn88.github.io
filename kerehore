@@ -115,9 +115,11 @@ http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local 2", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://210.210.155.35/session/3e0de136-cf44-11eb-9071-b82a72d63267/x6bnqe/s/s252/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local 2", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://210.210.155.35/session/4e892ed0-cf44-11eb-ae09-c81f66f89318/qwr9ew/s/s101/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local 2", NET HD
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
