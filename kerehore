@@ -4,9 +4,11 @@
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
 http://45.126.83.51/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_big1.png?v=2.0.0.15" group-title="Local",INDOSIAR
+https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 https://newweb.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
@@ -53,7 +55,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Local",BALI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="Local",JAKTV
-https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-5415
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Local",NUSANTARA TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Local",TV EDUKASI
@@ -119,11 +121,11 @@ http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local 2", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-http://210.210.155.35/session/3e0de136-cf44-11eb-9071-b82a72d63267/x6bnqe/s/s252/01.m3u8
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local 2", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-http://210.210.155.35/session/4e892ed0-cf44-11eb-ae09-c81f66f89318/qwr9ew/s/s101/01.m3u8
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local 2", NET HD
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
@@ -185,7 +187,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
-https://radenroro.net/RHS/belum_migrasimpd.m3u8?channel=dreamworks
+https://fikrulmkc.my.id/bagus/usee-dreamworks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
 https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6533
 
