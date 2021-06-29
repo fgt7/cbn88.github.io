@@ -380,9 +380,9 @@ http://topwin-tv.my.id/2/master.m3u8?id=champion2
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-6786
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+http://45.141.58.67:80/rocky/rocky/634709
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a254.png" group-title="Sports 2",ASTRO SUPERSPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://45.141.58.67:80/alic/alic/634710
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a255.png" group-title="Sports 2",ASTRO SUPERSPORT 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
