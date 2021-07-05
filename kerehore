@@ -13,7 +13,7 @@ https://newweb.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local", MNCTV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
 https://newweb.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
@@ -216,7 +216,6 @@ http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
 http://topwin-tv.my.id/2/master.m3u8?id=history
-https://mkctv.my.id/jarwo/cucok.m3u8?id=history&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
 http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge",LINGUA
@@ -361,13 +360,10 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 ***Sports 2***
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
-https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-6685
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", CHAMPION TV 2
-https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-6686
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", CHAMPION TV 3
-https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-6786
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
 http://45.141.58.67:80/rocky/rocky/634709
