@@ -197,6 +197,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
+http://gpc.my.id/vidio/zoomoo.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -221,7 +222,7 @@ http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge",LINGUA
 http://dituduhmaling.xyz/US33T4/lingua.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", LOVE NATURE
-http://gpc.my.id/vidio/love.m3u8
+http://gpc.my.id/vidio/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
 http://gpc.my.id/vidio/smithsonian.m3u8
 
