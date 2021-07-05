@@ -360,10 +360,13 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 ***Sports 2***
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", CHAMPION TV 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", CHAMPION TV 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
 http://45.141.58.67:80/rocky/rocky/634709
