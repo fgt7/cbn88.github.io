@@ -186,11 +186,11 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG 
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6549.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6549.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7052.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=horee  
+http://topwin-tv.my.id/2/master.m3u8?id=horee 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7052.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
@@ -199,8 +199,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6533.m3u8
 http://gpc.my.id/vidio/zoomoo.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6533.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -228,8 +228,8 @@ http://dituduhmaling.xyz/US33T4/lingua.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6635.m3u8
 http://gpc.my.id/vidio/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6550.m3u8
 http://gpc.my.id/vidio/smithsonian.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6550.m3u8
 
 
 ***Religi***
