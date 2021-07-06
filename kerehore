@@ -221,6 +221,27 @@ https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6635
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6550
 
 
+***Hbo & Fox***
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/HBO_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO Signature
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/SIG_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO Hits
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/HITS_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO Family
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/FAMILY_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", Cinemax
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/MAX_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED By HBO
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/RED_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", Fox
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/norvegicus/fox_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Hbo & Fox", Fox Crime
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/norvegicus/fox_crime_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Hbo & Fox", Fox Life
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/norvegicus/fox_life_norvegicus/playlist.m3u8
+
+
 ***Religi***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="Religi", MUI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
