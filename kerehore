@@ -124,7 +124,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local 2", JTV
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
-#EXTINF:-1 tvg-logo=https://i.ibb.co/93cPR5K/dunialainlogo.png group-title="Local 2",DUNIA LAIN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="Local 2",DUNIA LAIN
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dunialain
 #EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="Local 2", MOLA TV FREE
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6840
@@ -356,9 +356,9 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 ***Sports 2***
-#EXTINF:-1 tvg-logo=https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg group-title="Sports 2", USEESPORTS 1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports 2", USEESPORTS 1
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=useesport
-#EXTINF:-1 tvg-logo=https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg group-title="Sports 2", USEESPORTS 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports 2", USEESPORTS 2
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6685
