@@ -1,6 +1,7 @@
-# IPTV Playlist Indonesia
+# IPTV
 
 ## URL Playlist
+
 ```https://iptv.mwafa.net/api/playlist.m3u```
 
 ---
