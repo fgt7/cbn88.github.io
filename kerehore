@@ -110,15 +110,18 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-665
 https://newweb.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 http://45.141.58.67:80/alic/alic/166232
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-870
 https://newweb.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 https://newweb.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 http://45.141.58.67:80/alic/alic/166272
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-778
 https://newweb.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
@@ -138,6 +141,7 @@ https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local 2", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-5409
 https://newweb.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
 http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
@@ -150,8 +154,10 @@ https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local 2", JTV
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
-EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="Local 2", MOLA TV FREE
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 tvg-logo=https://i.ibb.co/93cPR5K/dunialainlogo.png group-title="Local 2",DUNIA LAIN
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dunialain
+#EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="Local 2", MOLA TV FREE
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6840
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="Local 2", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="Local 2", CNBC INDONESIA
@@ -199,9 +205,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&s
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dreamworks
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamwork&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6533.m3u8
 http://gpc.my.id/vidio/zoomoo.m3u8
@@ -236,8 +244,10 @@ http://dituduhmaling.xyz/US33T4/lingua.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="Knowledge", ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", LOVE NATURE
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6635
 http://gpc.my.id/vidio/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6550
 http://gpc.my.id/vidio/smithsonian.m3u8
 
 
@@ -374,13 +384,20 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 ***Sports 2***
+#EXTINF:-1 tvg-logo=https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg group-title="Sports 2", USEESPORTS 1
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo=https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg group-title="Sports 2", USEESPORTS 2
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6685
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", CHAMPION TV 2
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6686
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", CHAMPION TV 3
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6786
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
