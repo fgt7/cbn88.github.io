@@ -2,7 +2,7 @@
 
 ## URL Playlist
 
-``` https://cbn88.github.io/kerehore ```
+```https://cbn88.github.io/kerehore```
 
 ---
 Cara Menggunakan:
