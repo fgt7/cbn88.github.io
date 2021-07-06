@@ -2,7 +2,7 @@
 
 ## URL Playlist
 
-```https://iptv.mwafa.net/api/playlist.m3u```
+``` https://cbn88.github.io/kerehore ```
 
 ---
 Cara Menggunakan:
