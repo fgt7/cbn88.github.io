@@ -162,11 +162,9 @@ http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6549.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
-http://topwin-tv.my.id/2/master.m3u8?id=horee 
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7052.m3u8 
+http://topwin-tv.my.id/2/master.m3u8?id=horee  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
@@ -174,15 +172,14 @@ http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+http://gpc.my.id/vidio/zoomoo.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dreamworks
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamwork&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6533.m3u8
-http://gpc.my.id/vidio/zoomoo.m3u8
 
 
 ***Knowledge***
@@ -208,9 +205,9 @@ http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=disco
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=disco
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
 http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge",LINGUA
