@@ -150,11 +150,11 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8 
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickjr
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8 
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickelodeon 
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickelodeon
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
@@ -191,17 +191,19 @@ http://gpc.my.id/vidio/zoomoo.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="Knowledge", CGTN DOCUMENTARY
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", NATIONAL GEOGRAPHIC
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeo
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO PEOPLE
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeopeople
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO WILD
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeowild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeowild
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL 
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=disco
