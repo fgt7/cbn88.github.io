@@ -201,12 +201,12 @@ https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeowild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
-http://topwin-tv.my.id/2/master.m3u8?id=history
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=history
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
-http://topwin-tv.my.id/2/master.m3u8?id=disco
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=disco
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=disco
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
