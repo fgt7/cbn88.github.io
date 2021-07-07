@@ -245,6 +245,7 @@ http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8?token=Zalogi
 #EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/11.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8?token=Zalogi
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
