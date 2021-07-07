@@ -228,7 +228,7 @@ https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hgtv.png" group-title="Knowledge",HGTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 
@@ -390,16 +390,16 @@ http://topwin-tv.my.id/2/master.m3u8?id=champion2
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6786
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
-#EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 1
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports 2", FOX SPORTS 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 2
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports 2", FOX SPORTS 2
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports 2", FOX SPORTS 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports 2", BEIN SPORTS 1
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 2
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports 2", BEIN SPORTS 2
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1 MAX
