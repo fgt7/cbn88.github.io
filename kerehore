@@ -327,23 +327,6 @@ http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
-***Bein Sports***
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 1 HD
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 2 HD
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 3 HD
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 4 HD
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 5 HD
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 6 HD
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 7 HD
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
-
-
 ***Sports 1***
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports 1", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
@@ -488,6 +471,52 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://thegreattipoff.com/assets/images/affiliatelogo/sky-racing.png" group-title="Sports 2", SKY RACING 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+***Bein Sports***
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 1 HD
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 3 HD
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 4 HD
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 5 HD
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 6 HD
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 7 HD
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
+
+***Supersport***
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT MAXIMO 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6585
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT BLITZ HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6584
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT EVENTS HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6572
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT MOTORSPORT HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7142
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT GOLF HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7145
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT CRICKET HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6583
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT RUGBY HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6582
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT TENNIS HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7143
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT FOOTBAL HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6576
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT LALIGA HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6575
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PREMIER LEAGUE HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6574
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PSL HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6573
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT ACTION HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6581
 
 
 
