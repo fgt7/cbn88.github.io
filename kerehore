@@ -230,11 +230,12 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO Family
+https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8?hdnts=exp=1620210662~hmac=52bb808e2198de5155d06eb01b389e16957c9429998227c7e7e328f50e4888f2&c3.ri=6923731534037071641
 http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", Cinemax
-http://185.180.221.194:8278/streams/d/Hbocinemax/playlist.m3u8
+https://raw.githubusercontent.com/bacot123450/ttv/main/redbyhbo-simida-ga-iklash-gw-di-snif-capek-gw-buatnya-inget-yahh-lu-ngecopy-gw-gak-iklash-lu-dosa-jariyah!!!.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED By HBO
-http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/RED_wirok/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?token=h4ck3d
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", Fox
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_family.png" group-title="Hbo & Fox", Fox Family Movies
