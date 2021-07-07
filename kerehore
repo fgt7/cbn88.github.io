@@ -200,6 +200,7 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeopeople
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=natgeowild
@@ -208,7 +209,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=disco
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=disco
-http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
 http://dituduhmaling.xyz/US33T4/history.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
@@ -226,31 +227,33 @@ https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6635
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hgtv.png" group-title="Knowledge",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 
 ***Hbo & Fox***
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO SIGNATURE
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO FAMILY
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
-EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", Cinemax
+EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-#EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED By HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", Fox
+#EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7071
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_family.png" group-title="Hbo & Fox", Fox Family Movies
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_family.png" group-title="Hbo & Fox", FOX FAMILY MOVIES
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_action.png" group-title="Hbo & Fox", Fox Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_action.png" group-title="Hbo & Fox", FOX ACTION MOVIES
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Hbo & Fox", Fox Crime
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Hbo & Fox", FOX CRIME
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Hbo & Fox", Fox Life
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Hbo & Fox", FOX LIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
 
@@ -410,13 +413,15 @@ http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://img.pngio.com/fox-sports-asia-3610-download-apk-for-android-aptoide-fox-sports-asia-png-240_240.png" group-title="Sports 2", FOX SPORTS 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33705
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 2
+http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33704
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 3
-http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/33703
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1 MAX
+http://7.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports 2", BEIN SPORTS 1 MAX
+http://4.amroutras.xyz/live/00002500/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.picks.org/wp-content/uploads/2014/08/english_premier_league_logo_epl.jpg" group-title="Sports 2", TRUE PREMIER HD 2
@@ -437,6 +442,8 @@ http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO ARENA HD
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a253.png" group-title="Sports 2",ASTRO SUPERSPORT 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6707
@@ -449,6 +456,20 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6711
 #EXTINF: -1 tvg-logo="https://sport-tv-guide.live/images/stations/a256.png" group-title="Sports 2",ASTRO SUPERSPORT 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6712
+#EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="Sports 2", SKYNET SPORTS HD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mm/SkyNetSports1.mm.png" group-title="Sports 2", SKYNET SPORTS 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mm/SkyNetSports2.mm.png" group-title="Sports 2", SKYNET SPORTS 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mm/SkyNetSports3.mm.png" group-title="Sports 2", SKYNET SPORTS 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mm/SkyNetSports4.mm.png" group-title="Sports 2", SKYNET SPORTS 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mm/SkyNetSports5.mm.png" group-title="Sports 2", SKYNET SPORTS 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mm/SkyNetSports6.mm.png" group-title="Sports 2", SKYNET SPORTS 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sports 2", ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sports 2", ELEVEN SPORT 2
