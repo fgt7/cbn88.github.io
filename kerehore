@@ -235,7 +235,7 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/2.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/11.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
