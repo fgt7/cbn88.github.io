@@ -225,11 +225,11 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6635
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6550
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 
 ***Hbo & Fox***
