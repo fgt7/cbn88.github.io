@@ -227,6 +227,7 @@ https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6635
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hgtv.png" group-title="Knowledge",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
@@ -331,7 +332,7 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports 1", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
-http://210.210.155.35/uq2663/h/h05/01.m3u8
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/32/62/png-transparent-boxnation-boxing-pay-per-view-united-kingdom-television-channel-boxing-television-text-trademark.png" group-title="Sports 1", BOX NATION
 https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147985
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
@@ -345,7 +346,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KOK_kickboxing_logo.jpg" group-title="Sports 1", KOK FIGHT
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports 1", WWE NETWORK
-https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314148004
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="Sports 1", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF: -1 tvg-logo="https://ipla-e2-22.pluscdn.pl/p/redb/mf/mf2iex4jqt16skxqry8vw8syry2bjhst.jpg" group-title="Sports 1", FAST BOX
