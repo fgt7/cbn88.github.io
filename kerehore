@@ -93,12 +93,15 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
+https://livetv01.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-665
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
+https://livetv01.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-870
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV
+https://livetv01.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-778
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
@@ -114,6 +117,7 @@ http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local 2", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
+https://livetv01.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-5409
 http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
