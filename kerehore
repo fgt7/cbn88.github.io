@@ -520,4 +520,21 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6573
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6581
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Movies", HBO HD
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/HBO_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Movies", HBO Signature
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/SIG_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Movies", HBO Hits
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/HITS_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Movies", HBO Family
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/FAMILY_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Movies", Cinemax
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/MAX_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Movies", RED By HBO
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/wirok/RED_wirok/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Movies", Fox
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/norvegicus/fox_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Movies", Fox Crime
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/norvegicus/fox_crime_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Movies", Fox Life
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/cZbPd4hp/norvegicus/fox_life_norvegicus/playlist.m3u8
