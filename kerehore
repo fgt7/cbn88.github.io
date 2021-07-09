@@ -480,7 +480,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 
 ***Bein Sports***
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 1 HD
-http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
+http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Bein Sports",BEIN SPORTS 2 HD
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
