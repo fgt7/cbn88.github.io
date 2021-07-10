@@ -372,19 +372,16 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 ***Sports 2***
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports 2", USEESPORTS 1
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=useesport
+http://topwin-tv.my.id/2/master.m3u8?id=useesports
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports 2", USEESPORTS 2
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=useesports2
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6685
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", CHAMPION TV 2
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6686
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", CHAMPION TV 3
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6786
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports 2", FOX SPORTS 1
