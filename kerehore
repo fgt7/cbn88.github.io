@@ -372,7 +372,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 ***Sports 2***
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports 2", USEESPORTS 1
-http://topwin-tv.my.id/2/master.m3u8?id=useesports
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports 2", USEESPORTS 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
