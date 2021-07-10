@@ -202,9 +202,9 @@ http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=disco
-http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
 http://dituduhmaling.xyz/US33T4/history.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
