@@ -125,9 +125,9 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local 2", JTV
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="Local 2",DUNIA LAIN
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dunialain
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="Local 2", MOLA TV FREE
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6840
+http://topwin-tv.my.id/2/master.m3u8?id=vidio-6840
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="Local 2", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="Local 2", CNBC INDONESIA
