@@ -93,13 +93,13 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-665
+http://gpc.my.id/vidio/rcti.m3u8
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-870
+http://gpc.my.id/vidio/mnc.m3u8
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-778
+http://gpc.my.id/vidio/gtv.m3u8
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -114,7 +114,7 @@ http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local 2", RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-5409
+http://gpc.my.id/vidio/inews.m3u8
 http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
@@ -202,9 +202,9 @@ http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
+http://topwin-tv.my.id/2/master.m3u8?id=disco
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
-http://topwin-tv.my.id/2/master.m3u8?id=disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
 http://dituduhmaling.xyz/US33T4/history.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
