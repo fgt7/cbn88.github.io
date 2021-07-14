@@ -8,13 +8,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=indosiar
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
-https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
+http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local", MNCTV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
+http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local", GTV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Local",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 http://topwin-tv.my.id/2/master.m3u8?id=transtv
@@ -30,7 +29,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" group-title="Local",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
+http://gpc.my.id/vidio/inews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
 http://45.126.83.51/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="Local", METRO TV
