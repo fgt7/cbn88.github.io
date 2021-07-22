@@ -377,14 +377,14 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports 2", USEESPORTS 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports 2", CHAMPION TV 1
-http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports 2", CHAMPION TV 2
-http://gpc.my.id/vidio/champion-tv-2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports 2", CHAMPION TV 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=champion3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports 2", FOX SPORTS 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports 2", FOX SPORTS 2
