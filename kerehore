@@ -145,13 +145,15 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 ***Kids***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/3479
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/213
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
@@ -231,16 +233,15 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO FAMILY
-https://link.zozotv.xyz:443/Freemium3/unlimited99/98
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/592
 http://aputra.xyz/bacKUP/HBOfamily.m3u8
 http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
-https://link.zozotv.xyz:443/Freemium3/unlimited99/107
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/2156
 http://aputra.xyz/bacKUP/cinemax.m3u8
-https://www.dropbox.com/s/cjn07yw3oe939lg/cinemaxsd_telegram_at_ssiptvid.m3u8?dl=1
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?token=ShareExt
 #EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
-https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/4832
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?token=ShareExt
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
