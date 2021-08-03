@@ -145,9 +145,11 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 ***Kids***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/522
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8 
-EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/962
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/3479
