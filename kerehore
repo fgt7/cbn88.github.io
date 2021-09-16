@@ -4,6 +4,7 @@
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
 http://45.126.83.51/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_big1.png?v=2.0.0.15" group-title="Local",INDOSIAR
+http://topwin-tv.my.id/2/master.m3u8?id=indosiar
 http://gpc.my.id/vidio/indosiar.m3u8
 http://www.dituduhmaling.xyz/V11710/Indosiar.m3u8
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
@@ -19,6 +20,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/39
 http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Local",SCTV
+http://topwin-tv.my.id/2/master.m3u8?id=transtv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 http://topwin-tv.my.id/2/master.m3u8?id=transtv
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" group-title="Local",TRANS TV
@@ -29,22 +31,28 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1e0cf1f47118daebc5b16269099ad7347
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13" group-title="Local",NET HD
+http://topwin-tv.my.id/2/master.m3u8?id=nettv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" group-title="Local",RTV
+http://topwin-tv.my.id/2/master.m3u8?id=rtv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local", INEWS
 http://gpc.my.id/vidio/inews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
 http://45.126.83.51/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="Local", METRO TV
+http://topwin-tv.my.id/2/master.m3u8?id=metro
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13" group-title="Local",KOMPAS TV
+http://topwin-tv.my.id/2/master.m3u8?id=kompastv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" group-title="Local",TVRI
+http://topwin-tv.my.id/2/master.m3u8?id=tvri
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" group-title="Local",BERITA SATU
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="Local",JTV
+http://topwin-tv.my.id/2/master.m3u8?id=jtv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b0fb3069a97a8fb9df1d75e6456ecef11
 EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jitv_big.png?v=2.0.0.13" group-title="Local",JITV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d1c38a09acc34845c6be3a127a5aacaf0fb3069a97a8fb9df1d75e6456ecef11
@@ -53,16 +61,20 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="Local",ANTARA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Local",BALI TV
+http://topwin-tv.my.id/2/master.m3u8?id=balitv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="Local",JAKTV
+http://topwin-tv.my.id/2/master.m3u8?id=jaktv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Local",NUSANTARA TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Local",TV EDUKASI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d230fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" group-title="Local",USEE PHOTO
+http://topwin-tv.my.id/2/master.m3u8?id=useephoto
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e82650fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Local",USEE PRIME
+http://topwin-tv.my.id/2/master.m3u8?id=useeprime
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c40fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="Local",RUANG TRAMPIL
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
