@@ -77,9 +77,9 @@ http://iptvid.my.id/ch/transtv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local 2", TRANS7
 http://iptvid.my.id/ch/trans7.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local 2", NET HD
-http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+https://iptvid.cgflix.xyz/0/net.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local 2", RTV
-http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+https://iptvid.cgflix.xyz/0/rtv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
 http://iptvid.my.id/ch/inews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
@@ -90,8 +90,10 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
+https://iptvid.cgflix.xyz/0/nickjr.m3u8
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
+https://iptvid.cgflix.xyz/0/nickelodeon.m3u8
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
@@ -101,24 +103,30 @@ http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG 
+https://iptvid.cgflix.xyz/0/boomerang.m3u8
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
+https://iptvid.cgflix.xyz/0/davinci.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
+https://iptvid.cgflix.xyz/0/horee.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=horee  
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
+https://iptvid.cgflix.xyz/0/duniaanak.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
+https://iptvid.cgflix.xyz/0/cn.m3u8
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
+https://iptvid.cgflix.xyz/0/drmwrk.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamwork&bandwidth=default&sync=0
 
