@@ -95,13 +95,13 @@ http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 http://iptvid.my.id/ch/nickelodeon.m3u8?by=iptv_id
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000162
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000376
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG  
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000749
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
 http://iptvid.my.id/ch/davinci.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
