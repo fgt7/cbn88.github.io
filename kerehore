@@ -87,7 +87,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 https://dik.si/SEinewstv?SHAREEXT.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4-mp4a_98800_eng=5.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local", METRO TV
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local 2", METRO TV
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
 
