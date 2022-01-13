@@ -66,8 +66,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
 https://m.telkomsel.com.basir.fgh1.xyz:8279/rcti/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=mnctv
 https://m.telkomsel.com.basir.fgh1.xyz:8279/mnctv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=gtv
 https://m.telkomsel.com.basir.fgh1.xyz:8279/gtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
@@ -85,7 +87,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
-https://dik.si/SEinewstv?SHAREEXT.m3u8
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4-mp4a_98800_eng=5.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local 2", METRO TV
