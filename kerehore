@@ -63,6 +63,7 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
+http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
 https://m.telkomsel.com.basir.fgh1.xyz:8279/rcti/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
 https://m.telkomsel.com.basir.fgh1.xyz:8279/mnctv/playlist.m3u8
