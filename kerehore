@@ -178,16 +178,16 @@ http://iptvid.my.id/drmwrk.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="Knowledge", CGTN DOCUMENTARY
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", NATIONAL GEOGRAPHIC
-http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcPI0y0TRFzWPyPVrTNaZJk8
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO PEOPLE
-http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcEC9ZC2eYmxDdvIm0wi4nJA
+http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO WILD
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcHAQ8flSKryTgGBkigtC5qI
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcN_wRKqGrmtx74MKRZfN8o4
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
-http://iptvid.my.id/ch/history.m3u8?by=iptv_id
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge",LINGUA
