@@ -41,7 +41,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Local", KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local", JTV
-http://122.248.43.138:1935/ch2/myStream/live.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="Local", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="Local", CNBC INDONESIA
@@ -50,11 +50,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI
 http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI SPORT
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local", TVRI SPORT
 http://210.210.155.35:80/qwr9ew/s/s107/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Local",DAAI TV 
 http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local", MYTV 
+http://rr3.dens.tv/s/s88/index2.m3u8
 http://210.210.155.35:80/qwr9ew/s/s46/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Local", RODJA TV 
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
@@ -104,7 +105,7 @@ https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
 ***Kids***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
 http://iptvid.my.id/ch/nickjr.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
