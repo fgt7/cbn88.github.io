@@ -310,7 +310,7 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="Sports 1", FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/32/62/png-transparent-boxnation-boxing-pay-per-view-united-kingdom-television-channel-boxing-television-text-trademark.png" group-title="Sports 1", BOX NATION
-http://qqtv.nl:8080/kevinp/kevinp/15537
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17004
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports 1", FIGHT NETWORK
 http://new-pro.tv:8080/HAMASHAREF27/XSmR2Vnlht/69393
 #EXTINF:-1 tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" group-title="Sports 1", FIGHT BOX
@@ -328,7 +328,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF: -1 tvg-logo="https://ipla-e2-22.pluscdn.pl/p/redb/mf/mf2iex4jqt16skxqry8vw8syry2bjhst.jpg" group-title="Sports 1", FAST BOX
 http://92.43.140.200/s79/04.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/768998797791727616/vkWCzZaQ_400x400.jpg" group-title="Sports 1", RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14151
 #EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5ff54764258573.Y3JvcCwxMjA4LDk0NiwzNDYsMTQ.jpg" group-title="Sports 1", DUBAI HORSE RACING
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF: -1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/05/FOX_SPORTS_NEWS_LOGO_DIGITAL.png" group-title="Sports 1", FOX SPORTS NEWS
@@ -392,9 +392,9 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports 2",SPORT TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 1
-http://qqtv.nl:8080/kevinp/kevinp/265920
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/374
 #EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports 2", BT SPORT 2
-http://qqtv.nl:8080/kevinp/kevinp/265921
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/375
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png" group-title="Sports 2", TRUE SPORT HD 2
@@ -453,18 +453,14 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 
 
 ***Supersport***
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT MAXIMO 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6585
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT BLITZ HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6584
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT EVENTS HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6572
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT MOTORSPORT HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7142
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/259
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT F1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/253
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT GOLF HD
-http://qqtv.nl:8080/kevinp/kevinp/269696
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/256
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT CRICKET HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6583
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT RUGBY HD
 http://qqtv.nl:8080/kevinp/kevinp/30330
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT TENNIS HD
@@ -474,11 +470,11 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6576
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT LALIGA HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6575
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PREMIER LEAGUE HD
-http://qqtv.nl:8080/kevinp/kevinp/30957
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/255
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PSL HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6573
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT ACTION HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6581
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/257
 
 
 
