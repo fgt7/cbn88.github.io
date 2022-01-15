@@ -155,6 +155,7 @@ http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000162
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
 http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000376
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
+http://bestsave.ltd:2052/55667788/88776655/32105
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG  
 http://bestsave.ltd:2052/55667788/88776655/32103
@@ -184,7 +185,6 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 http://bestsave.ltd:2052/55667788/88776655/12985
 http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO WILD
-http://opplex.tv:8080/dawood/dawood/204810
 http://bestsave.ltd:2052/55667788/88776655/12986
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcHAQ8flSKryTgGBkigtC5qI
@@ -203,7 +203,7 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+http://bestsave.ltd:2052/55667788/88776655/12988
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
 http://bestsave.ltd:2052/55667788/88776655/12987
 
@@ -227,11 +227,11 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_family.png" group-title="Hbo & Fox", FOX FAMILY MOVIES
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_action.png" group-title="Hbo & Fox", FOX ACTION MOVIES
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+http://bestsave.ltd:2052/55667788/88776655/32097
 #EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Hbo & Fox", FOX CRIME
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+http://bestsave.ltd:2052/55667788/88776655/12980
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Hbo & Fox", FOX LIFE
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+http://bestsave.ltd:2052/55667788/88776655/12977
 
 
 ***Religi***
