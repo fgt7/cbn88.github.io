@@ -147,18 +147,18 @@ https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
-http://iptvid.my.id/ch/nickjr.m3u8?by=iptv_id
+http://opplex.tv:8080/dawood/dawood/204848
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcNgtCWJUBz4lcGw5Cb2o1vE
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
-http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000162
+http://opplex.tv:8080/dawood/dawood/204845
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
-http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1000376
+http://opplex.tv:8080/dawood/dawood/204846
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
 http://bestsave.ltd:2052/55667788/88776655/32105
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG  
-http://bestsave.ltd:2052/55667788/88776655/32103
+http://opplex.tv:8080/dawood/dawood/204849
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
 http://tvnasional.mobie.in/PREMIER_VIDIO/Davici.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
@@ -166,13 +166,13 @@ http://tvnasional.mobie.in/PREMIER_VIDIO/horee.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
 http://iptvid.my.id/ch/duniaanak.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
-http://bestsave.ltd:2052/55667788/88776655/32104
+http://opplex.tv:8080/dawood/dawood/204847
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
-http://iptvid.my.id/drmwrk.m3u8
+http://opplex.tv:8080/dawood/dawood/204852
 
 
 ***Knowledge***
