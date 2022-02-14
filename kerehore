@@ -210,28 +210,27 @@ http://bestsave.ltd:2052/55667788/88776655/12987
 
 ***Hbo & Fox***
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
-https://lnk.ec/hboID?shareext.ts
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/816
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO SIGNATURE
-https://lnk.ec/hboSigID?shareext.ts
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/811
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO HITS
-https://lnk.ec/hboHitsID?shareext.ts
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/813
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO FAMILY
-https://lnk.ec/hboFamID?shareext.ts
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/817
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
-https://lnk.ec/cinemaxID?shareext.ts
+http://cdn.miptv.ws:8880/vgxjb/vgxlj/1495
 #EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/4832
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?token=ShareExt
+http://shareext@urtv.cc:80/live/186867/186867/7071.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", FOX
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+http://shareext@urtv.cc:80/live/186867/186867/7227.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_family.png" group-title="Hbo & Fox", FOX FAMILY MOVIES
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+http://shareext@urtv.cc:80/live/186867/186867/9027.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_action.png" group-title="Hbo & Fox", FOX ACTION MOVIES
-http://bestsave.ltd:2052/55667788/88776655/32097
+http://shareext@urtv.cc:80/live/186867/186867/8999.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Hbo & Fox", FOX CRIME
-http://bestsave.ltd:2052/55667788/88776655/12980
+http://shareext@urtv.cc:80/live/186867/186867/7225.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Hbo & Fox", FOX LIFE
-http://bestsave.ltd:2052/55667788/88776655/12977
+http://shareext@urtv.cc:80/live/186867/186867/7228.ts?shareext.ts
 
 
 ***Religi***
