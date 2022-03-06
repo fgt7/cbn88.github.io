@@ -3,8 +3,10 @@
 
 ***Local***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
+http://tvn.x10.bz/xchannel/master-12.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
+http://tvn.x10.bz/xchannel/master.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
@@ -41,6 +43,7 @@ http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
 https://lnk.ec/INEWSplus?shareext.m3u8
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus-avc1_499968=4-mp4a_98800_eng=5.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local", TVONE
+http://tvn.x10.bz/xchannel/master-13.m3u8
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local", METRO TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
@@ -147,7 +150,7 @@ https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids", NICK JUNIOR 
-http://opplex.tv:8080/dawood/dawood/204848
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60462
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
 http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcNgtCWJUBz4lcGw5Cb2o1vE
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
@@ -166,8 +169,7 @@ http://tvnasional.mobie.in/PREMIER_VIDIO/horee.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
 http://iptvid.my.id/ch/duniaanak.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
-http://bestsave.ltd:2052/55667788/88776655/32104
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8 
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60410 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -179,16 +181,14 @@ http://opplex.tv:8080/dawood/dawood/204852
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="Knowledge", CGTN DOCUMENTARY
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", NATIONAL GEOGRAPHIC
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60484
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO PEOPLE
 http://bestsave.ltd:2052/55667788/88776655/12985
 http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO WILD
-http://bestsave.ltd:2052/55667788/88776655/12986
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
-http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcHAQ8flSKryTgGBkigtC5qI
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60345
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
-http://jlwmedia.xyz:80/play/5Hr0zj4xp_z5pXcmbnpKcN_wRKqGrmtx74MKRZfN8o4
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60481
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
 http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
@@ -204,18 +204,18 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.co
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
 http://bestsave.ltd:2052/55667788/88776655/12988
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
-http://bestsave.ltd:2052/55667788/88776655/12987
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60475
 
 
 ***Hbo & Fox***
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/816
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60473
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO SIGNATURE
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/811
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60456
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO HITS
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/813
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60458
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO FAMILY
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/817
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60474
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
 http://cdn.miptv.ws:8880/vgxjb/vgxlj/1495
 #EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
