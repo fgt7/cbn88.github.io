@@ -70,14 +70,17 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 http://tvn.x10.bz/xchannel/master.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
+http://tvn.x10.bz/xchannel/master-34.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 http://sharing-iptv.se.ke/fta/aura.m3u8?id=rcti
 https://m.telkomsel.com.basir.fgh1.xyz:8279/rcti/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
+http://tvn.x10.bz/xchannel/master-36.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 http://sharing-iptv.se.ke/fta/aura.m3u8?id=mnctv
 https://m.telkomsel.com.basir.fgh1.xyz:8279/mnctv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV 
+http://tvn.x10.bz/xchannel/master-35.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 http://sharing-iptv.se.ke/fta/aura.m3u8?id=gtv
 https://m.telkomsel.com.basir.fgh1.xyz:8279/gtv/playlist.m3u8
@@ -98,6 +101,7 @@ http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
 http://tvn.x10.bz/xchannel/master-20.m3u8
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
+http://tvn.x10.bz/xchannel/master-37.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 http://sharing-iptv.se.ke/fta/aura.m3u8?id=inews
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
