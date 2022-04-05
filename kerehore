@@ -131,10 +131,12 @@ http://iptv12k.com:35461/8022022301/468985/2090
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
 http://iptv12k.com:35461/8022022301/468985/2092
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
+https://link.zozotv.xyz/shukrisinar/shukrisinar/141
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 http://iptv12k.com:35461/8022022301/468985/2095
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG  
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG
+https://link.zozotv.xyz/shukrisinar/shukrisinar/135
 http://iptv12k.com:35461/8022022301/468985/2097
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
@@ -143,6 +145,7 @@ http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
 http://iptvid.my.id/ch/duniaanak.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
+https://link.zozotv.xyz/shukrisinar/shukrisinar/132
 http://iptv12k.com:35461/8022022301/468985/2094
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
 https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
