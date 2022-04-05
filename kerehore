@@ -65,47 +65,34 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 ***Local 2***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local 2", ANTV
-http://tvn.x10.bz/xchannel/master-12.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
-http://tvn.x10.bz/xchannel/master.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
-http://tvn.x10.bz/xchannel/master-34.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
-http://tvn.x10.bz/xchannel/master-36.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV 
-http://tvn.x10.bz/xchannel/master-35.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
-http://tvn.x10.bz/xchannel/master-24.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local 2", TRANS TV
-http://tvn.x10.bz/xchannel/master-31.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Local 2", TRANS7
-http://tvn.x10.bz/xchannel/master-30.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local 2", NET HD
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local 2", RTV
-http://tvn.x10.bz/xchannel/master-20.m3u8
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
-http://tvn.x10.bz/xchannel/master-37.m3u8
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
-http://tvn.x10.bz/xchannel/master-13.m3u8
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Local 2", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-http://tvn.x10.bz/xchannel/master-23.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Local 2", KOMPAS TV
-http://tvn.x10.bz/xchannel/master-19.m3u8
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Local 2", NUSANTARA TV 
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
