@@ -14,6 +14,7 @@ http://tvn.x10.bz/xchannel/master-34.m3u8
 http://iptv12k.com:35461/8022022301/468985/2175
 http://tvn.x10.bz/xchannel/master-36.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local", GTV
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/48
 http://tvn.x10.bz/xchannel/master-35.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local", SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
@@ -72,8 +73,10 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/47
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/46
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV 
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
@@ -128,12 +131,13 @@ http://iptv12k.com:35461/8022022301/468985/2090
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
 http://iptv12k.com:35461/8022022301/468985/2092
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 http://iptv12k.com:35461/8022022301/468985/2095
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG  
 http://iptv12k.com:35461/8022022301/468985/2097
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
-http://tvnasional.mobie.in/PREMIER_VIDIO/Davici.m3u8
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
 http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
@@ -141,7 +145,7 @@ http://iptvid.my.id/ch/duniaanak.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
 http://iptv12k.com:35461/8022022301/468985/2094
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
-http://tvn.x10.bz/xchannel/master-25.m3u8
+https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
 http://iptv12k.com:35461/8022022301/468985/2079
 
@@ -168,6 +172,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=lingua
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="Knowledge", ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://iptv12k.com:35461/8022022301/468985/2069
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
 http://iptv12k.com:35461/8022022301/468985/2070
