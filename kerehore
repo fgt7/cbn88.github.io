@@ -434,29 +434,4 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 
-***Supersport***
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT EVENTS HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/259
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT F1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/253
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT GOLF HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/256
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT CRICKET HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT RUGBY HD
-http://qqtv.nl:8080/kevinp/kevinp/30330
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT TENNIS HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7143
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT FOOTBAL HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6576
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT LALIGA HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6575
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PREMIER LEAGUE HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/255
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT PSL HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6573
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Supersport",SUPERSPORT ACTION HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/257
-
-
 
