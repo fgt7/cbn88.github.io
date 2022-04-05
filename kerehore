@@ -165,12 +165,12 @@ http://iptv.tvmalaysia.cc:80/100588/100588/7080
 http://iptv12k.com:35461/8022022301/468985/2067
 http://95.214.235.96:8880/SFL122431/N6EG15T0/60345
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", DISCOVERY CHANNEL
-http://95.214.235.96:8880/SFL122431/N6EG15T0/60481
+https://link.zozotv.xyz/shukrisinar/shukrisinar/124
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="Knowledge", HISTORY
 http://iptv12k.com:35461/8022022301/468985/2065
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",CRIME INVESTIGATION
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge",LINGUA
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Knowledge",LINGUA
 http://topwin-tv.my.id/2/master.m3u8?id=lingua
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="Knowledge", ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -179,7 +179,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://iptv12k.com:35461/8022022301/468985/2069
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
 http://iptv12k.com:35461/8022022301/468985/2070
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
 http://bestsave.ltd:2052/55667788/88776655/12988
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/animal_planet.png" group-title="Knowledge", ANIMAL PLANET
 http://iptv12k.com:35461/8022022301/468985/2064
@@ -188,27 +188,27 @@ http://95.214.235.96:8880/SFL122431/N6EG15T0/60475
 
 ***Hbo & Fox***
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+https://link.zozotv.xyz/shukrisinar/shukrisinar/96
 http://95.214.235.96:8880/SFL122431/N6EG15T0/60473
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO SIGNATURE
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+https://link.zozotv.xyz/shukrisinar/shukrisinar/99
 http://95.214.235.96:8880/SFL122431/N6EG15T0/60456
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Hbo & Fox", HBO HITS
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+https://link.zozotv.xyz/shukrisinar/shukrisinar/97
 http://95.214.235.96:8880/SFL122431/N6EG15T0/60458
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO FAMILY
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+https://link.zozotv.xyz/shukrisinar/shukrisinar/98
 http://95.214.235.96:8880/SFL122431/N6EG15T0/60474
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+https://link.zozotv.xyz/shukrisinar/shukrisinar/107
 #EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
 http://shareext@urtv.cc:80/live/186867/186867/7071.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", FOX
-http://cdn.miptv.ws:8880/vgxjb/vgxlj/841
+https://link.zozotv.xyz/shukrisinar/shukrisinar/100
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_family.png" group-title="Hbo & Fox", FOX FAMILY MOVIES
-http://shareext@urtv.cc:80/live/186867/186867/9027.ts?shareext.ts
+https://link.zozotv.xyz/shukrisinar/shukrisinar/102
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.com/img/fox_action.png" group-title="Hbo & Fox", FOX ACTION MOVIES
-http://shareext@urtv.cc:80/live/186867/186867/7227.ts?shareext.ts
+https://link.zozotv.xyz/shukrisinar/shukrisinar/101
 #EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://x1.cdn.broiptv.com/img/fox_crime.png" group-title="Hbo & Fox", FOX CRIME
 http://shareext@urtv.cc:80/live/186867/186867/7225.ts?shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://x1.cdn.broiptv.com/img/fox_life.png" group-title="Hbo & Fox", FOX LIFE
