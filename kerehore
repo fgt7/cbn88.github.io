@@ -73,13 +73,12 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/162533
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=8.m3u8
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/49
-https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV 
-https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_64000=2-avc1_800000=6.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Local 2", TRANS TV
@@ -91,8 +90,7 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Local 2", NET HD
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Local 2", RTV
-http://iptv12k.com:35461/8022022301/468985/2161
-http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+http://rr1.dens.tv/h/h10/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Local 2", INEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Local 2", TVONE
