@@ -100,7 +100,7 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="Local", JTV
 http://rr3.dens.tv/s/s91/index.m3u8
 EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Local 2", NUSANTARA TV 
-
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="Local 2",JAK TV
 http://rr3.dens.tv/s/s46/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local 2", TVRI
