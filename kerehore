@@ -77,12 +77,15 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 https://mdllogistik.my.id/tetes/redir.php?acesso=1f28071dc2db8af7339bdd083f502e41&usuario=b1d6083cffd84b8ab16d046783930ef9
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_96000=2-avc1_100000=8.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
+https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://mdllogistik.my.id/tetes/redir.php?acesso=d3a0ff93a892f2df2227c545a9581bff&usuario=b1d6083cffd84b8ab16d046783930ef9
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_96000=2-avc1_800000=6.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV 
+https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://mdllogistik.my.id/tetes/redir.php?acesso=708fd8b9caba5b01f1006fc9e467f9c6&usuario=b1d6083cffd84b8ab16d046783930ef9
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_96000=2-avc1_800000=6.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="Local 2", SCTV
