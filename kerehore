@@ -3,9 +3,11 @@
 
 ***Local***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
+http://180.211.90.134:8000/play/a03m
 http://rr2.dens.tv/s/s07/index.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/4
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local", INDOSIAR
+http://180.211.90.134:8000/play/a03n
 http://rr2.dens.tv/s/s04/index.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/2
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local", RCTI
