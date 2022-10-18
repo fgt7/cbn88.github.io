@@ -167,12 +167,14 @@ http://iptvid.my.id/hmm/boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DAVINCI
 http://iptvid.my.id/hmm/davinci.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids", HOREE
+http://tvn.x10.mx/1/master-4.m3u8?dl=1
 http://iptvid.my.id/hmm/horee.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", DUNIA ANAK 
 http://iptvid.my.id/hmm/duniaanak.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", CARTOON NETWORK 
 http://iptvid.my.id/hmm/cn.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="Kids", ZOO MOO
+http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tvlive.my.id:25461/mat/mat/68
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DREAMWORK
 http://iptvid.my.id/hmm/drmwrk.m3u8
