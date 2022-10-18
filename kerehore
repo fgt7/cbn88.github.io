@@ -86,7 +86,7 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Local 2", RCTI
-http://iptvtree.net:8080/ace2524d/15a571c413/157591
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Local 2", MNCTV
@@ -95,7 +95,7 @@ http://203.77.246.50:5000/udp/239.1.3.78:5000
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_96000=2-avc1_800000=6.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Local 2", GTV 
-http://iptvtree.net:8080/ace2524d/15a571c413/157578
+http://54.151.201.145:5566/GG/Live/GtV/mpegts
 http://203.77.246.50:5000/udp/239.1.3.68:5000
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_96000=2-avc1_800000=6.m3u8
