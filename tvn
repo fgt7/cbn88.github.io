@@ -11,7 +11,7 @@ http://tvn.x10.mx/1/master-2.m3u8?dl=1
 http://tvn.x10.mx/1/master-3.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",HOREE
 http://tvn.x10.mx/1/master-4.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",citra dangdut
 http://tvn.x10.mx/1/master-5.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",Citra_Entertaiment
 http://tvn.x10.mx/1/master-6.m3u8?dl=1
@@ -23,11 +23,11 @@ http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tvn.x10.mx/1/master-9.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",RTV
 http://tvn.x10.mx/1/master-10.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",11
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",indosiar
 http://tvn.x10.mx/1/master-11.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",sctv
 http://tvn.x10.mx/1/master-12.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",13
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",moji
 http://tvn.x10.mx/1/master-13.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SHAREEXT@TVn_id.TV_DIGITAL",14
 http://tvn.x10.mx/1/master-14.m3u8?dl=1
