@@ -139,9 +139,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 ***Kids***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
-http://iptvid.my.id/hmm/mkidz.m3u8
 http://rr.dens.tv/h/h191/index.m3u8
+http://iptvid.my.id/hmm/mkidz.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Kids", ANIMAX
+http://iptvtree.net:8080/ace2524d/15a571c413/157486
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids", ANIPLUS
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
@@ -152,9 +153,9 @@ http://iptvid.my.id/hmm/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", NICKELODEON
 http://iptvid.my.id/hmm/nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="Kids", DISNEY CHANNEL
-http://38.123.205.70:8000/play/a0al/index.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/165075
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="Kids", DISNEY JUNIOR
-http://38.123.205.70:8000/play/a0bz/index.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/162511
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", BABY FIRST
 http://iptvid.my.id/hmm/babyfirst.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", BOOMERANG
@@ -195,7 +196,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="Knowledge", BBC EARTH
-https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/171979
 EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", SMITHSONIAN
 http://tvlive.my.id:25461/mat/mat/364
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Knowledge",HGTV
@@ -214,7 +215,7 @@ http://iptvtree.net:8080/ace2524d/15a571c413/196480
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Hbo & Fox", HBO FAMILY
 http://iptvtree.net:8080/ace2524d/15a571c413/197055
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="Hbo & Fox", CINEMAX
-http://180.211.90.134:8000/play/a04f
+http://iptvtree.net:8080/ace2524d/15a571c413/157519
 EXTINF:-1 tvg-id="" tvg-name="RED By HBO" tvg-logo="http://x1.cdn.broiptv.com/img/redbyhbo.png" group-title="Hbo & Fox", RED BY HBO
 http://180.211.90.134:8000/play/a056
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://x1.cdn.broiptv.com/img/fox.png" group-title="Hbo & Fox", FOX
