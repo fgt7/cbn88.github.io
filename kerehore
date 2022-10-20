@@ -285,7 +285,7 @@ http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports", USEESPORTS 1
 http://iptvid.my.id/hmm/useetl1.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports", USEESPORTS 2
-http://topwin-tv.my.id/2/master.m3u8?id=useesports2
+http://iptvid.my.id/hmm/useetl2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports", CHAMPION TV 1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports", CHAMPION TV 2
@@ -296,8 +296,6 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports", FOX SPORTS 2
 http://89.187.175.143:80/3028/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports", FOX SPORTS 3
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 1HD
 http://iptvtree.net:8080/ace2524d/15a571c413/109
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -308,8 +306,10 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 http://iptvtree.net:8080/ace2524d/15a571c413/280249
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 1
+http://iptvid.my.id/hmm/bskunyak1.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/100
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 2
+http://iptvid.my.id/hmm/bskunyak2.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/101
 
 
