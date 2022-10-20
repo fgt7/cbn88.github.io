@@ -287,29 +287,27 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports", USEESPORTS 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports", CHAMPION TV 1
-https://akumaymd.000webhostapp.com/master-7.m3u8
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports", CHAMPION TV 2
-https://akumaymd.000webhostapp.com/master-8.m3u8
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports", CHAMPION TV 3
-https://akumaymd.000webhostapp.com/master-9.m3u8
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports", FOX SPORTS 1
-http://qqtv.nl:8080/kevinp/kevinp/7894
+http://89.187.175.143:80/3056/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports", FOX SPORTS 2
-http://qqtv.nl:8080/kevinp/kevinp/7893
+http://89.187.175.143:80/3028/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports", FOX SPORTS 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 1HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 2HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/14
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 3HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 1
-http://174.138.184.166:25461/livesport_ios/livesport_android/16
+http://180.211.90.134:8000/play/a05c
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 2
-http://174.138.184.166:25461/livesport_ios/livesport_android/17
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 3
-http://174.138.184.166:25461/livesport_ios/livesport_android/18
+http://180.211.90.134:8000/play/a05e
 
 
 ***Hbo & Fox***
