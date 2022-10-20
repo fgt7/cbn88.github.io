@@ -127,14 +127,14 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://rr3.dens.tv/s/s46/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="Local 2", TVRI
 http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Local 2", DAAI TV 
-http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local 2", MYTV 
-http://rr3.dens.tv/s/s88/index2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Local 2", RODJA TV 
-http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Local 2", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Local 2", DAAI TV 
+http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="Local 2", MYTV 
+http://rr3.dens.tv/s/s88/index2.m3u8
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Local 2", RODJA TV 
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 
 ***Kids***
