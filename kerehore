@@ -299,15 +299,18 @@ http://89.187.175.143:80/3028/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports", FOX SPORTS 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 1HD
+http://iptvtree.net:8080/ace2524d/15a571c413/109
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 2HD
+http://iptvtree.net:8080/ace2524d/15a571c413/280145
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beINSports Premium 3HD
+http://iptvtree.net:8080/ace2524d/15a571c413/280249
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 1
-http://180.211.90.134:8000/play/a05c
+http://iptvtree.net:8080/ace2524d/15a571c413/100
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", BEIN SPORTS 2
-http://180.211.90.134:8000/play/a05e
+http://iptvtree.net:8080/ace2524d/15a571c413/101
 
 
 ***Hbo & Fox***
