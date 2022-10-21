@@ -241,28 +241,39 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 http://iptvid.my.id/hmm/cctv4.m3u8
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", FRANCE 24
+http://iptvid.my.id/hmm/france24.m3u8
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", DW
+http://iptvid.my.id/hmm/dwtv.m3u8
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", NHK ORLD JAPAN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", NHK WORLD
+http://iptvid.my.id/hmm/nhkw.m3u8
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", SONY GEM TV 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", GEM
+http://iptvid.my.id/hmm/sgem.m3u8
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", SONY ONE 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", ONE 
+http://iptvid.my.id/hmm/sone.m3u8
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="PREMIUM CHANNEL", CINEMA WORLD 
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES 
+http://iptvid.my.id/hmm/clstl.m3u8
 http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", ZEE BIOSKOP 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", ZEE BIOSKOP
+http://iptvid.my.id/hmm/zeeb.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="PREMIUM CHANNEL", THRILL 
+http://iptvid.my.id/hmm/thrill.m3u8
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", TV5 MONDE
+http://iptvid.my.id/hmm/tv5monde.m3u8
 http://210.210.155.35:80/uq2663/h/h01/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="PREMIUM CHANNEL", BLOOMBERG 
+http://iptvid.my.id/hmm/bloomberg.m3u8
 http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", EGG TV 
+http://iptvid.my.id/hmm/egg.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
@@ -296,6 +307,8 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS", NBA
 http://iptvid.my.id/hmm/nba.m3u8
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_new-horizonsport_small.png" group-title="SPORTS", HORISON SPORTS
+http://iptvid.my.id/hmm/horisonsport.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
 http://iptvid.my.id/hmm/useetl1.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
