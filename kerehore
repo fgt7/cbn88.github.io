@@ -217,21 +217,28 @@ http://iptvtree.net:8080/ace2524d/15a571c413/157532
 
 ***PREMIUM CHANNEL***
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="PREMIUM CHANNEL", TVN 
+http://iptvid.my.id/hmm/tvn.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="PREMIUM CHANNEL", TVN MOVIES 
+http://iptvid.my.id/hmm/tvnmovie.m3u8
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", AXN
 http://iptvid.my.id/hmm/axn.m3u8
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", KIX
+http://iptvid.my.id/hmm/kix.m3u8
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="PREMIUM CHANNEL", BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png?v=2.5" group-title="PREMIUM CHANNEL", ROCK ENTERTAINMENT
+http://iptvid.my.id/hmm/rock.m3u8
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="PREMIUM CHANNEL", BLUE ANT EXTREME 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantext_small.png?v=2" group-title="PREMIUM CHANNEL", ROCK EXTREME
+http://iptvid.my.id/hmm/rockext.m3u8
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", K+ 
+http://iptvid.my.id/hmm/kplus.m3u8
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", CCTV4
+http://iptvid.my.id/hmm/cctv4.m3u8
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", FRANCE 24
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
