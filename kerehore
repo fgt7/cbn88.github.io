@@ -220,7 +220,8 @@ http://iptvtree.net:8080/ace2524d/15a571c413/157532
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="PREMIUM CHANNEL", TVN MOVIES 
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="PPREMIUM CHANNEL", AXN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", AXN
+http://iptvid.my.id/hmm/axn.m3u8
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8 
