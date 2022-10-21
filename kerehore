@@ -143,8 +143,8 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 ***KIDS***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="KIDS", MY KIDS
-http://iptvid.my.id/hmm/mkidz.m3u8
 http://rr.dens.tv/h/h191/index.m3u8
+http://iptvid.my.id/hmm/mkidz.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
 http://iptvid.my.id/hmm/animax.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/157486
