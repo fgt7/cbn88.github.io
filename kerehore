@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-***Local***
+***LOCAL***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local", ANTV
 http://iptvid.my.id/hmm/antv.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/4
@@ -76,7 +76,7 @@ http://iptvid.my.id/hmm/jaktv.m3u8
 http://iptvid.my.id/hmm/ochannel.m3u8 
 
 
-***Local 2***
+***LOCAL 2***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local 2", ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Local 2", INDOSIAR
@@ -137,7 +137,7 @@ EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_sm
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 
 
-***Kids***
+***KIDS***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids", MY KIDS
 http://rr.dens.tv/h/h191/index.m3u8
 http://iptvid.my.id/hmm/mkidz.m3u8
@@ -176,7 +176,7 @@ http://tvlive.my.id:25461/mat/mat/68
 http://iptvid.my.id/hmm/drmwrk.m3u8
 
 
-***Knowledge***
+***KNOWLEDGE***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="Knowledge", CGTN DOCUMENTARY
 http://iptvid.my.id/hmm/cgtndoc.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", NATIONAL GEOGRAPHIC
@@ -207,7 +207,7 @@ http://iptvtree.net:8080/ace2524d/15a571c413/171979
 http://iptvtree.net:8080/ace2524d/15a571c413/157532
 
 
-***Premium Channel***
+***PREMIUM CHANNEL***
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Premium Channel", TVN 
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Premium Channel", TVN MOVIES 
@@ -250,7 +250,7 @@ http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
-***Religi***
+***RELIGI***
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="Religi", MUI TV
 http://iptvid.my.id/hmm/muitv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="Religi", TV9 NU
@@ -273,7 +273,7 @@ http://iptvid.my.id/hmm/rodjatv.m3u8
 http://iptvid.my.id/hmm/daaitv.m3u8
 
 
-***Sports***
+***SPORTS***
 #EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="Sports", FITE SPORT HD
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_fightsport_small.png" group-title="Sports", FIGHT SPORTS
@@ -311,7 +311,7 @@ http://iptvid.my.id/hmm/bskunyak2.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/101
 
 
-***Hbo & Fox***
+***HBO & FOX***
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="Hbo & Fox", HBO HD
 http://iptvtree.net:8080/ace2524d/15a571c413/266811
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Hbo & Fox", HBO SIGNATURE
