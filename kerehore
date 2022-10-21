@@ -146,7 +146,7 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 http://rr.dens.tv/h/h191/index.m3u8
 http://iptvid.my.id/hmm/mkidz.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
-http://iptvtree.net:8080/ace2524d/15a571c413/157486
+http://180.211.90.134:8000/play/a07j
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS", ANIPLUS
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
@@ -273,7 +273,6 @@ http://210.210.155.35:80/uq2663/h/h01/01.m3u8
 http://iptvid.my.id/hmm/bloomberg.m3u8
 http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", EGG TV 
-http://iptvid.my.id/hmm/egg.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
