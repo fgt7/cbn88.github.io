@@ -279,18 +279,18 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 
 ***RELIGI***
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="RELIGI", MUI TV
-http://iptvid.my.id/hmm/muitv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="RELIGI", TV9 NU
 http://iptvid.my.id/hmm/tv9.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" group-title="RELIGI", U CHANNEL
-http://iptvid.my.id/hmm/uchannel.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" group-title="RELIGI", ALQURAN KHAREEM
 http://iptvid.my.id/hmm/alquran.m3u8 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" group-title="RELIGI", TAWAF TV
 http://iptvid.my.id/hmm/tawaftv.m3u8 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" group-title="RELIGI", MQTV
+http://180.211.90.134:8000/play/a08y
 http://iptvid.my.id/hmm/mqtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="RELIGI", MUI TV
+http://180.211.90.134:8000/play/a092
+http://iptvid.my.id/hmm/muitv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="RELIGI", MTATV
 http://iptvid.my.id/hmm/mtatv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" group-title="RELIGI", MUHAMMADIYAH TV
@@ -299,6 +299,8 @@ http://iptvid.my.id/hmm/muhammadiyahtv.m3u8
 http://iptvid.my.id/hmm/rodjatv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="RELIGI",DAAI TV
 http://iptvid.my.id/hmm/daaitv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" group-title="RELIGI", U CHANNEL
+http://iptvid.my.id/hmm/uchannel.m3u8
 
 
 ***SPORTS***
