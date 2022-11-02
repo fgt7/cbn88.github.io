@@ -4,7 +4,6 @@
 ***LOCAL***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL", ANTV
 http://iptvid.my.id/hmm/antv.m3u8
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/4
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR
 http://iptvid.my.id/hmm/indosiar.m3u8
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
