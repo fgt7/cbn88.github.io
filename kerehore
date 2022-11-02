@@ -204,7 +204,7 @@ http://iptvid.my.id/hmm/crime.m3u8
 http://iptvid.my.id/hmm/lingua.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="KNOWLEDGE", LOVE NATURE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="KNOWLEDGE", LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
 http://tvlive.my.id:25461/mat/mat/364
