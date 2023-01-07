@@ -3,6 +3,7 @@
 
 ***LOCAL***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL", ANTV
+http://192.168.77.2:9981/stream/channelid/99806393?ticket=CE3D16265E4B8249C691D27660E96E30176F60AA&profile=pass
 http://iptvid.my.id/hmm/antv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR
 http://iptvid.my.id/hmm/indosiar.m3u8
