@@ -145,17 +145,21 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 http://rr.dens.tv/h/h191/index.m3u8
 http://iptvid.my.id/hmm/mkidz.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
+http://103.167.167.5:8111/play/a030/index.m3u8
 http://iptvid.my.id/hmm/animax.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/157486
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS", ANIPLUS
+http://103.167.167.5:8111/play/a033/index.m3u8
 http://iptvid.my.id/hmm/aniplus.m3u8
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg" group-title="KIDS", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", NICK JUNIOR 
+http://103.167.167.5:8111/play/a00f/index.m3u8
 http://iptvid.my.id/hmm/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", NICKELODEON
+http://103.167.167.5:8111/play/a00e/index.m3u8
 http://iptvid.my.id/hmm/nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/disney.png" group-title="KIDS", DISNEY CHANNEL
 http://iptvtree.net:8080/ace2524d/15a571c413/165075
@@ -172,8 +176,10 @@ http://iptvid.my.id/hmm/horee.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", DUNIA ANAK 
 http://iptvid.my.id/hmm/duniaanak.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", CARTOON NETWORK 
+http://103.167.167.5:8111/play/a00x/index.m3u8
 http://iptvid.my.id/hmm/cn.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="KIDS", WARNER 
+http://103.167.167.5:8111/play/a017/index.m3u8
 http://iptvid.my.id/hmm/wrnr.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_small.png" group-title="KIDS", INDIKIDS 
 http://iptvid.my.id/hmm/indikids.m3u8
