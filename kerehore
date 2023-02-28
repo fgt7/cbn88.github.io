@@ -9,6 +9,7 @@ http://iptvid.my.id/hmm/antv.m3u8
 http://iptvid.my.id/hmm/indosiar.m3u8
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL", RCTI
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8|user-agent=android-R+
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
 http://203.77.246.50:5000/udp/239.1.3.80:5000
