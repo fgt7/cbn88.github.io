@@ -94,8 +94,7 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL 2", INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL 2", RCTI
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677431103-866108a0aec26d2e6179e13834840af6-0-93c70b2048ffa36d723f9d3da50f219e|referer=https://m.rctiplus.com/
-https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/710540017.m3u8
+https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti|User-Agent=Dalvix/2.1.0
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL 2", MNCTV
