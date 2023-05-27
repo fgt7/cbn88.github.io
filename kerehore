@@ -3,9 +3,10 @@
 
 ***LOCAL***
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL", ANTV
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/165072
+https://kusnadipepenk.github.io/campeign/antv.m3u8
 http://iptvid.my.id/hmm/antv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL", INDOSIAR
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 http://iptvid.my.id/hmm/indosiar.m3u8
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL", RCTI
@@ -25,18 +26,19 @@ http://203.77.246.50:5000/udp/239.1.3.68:5000
 https://d1akid76fpbq4x.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_64000=2-avc1_800000=6.m3u8
 https://d2oaub8o4ti3xm.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL", SCTV
+https://kusnadipepenk.github.io/campeign/sctv.m3u8
 http://iptvid.my.id/hmm/sctv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="LOCAL", TRANS TV
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/162503
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 http://iptvid.my.id/hmm/transtv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="LOCAL", TRANS7
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/162502
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://iptvid.my.id/hmm/trans7.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="LOCAL", NET HD
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/80292
 http://iptvid.my.id/hmm/net.m3u8 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL", RTV
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/196457
+https://kusnadipepenk.github.io/campeign/rtv.m3u8
 http://iptvid.my.id/hmm/rtv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOCAL", INEWS
 https://kusnadipepenk.github.io/campeign/inews.m3u8
@@ -50,9 +52,10 @@ http://iptvid.my.id/hmm/dnln.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="LOCAL", BIOSKOP INDONESIA
 http://iptvid.my.id/hmm/biosid.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOCAL", METRO TV
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/165059
+https://kusnadipepenk.github.io/campeign/metro.m3u8
 http://iptvid.my.id/hmm/metrotv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="LOCAL", KOMPAS TV
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
 http://iptvid.my.id/hmm/kompastv.m3u8 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="LOCAL", JTV
 http://iptvid.my.id/hmm/jtv.m3u8
@@ -115,9 +118,11 @@ https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_960
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL 2", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="LOCAL 2", TRANS TV
+http://rr2.dens.tv/s/s05/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="LOCAL 2", TRANS7
+http://rr.dens.tv/h/h11/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="LOCAL 2", NET HD
